@@ -1,0 +1,5398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bluorng.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bluorng.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bluorng.com/collections/hoodies.atom"/>
+  <title>BLUORNG</title>
+  <updated>2025-07-12T17:59:01+05:30</updated>
+  <author>
+    <name>BLUORNG</name>
+  </author>
+  <entry>
+    <id>https://bluorng.com/products/9641173713176</id>
+    <published>2025-07-12T17:59:01+05:30</published>
+    <updated>2025-07-12T17:59:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/grey-favourite-hoodie"/>
+    <title>GREY FAVOURITE HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/gvtgvotufv.jpg?v=1741161176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Description</h2>
+  </div>
+  <div class="product-details-desc">
+      <p>THE BLUORNG GREY FAVOURITE HOODIE FEATURES THE BRAND'S ICONIC 'FAVOURITE CHILD' DESIGN. PERFECT FOR THE FAVOURITE SIBLING, THIS HOODIE IS DESIGNED TO HAVE THE SIGNATURE BLUORNG FIT.
+</p>
+    WITH AN OVERSIZED FIT AND A HOOD, THE HOODIE IS CREATED WITH 500 GSM COTTON FLEECE FABRIC. 
+        
+    
+      
+</div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Details</h2>
+  </div>
+  <div class="product-details-desc">
+      <p>100% Cotton Fleece </p>
+  <p>Weight - 500 GSM</p>
+  <p>Screen print</p>
+  <p>Reverse Wash only </p>
+  </div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>shipping</h2>
+  </div>
+  <div class="product-details-desc">
+  <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+  
+  </div>
+  </div>
+  </div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+  <table>
+    <tbody>
+      <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SHOULDER</th>
+      <th>LENGTH</th>
+      </tr>
+      <tr>
+      <td>XXXS</td>
+      <td>47"</td>
+      <td>23.5"</td>
+      <td>22.25"</td>
+      </tr>
+      <tr>
+      <td>XXS</td>
+      <td>49"</td>
+      <td>24.5"</td>
+      <td>23"</td>
+      </tr>
+      <tr>
+      <td>XS</td>
+      <td>51"</td>
+      <td>25.25"</td>
+      <td>23.75"</td>
+      </tr>
+      <tr>
+      <td>S</td>
+      <td>53"</td>
+      <td>26"</td>
+      <td>24.5"</td>
+      </tr>
+      <tr>
+      <td>M</td>
+      <td>55"</td>
+      <td>26.5"</td>
+      <td>25.5"</td>
+      </tr>
+      <tr>
+      <td>L</td>
+      <td>57"</td>
+      <td>27"</td>
+      <td>26.25"</td>
+      </tr>
+      <tr>
+      <td>XL</td>
+      <td>59"</td>
+      <td>27.5"</td>
+      <td>27"</td>
+      </tr>
+      <tr>
+      <td>XXL</td>
+      <td>61"</td>
+      <td>28"</td>
+      <td>27"</td>
+      </tr>
+      <tr>
+      <td>XXXL</td>
+      <td>63"</td>
+      <td>28.5"</td>
+      <td>28.5"</td>
+      </tr>
+      </tbody>
+    </table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4123GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>XXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4124GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>XS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4125GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>S</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4126GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>M</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4127GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>L</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4128GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>XL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4129GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>XXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4130GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9641173713176</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4131GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9674827858200</id>
+    <published>2025-07-12T17:58:47+05:30</published>
+    <updated>2025-07-12T17:58:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/brown-favourite-child-hoodie"/>
+    <title>BROWN FAVOURITE CHILD HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/D1.jpg?v=1741167824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p>THE BLUORNG BROWN FAVOURITE CHILD HOODIE FEATURES THE BRAND'S ICONIC 'FAVOURITE CHILD' DESIGN. PERFECT FOR THE FAVOURITE SIBLING, THIS HOODIE IS DESIGNED TO HAVE THE SIGNATURE BLUORNG FIT.</p>
+WITH AN OVERSIZED FIT AND A HOOD, THE HOODIE IS CREATED WITH 500 GSM COTTON FLEECE FABRIC.</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Fleece</p>
+<p>Weight - 500 GSM</p>
+<p>Screen print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>47"</td>
+<td>23.5"</td>
+<td>22.25"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>49"</td>
+<td>24.5"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>51"</td>
+<td>25.25"</td>
+<td>23.75"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>53"</td>
+<td>26"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>55"</td>
+<td>26.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>57"</td>
+<td>27"</td>
+<td>26.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>59"</td>
+<td>27.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>61"</td>
+<td>28"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>63"</td>
+<td>28.5"</td>
+<td>28.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4429BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>XXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4430BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>XS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4431BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>S</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4432BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>M</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4433BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>L</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4434BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>XL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4435BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>XXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4436BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9674827858200</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B4437BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9677814595864</id>
+    <published>2025-07-12T17:58:34+05:30</published>
+    <updated>2025-07-12T17:58:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/claw-stoop-zipper-hoodie"/>
+    <title>CLAW STOOP ZIPPER HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/scdwascqa.jpg?v=1741167744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            10995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span>Experience the exhilarating thrill of the CLAW STOOP ZIPPER HOODIE. The iconic eagles stooping is printed with a premium flock texture, giving it a luxurious and tactile feel. Plus, its oversized fit ensures maximum comfort and style. Order now to elevate your wardrobe to new heights!</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Fleece</p>
+<p>Weight - 500 GSM</p>
+<p>SCREEN PRINT AND FLOCK PRINT</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>WASH CARE</h2>
+</div>
+<div class="product-details-desc">
+<p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+<p>AVOID HARSHER DETERGENTS &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>47"</td>
+<td>23.5"</td>
+<td>22.25"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>49"</td>
+<td>24.5"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>51"</td>
+<td>25.25"</td>
+<td>23.75"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>53"</td>
+<td>26"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>55"</td>
+<td>26.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>57"</td>
+<td>27"</td>
+<td>26.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>59"</td>
+<td>27.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>61"</td>
+<td>28"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>63"</td>
+<td>28.5"</td>
+<td>28.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>XXXS</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4411CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>XXS</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4412CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>XS</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4413CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>S</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4414CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>M</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4415CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>L</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4416CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>XL</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4417CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>XXL</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4418CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9677814595864</id>
+      <title>XXXL</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B4419CLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565569843480</id>
+    <published>2025-07-12T17:58:11+05:30</published>
+    <updated>2025-07-12T17:58:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-sherpa-hoodie"/>
+    <title>BLACK SHERPA HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/DSC05697copy.jpg?v=1732192319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+     
+      <p><span>MAKE A STATEMENT WITH BLUORNG'S BLACK SHERPA FLEECE HOODIE . FEATURING AN OVERSIZED FIT AND BOLD LEATHER PATCHWORK, THIS PREMIUM HOODIE IS THE PERFECT MIX OF COMFORT AND STYLE. IDEAL FOR ANY OCCASION, IT BRINGS TOGETHER COZINESS WITH STREETWEAR VIBES.</span>
+      <br>
+      <span>MADE WITH PREMIUM MATERIALS, THIS HOODIE COMBINES STYLE AND FUNCTION, MAKING IT A MUST-HAVE FOR ANY UNISEX WARDROBE.</span>
+    </p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% FLEECE, LINED WITH COTTON JERSEY</p>
+      <p>WEIGHT - 450 GSM</p>
+      <p>LEATHER PATCH WORK</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+        <p>MACHINE WASH SHERPA WOOL ON A COOL SETTING. DO NOT BLEACH. AIR DRY ONLY &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+      </div>
+      </div>  
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>PRE ORDER.</p>
+      <p>FREE DELIVERY PAN-INDIA.</p>
+      <p>DISPATCHES DECEMBER 14.</p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+  <table>
+    <tbody>
+    <tr>
+    <th>SIZE</th>
+    <th>CHEST</th>
+    <th>SHOULDER</th>
+    <th>LENGTH</th>
+    </tr>
+    <tr>
+    <td>XXXS</td>
+    <td>47"</td>
+    <td>23.5"</td>
+    <td>22.25"</td>
+    </tr>
+    <tr>
+    <td>XXS</td>
+    <td>49"</td>
+    <td>24.5"</td>
+    <td>23"</td>
+    </tr>
+    <tr>
+    <td>XS</td>
+    <td>51"</td>
+    <td>25.25"</td>
+    <td>23.75"</td>
+    </tr>
+    <tr>
+    <td>S</td>
+    <td>53"</td>
+    <td>26"</td>
+    <td>24.5"</td>
+    </tr>
+    <tr>
+    <td>M</td>
+    <td>55"</td>
+    <td>26.5"</td>
+    <td>25.5"</td>
+    </tr>
+    <tr>
+    <td>L</td>
+    <td>57"</td>
+    <td>27"</td>
+    <td>26.25"</td>
+    </tr>
+    <tr>
+    <td>XL</td>
+    <td>59"</td>
+    <td>27.5"</td>
+    <td>27"</td>
+    </tr>
+    <tr>
+    <td>XXL</td>
+    <td>61"</td>
+    <td>28"</td>
+    <td>27"</td>
+    </tr>
+    <tr>
+    <td>XXXL</td>
+    <td>63"</td>
+    <td>28.5"</td>
+    <td>28.5"</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic hoodie</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3676BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>XXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3677BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>XS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3678BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>S</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3679BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>M</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3680BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>L</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3681BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>XL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3682BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>XXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3683BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565569843480</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3684BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565575053592</id>
+    <published>2025-07-12T17:57:57+05:30</published>
+    <updated>2025-07-12T17:57:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/cream-sherpa-hoodie"/>
+    <title>CREAM SHERPA HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Artboard3.jpg?v=1733496793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+     
+      <p><span>THE CREAM SHERPA FLEECE HOODIE BY BLUORNG OFFERS A PERFECT MIX OF OVERSIZED COMFORT AND BOLD LEATHER PATCHWORK, MAKING IT AN ESSENTIAL PIECE FOR ANY UNISEX WARDROBE.</span>
+      <br>
+      <span>RAFTED WITH PREMIUM MATERIALS, THIS HOODIE COMBINES STYLE AND COZINESS, GIVING YOU A GO-TO PIECE THAT WORKS FOR BOTH CASUAL AND STREETWEAR LOOKS.</span>
+    </p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% FLEECE, LINED WITH COTTON JERSEY</p>
+      <p>WEIGHT - 450 GSM</p>
+      <p>LEATHER PATCH WORK</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+        <p>MACHINE WASH SHERPA WOOL ON A COOL SETTING. DO NOT BLEACH. AIR DRY ONLY &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+      </div>
+      </div>  
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>PRE ORDER.</p>
+      <p>FREE DELIVERY PAN-INDIA.</p>
+      <p>DISPATCHES DECEMBER 14.</p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+  <table>
+    <tbody>
+    <tr>
+    <th>SIZE</th>
+    <th>CHEST</th>
+    <th>SHOULDER</th>
+    <th>LENGTH</th>
+    </tr>
+    <tr>
+    <td>XXXS</td>
+    <td>47"</td>
+    <td>23.5"</td>
+    <td>22.25"</td>
+    </tr>
+    <tr>
+    <td>XXS</td>
+    <td>49"</td>
+    <td>24.5"</td>
+    <td>23"</td>
+    </tr>
+    <tr>
+    <td>XS</td>
+    <td>51"</td>
+    <td>25.25"</td>
+    <td>23.75"</td>
+    </tr>
+    <tr>
+    <td>S</td>
+    <td>53"</td>
+    <td>26"</td>
+    <td>24.5"</td>
+    </tr>
+    <tr>
+    <td>M</td>
+    <td>55"</td>
+    <td>26.5"</td>
+    <td>25.5"</td>
+    </tr>
+    <tr>
+    <td>L</td>
+    <td>57"</td>
+    <td>27"</td>
+    <td>26.25"</td>
+    </tr>
+    <tr>
+    <td>XL</td>
+    <td>59"</td>
+    <td>27.5"</td>
+    <td>27"</td>
+    </tr>
+    <tr>
+    <td>XXL</td>
+    <td>61"</td>
+    <td>28"</td>
+    <td>27"</td>
+    </tr>
+    <tr>
+    <td>XXXL</td>
+    <td>63"</td>
+    <td>28.5"</td>
+    <td>28.5"</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3694CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>XXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3695CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>XS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3696CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>S</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3697CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>M</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3698CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>L</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3699CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>XL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3700CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>XXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3701CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565575053592</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3702CREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565579280664</id>
+    <published>2025-07-12T17:57:44+05:30</published>
+    <updated>2025-07-12T17:57:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/green-sherpa-hoodie"/>
+    <title>GREEN SHERPA HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Artboard9.jpg?v=1733496767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span>THE GREEN SHERPA FLEECE HOODIE BY BLUORNG COMBINES AN OVERSIZED FIT WITH STRIKING LEATHER PATCHWORK, MAKING IT A STAPLE FOR ANY UNISEX WARDROBE. </span> <br><span>MADE WITH PREMIUM MATERIALS, THIS HOODIE DELIVERS BOTH COMFORT AND STYLE, MAKING IT A PERFECT CHOICE FOR CASUAL AND STREETWEAR LOOKS ALIKE.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% FLEECE, LINED WITH COTTON JERSEY</p>
+<p>WEIGHT - 450 GSM</p>
+<p>LEATHER PATCH WORK</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>WASH CARE</h2>
+</div>
+<div class="product-details-desc">
+<p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+<p>MACHINE WASH SHERPA WOOL ON A COOL SETTING. DO NOT BLEACH. AIR DRY ONLY &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>PRE ORDER.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES DECEMBER 14.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>47"</td>
+<td>23.5"</td>
+<td>22.25"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>49"</td>
+<td>24.5"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>51"</td>
+<td>25.25"</td>
+<td>23.75"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>53"</td>
+<td>26"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>55"</td>
+<td>26.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>57"</td>
+<td>27"</td>
+<td>26.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>59"</td>
+<td>27.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>61"</td>
+<td>28"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>63"</td>
+<td>28.5"</td>
+<td>28.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3712GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>XXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3713GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>XS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3714GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>S</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3715GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>M</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3716GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>L</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3717GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>XL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3718GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>XXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3719GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565579280664</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3720GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565580034328</id>
+    <published>2025-07-12T17:57:33+05:30</published>
+    <updated>2025-07-12T17:57:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/blue-sherpa-hoodie"/>
+    <title>BLUE SHERPA HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Artboard1copy.jpg?v=1733496746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span>THE BLUE SHERPA FLEECE HOODIE BY BLUORNG BLENDS OVERSIZED COMFORT WITH EDGY LEATHER PATCHWORK DETAILS, MAKING IT A STANDOUT FOR ANY UNISEX WARDROBE.</span><br><span>WITH ITS PREMIUM QUALITY AND STREETWEAR VIBES, THIS HOODIE IS PERFECT FOR ANYONE LOOKING TO ADD A UNIQUE AND VERSATILE PIECE TO THEIR COLLECTION.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% FLEECE, LINED WITH COTTON JERSEY</p>
+<p>WEIGHT - 450 GSM</p>
+<p>LEATHER PATCH WORK</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>WASH CARE</h2>
+</div>
+<div class="product-details-desc">
+<p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+<p>MACHINE WASH SHERPA WOOL ON A COOL SETTING. DO NOT BLEACH. AIR DRY ONLY &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>PRE ORDER.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES DECEMBER 14.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>47"</td>
+<td>23.5"</td>
+<td>22.25"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>49"</td>
+<td>24.5"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>51"</td>
+<td>25.25"</td>
+<td>23.75"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>53"</td>
+<td>26"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>55"</td>
+<td>26.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>57"</td>
+<td>27"</td>
+<td>26.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>59"</td>
+<td>27.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>61"</td>
+<td>28"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>63"</td>
+<td>28.5"</td>
+<td>28.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic hoodie</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3730BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>XXS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3731BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>XS</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3732BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>S</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3733BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>M</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3734BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>L</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3735BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>XL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3736BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>XXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3737BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565580034328</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8495.00</s:price>
+      <s:sku>B3738BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565813473560</id>
+    <published>2024-11-22T13:29:53+05:30</published>
+    <updated>2024-11-22T13:29:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/olive-nocturnal-hoodie"/>
+    <title>OLIVE NOCTURNAL HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/IMG_7865.jpg?v=1733473030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            13995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8"><span data-sheets-root="1">THE OLIVE NOCTURNAL HOODIE BY BLUORNG IS THE PERFECT BLEND OF COMFORT AND STYLE. WITH ITS PREMIUM OVERSIZED UNISEX FIT AND 7,50,000 INDIVIDUAL EMBROIDERY STITCHES ON THE FRONT AND BACK, IT'S MADE FROM 100% BRUSHED COTTON FLEECE, MAKING IT SUPER SOFT AND COZY. <br><br>IDEAL FOR YOUR STREETWEAR COLLECTION, THIS HOODIE OFFERS BOTH FASHION AND FUNCTION. IT'S A MUST-HAVE PIECE THAT BRINGS COMFORT AND STYLE TOGETHER IN A WAY YOU'LL LOVE.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% BRUSHED COTTON FLEECE</p>
+<p>WEIGHT - 450 GSM</p>
+<p>EMBROIDERY FRONT AND BACK</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>WASH CARE</h2>
+</div>
+<div class="product-details-desc">
+<p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+<p>AVOID HARSHER DETERGENTS &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>SHIPPED WITHIN 24 HOURS.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES NEXT DAY.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>47"</td>
+<td>23.5"</td>
+<td>22.25"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>49"</td>
+<td>24.5"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>51"</td>
+<td>25.25"</td>
+<td>23.75"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>53"</td>
+<td>26"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>55"</td>
+<td>26.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>57"</td>
+<td>27"</td>
+<td>26.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>59"</td>
+<td>27.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>61"</td>
+<td>28"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>63"</td>
+<td>28.5"</td>
+<td>28.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>XXXS</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3916OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>XXS</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3917OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>XS</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3918OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>S</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3919OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>M</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3920OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>L</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3921OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>XL</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3922OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>XXL</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3923OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565813473560</id>
+      <title>XXXL</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3924OLIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565808623896</id>
+    <published>2024-11-22T13:29:16+05:30</published>
+    <updated>2024-11-22T13:29:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-nocturnal-hoodie"/>
+    <title>BLACK NOCTURNAL HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/rwfdeccsx.jpg?v=1732202045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            13995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+     
+      <p><span>THE BLACK NOCTURNAL HOODIE BY BLUORNG IS THE PERFECT BLEND OF COMFORT AND STYLE. WITH ITS PREMIUM OVERSIZED UNISEX FIT AND 7,50,000 INDIVIDUAL EMBROIDERY STITCHES ON THE FRONT AND BACK, IT'S MADE FROM 100% BRUSHED COTTON FLEECE, MAKING IT SUPER SOFT AND COZY. </span>
+      <br>
+      <span>IDEAL FOR YOUR STREETWEAR COLLECTION, THIS HOODIE OFFERS BOTH FASHION AND FUNCTION. IT'S A MUST-HAVE PIECE THAT BRINGS COMFORT AND STYLE TOGETHER IN A WAY YOU'LL LOVE.</span>
+    </p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% BRUSHED COTTON FLEECE</p>
+      <p>WEIGHT - 450 GSM</p>
+      <p>EMBROIDERY FRONT AND BACK</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+        <p>AVOID HARSHER DETERGENTS &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+      </div>
+      </div>  
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>SHIPPED WITHIN 24 HOURS.</p>
+      <p>FREE DELIVERY PAN INDIA.</p>
+      <p>DISPATCH NEXT DAY.</p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+  <table>
+    <tbody>
+      <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SHOULDER</th>
+      <th>LENGTH</th>
+      </tr>
+      <tr>
+      <td>XXXS</td>
+      <td>47"</td>
+      <td>23.5"</td>
+      <td>22.25"</td>
+      </tr>
+      <tr>
+      <td>XXS</td>
+      <td>49"</td>
+      <td>24.5"</td>
+      <td>23"</td>
+      </tr>
+      <tr>
+      <td>XS</td>
+      <td>51"</td>
+      <td>25.25"</td>
+      <td>23.75"</td>
+      </tr>
+      <tr>
+      <td>S</td>
+      <td>53"</td>
+      <td>26"</td>
+      <td>24.5"</td>
+      </tr>
+      <tr>
+      <td>M</td>
+      <td>55"</td>
+      <td>26.5"</td>
+      <td>25.5"</td>
+      </tr>
+      <tr>
+      <td>L</td>
+      <td>57"</td>
+      <td>27"</td>
+      <td>26.25"</td>
+      </tr>
+      <tr>
+      <td>XL</td>
+      <td>59"</td>
+      <td>27.5"</td>
+      <td>27"</td>
+      </tr>
+      <tr>
+      <td>XXL</td>
+      <td>61"</td>
+      <td>28"</td>
+      <td>27"</td>
+      </tr>
+      <tr>
+      <td>XXXL</td>
+      <td>63"</td>
+      <td>28.5"</td>
+      <td>28.5"</td>
+      </tr>
+      </tbody>
+    </table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>XXXS</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3898BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>XXS</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3899BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>XS</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3900BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>S</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3901BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>M</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3902BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>L</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3903BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>XL</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3904BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>XXL</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3905BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565808623896</id>
+      <title>XXXL</title>
+      <s:price currency="INR">13995.00</s:price>
+      <s:sku>B3906BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7562871767234</id>
+    <published>2024-07-31T18:00:37+05:30</published>
+    <updated>2024-07-31T18:00:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/blu-snake-hoodie"/>
+    <title>BLU SNAKE HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/blu-snake-hoodie-519506.jpg?v=1666812366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+        <p>Snakes represent fertility or a creative life force. As snakes shed their skin through sloughing, they are symbols of rebirth, transformation, immortality, and healing.</p>
+        <p>Front - Branding (in puff)</p>
+        <p>Right sleeve say 'Snakes say eggs' | Left sleeve got 'BG' and logo branding</p>
+        <p>Allow 24 Hrs to ship</p>
+</div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>100% Cotton</p>
+    <p>Weight - 400GSM</p>
+    <p>Screen print</p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Wash Care</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>Use cold water to protect against fading &amp; shrinking.</p>
+    <p>Avoid harsher detergents &amp; turn inside out for the wash.</p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+    
+    
+           
+    
+    
+    
+    <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <span class="upper-close-container" onclick="removeGuide()">
+    <span></span>
+    </span>
+    <div class="size-header">
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    </div>
+    <div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>XXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2055BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>XS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2056BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>S</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2057BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>M</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2058BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>L</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2059BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>XL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2060BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>XXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2061BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7562871767234</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2062BLUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7571308708034</id>
+    <published>2024-07-31T18:00:36+05:30</published>
+    <updated>2024-07-31T18:00:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-kraken-hoodie"/>
+    <title>BLACK KRAKEN HOODIE</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/black-kraken-hoodie-109065.jpg?v=1667677513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            8995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+        <p>The Kraken is a legendary sea monster of enormous size said to appear off the coasts of Norway. Branding (in puff)</p>
+</div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>100% Cotton</p>
+    <p>Weight - 400GSM</p>
+    <p>Screen print</p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Wash Care</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>Use cold water to protect against fading &amp; shrinking.</p>
+    <p>Avoid harsher detergents &amp; turn inside out for the wash.</p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+     <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+    
+    
+           
+    
+    
+    
+    <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <span class="upper-close-container" onclick="removeGuide()">
+    <span></span>
+    </span>
+    <div class="size-header">
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    </div>
+    <div class="chart-container">
+ <table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>XXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2015BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>XS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2016BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>S</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2017BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>M</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2018BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>L</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2019BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>XL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2020BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>XXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2021BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7571308708034</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B2022BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8064489488664</id>
+    <published>2024-07-31T18:00:29+05:30</published>
+    <updated>2024-07-31T18:00:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/copy-of-basic-red-hoodie"/>
+    <title>BASIC BLACK HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/basic-black-hoodie-238189.jpg?v=1671744050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+        <p>Blu 1031 T-shirt is in sky blue. The design is inspired from the angel numbers '1031' and is available in black. It is 100% terry cotton, 240 GSM and screen printed . The fit is a Bluorng’s signature oversized fit.</p>
+</div>
+    </div>
+    <div class="product-details">
+        <div class="product-details-title">
+        <h2>Details</h2>
+        </div>
+        <div class="product-details-desc">
+        <p>100% Cotton</p>
+        <p>Weight - 240 GSM</p>
+        <p>High-Density Print</p>
+        <p>Reverse wash only</p>
+        </div>
+        </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+      
+      
+      
+      
+      
+      
+      
+    <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <span class="upper-close-container" onclick="removeGuide()">
+    <span></span>
+    </span>
+    <div class="size-header">
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    </div>
+    <div class="chart-container">
+  <table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>XXS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1886BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1887BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>S</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1888BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>M</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1889BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>L</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1890BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>XL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1891BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>XXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1892BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489488664</id>
+      <title>XXXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1893BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7141715345602</id>
+    <published>2024-06-27T19:17:34+05:30</published>
+    <updated>2024-06-27T19:17:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/basic-black-hoodie"/>
+    <title>Basic Hoodie Black</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/basic-hoodie-black-372947.jpg?v=1641288674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>Basic Black Hoodie. Features branding in Flock print on the front. Heavy weight 100% cotton Terry Hoodie. This product will be shipped within 48 hrs (2 business days).</p>
+</div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>100% Cotton</p>
+    <p>Weight - 400 GSM</p>
+    <p>Flock Print</p>
+      <p>DO NOT IRON THE PRINT</p>
+      <p>WASH DARK COLOR SEPARATELY</p>
+      <p>Product will slightly shrink after the first wash</p>
+      <p>Reverse Wash only</p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+      
+      
+      
+      
+      
+      
+      
+    <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path><path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class=""></path></g></svg>
+    <span class="upper-close-container" onclick="removeGuide()">
+    <span></span>
+    </span>
+    <div class="size-header">
+    <div class="svg">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30.623" height="34.093" viewbox="0 0 30.623 34.093">
+    <g id="mesurement" transform="translate(0 0.004)">
+    <g id="Group_491" data-name="Group 491" transform="translate(0 -0.004)">
+    <path id="Path_9659" data-name="Path 9659" d="M20.036.344A50.29,50.29,0,0,0,13.636,0C5.99,0,0,2.993,0,6.816v9.091c0,3.059,3.854,5.635,9.531,6.5q-2.5,1.8-5.032,3.541a1.133,1.133,0,0,0-.063,1.822l7.582,6.066a1.143,1.143,0,0,0,1.385.031q1.9-1.387,3.715-2.882,1.747-1.437,3.409-2.974c.006-.006.014-.008.019-.014l0-.007q1.591-1.47,3.093-3.032c.012-.011.028-.016.039-.029s.009-.019.015-.027q1.075-1.115,2.1-2.279c1.893-2.172,4.249-4.873,4.7-8.2C30.949,11.031,30.317,6,27.028,3,24.974,1.111,22.342.639,20.036.344Zm-6.4.79c6.776,0,12.5,2.6,12.5,5.682,0,3.682-7.33,5.682-12.5,5.682-6.776,0-12.5-2.6-12.5-5.682S6.861,1.135,13.636,1.135ZM1.136,15.907V9.586c2.085,2.405,6.837,4.049,12.5,4.049a23.34,23.34,0,0,0,8.745-1.548,117.006,117.006,0,0,1-11.018,8.988V18.18a.568.568,0,0,0-1.136,0v3.182A21.852,21.852,0,0,1,7.386,20.8V17.612a.568.568,0,0,0-1.136,0v2.841a13.821,13.821,0,0,1-2.273-1V15.907a.568.568,0,1,0-1.136,0v2.8A3.732,3.732,0,0,1,1.136,15.907ZM12.727,32.953,5.143,26.889q1.384-.951,2.756-1.918a2.443,2.443,0,0,0,1.686.359,1.331,1.331,0,0,1,1.6,1.153A2.465,2.465,0,0,0,13.977,28.5a1.341,1.341,0,0,1,1.6,1.158,3.115,3.115,0,0,0,.32.861q-1.555,1.256-3.171,2.435ZM29.37,14.271a8.714,8.714,0,0,1-.8,2.585l-.808-1.136a.568.568,0,1,0-.926.659l1.131,1.591a21.467,21.467,0,0,1-1.827,2.514l-1.581-1.808a.568.568,0,1,0-.856.748l1.691,1.939q-1.059,1.234-2.18,2.413l-2.386-2.045a.568.568,0,1,0-.739.863L22.425,24.6q-1.137,1.16-2.326,2.267l-2.685-2.3a.568.568,0,1,0-.739.864l2.585,2.213c-.8.723-1.623,1.432-2.463,2.131a3.31,3.31,0,0,1-.119-.394,2.459,2.459,0,0,0-2.788-2.013A1.347,1.347,0,0,1,12.287,26.2,2.448,2.448,0,0,0,9.5,24.2a2.522,2.522,0,0,1-.511,0c6.466-4.6,14.189-10.545,17.1-14.561a4.336,4.336,0,0,0,1.182-2.759c.03-1.786-1.225-3.2-2.721-4.2a7.3,7.3,0,0,1,1.718,1.151c2.772,2.535,3.555,7.069,3.1,10.439Z" transform="translate(0 0.004)" fill="#c9c9c9"></path>
+    <path id="Path_9660" data-name="Path 9660" d="M18.369,11.685c2.324,0,6.2-.667,7.2-2.773.678-1.43-.5-2.9-1.827-3.794a12.981,12.981,0,0,0-4.078-1.694,1.54,1.54,0,0,0-1.281.245,1.567,1.567,0,0,0-.518.639C13.923,4.437,11,5.985,11,7.992,11,10.671,15.475,11.685,18.369,11.685Zm4.172-1.818.2-4.038c.127.076.249.153.366.232C25.245,7.5,25.2,8.87,22.541,9.867ZM18.873,4.914V4.9a.426.426,0,0,1,.176-.313.4.4,0,0,1,.337-.066,15.355,15.355,0,0,1,2.248.746l-.249,4.947a12.835,12.835,0,0,1-2.918.332ZM17.7,5.452l-.363,5.057c-3.131-.226-5.2-1.442-5.2-2.516C12.136,6.869,14.389,5.612,17.7,5.452Z" transform="translate(-4.75 -1.456)" fill="#c9c9c9"></path>
+    <path id="Path_9661" data-name="Path 9661" d="M21.818,10a.568.568,0,0,0-.568.568v.568a.568.568,0,1,0,1.136,0v-.568A.568.568,0,0,0,21.818,10ZM15.923,31.715a.568.568,0,0,0-.71.888l2.841,2.273a.568.568,0,0,0,.71-.888Z" transform="translate(-6.477 -4.316)" fill="#c9c9c9"></path>
+    </g>
+    </g>
+    </svg>
+    
+    </div>
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    <p>BLUORNG helps you find your perfect fit.</p>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    <span class="chart-line">
+    <div class="fill-line"></div>
+    </span>
+    </div>
+    <div class="chart-container">
+    <div class="img">
+    <img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Hoddies_-_1.jpg?v=1678458729" alt="">
+    </div>
+ <table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic black</s:tag>
+    <s:tag>basic hoodie</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black basic</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>XXS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2662BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2663BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>S</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2664BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>M</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2665BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>L</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2666BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>XL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2667BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>XXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2668BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7141715345602</id>
+      <title>XXXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2669BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7081084944578</id>
+    <published>2024-06-27T19:17:19+05:30</published>
+    <updated>2024-06-27T19:17:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/free-me-hoodie"/>
+    <title>Free Me Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/free-me-hoodie-880947.jpg?v=1641288672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            6995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+  <div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+      <p><span>Ring us for the escape plan, or if calling is not your thing - you can drop an email. Features high density Hand done screen prints Heavy weight 100% cotton Terry hoodie. This product is at Pre-order, allow at least 15 business days to ship.</span></p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>-100% cotton</p>
+      <p>-Weight - 370 GSM</p>
+      <p>-High Density Print</p>
+      <p>-Reverse Wash only</p>
+    </div>
+    </div> 
+    <!-- <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day</p>
+    </div>
+    </div> -->
+    </div>
+<!--    -->
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path><path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class=""></path></g></svg>
+<span class="upper-close-container" onclick="removeGuide()">
+<span></span>
+</span>
+<div class="size-header">
+<div class="svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="30.623" height="34.093" viewbox="0 0 30.623 34.093">
+<g id="mesurement" transform="translate(0 0.004)">
+<g id="Group_491" data-name="Group 491" transform="translate(0 -0.004)">
+  <path id="Path_9659" data-name="Path 9659" d="M20.036.344A50.29,50.29,0,0,0,13.636,0C5.99,0,0,2.993,0,6.816v9.091c0,3.059,3.854,5.635,9.531,6.5q-2.5,1.8-5.032,3.541a1.133,1.133,0,0,0-.063,1.822l7.582,6.066a1.143,1.143,0,0,0,1.385.031q1.9-1.387,3.715-2.882,1.747-1.437,3.409-2.974c.006-.006.014-.008.019-.014l0-.007q1.591-1.47,3.093-3.032c.012-.011.028-.016.039-.029s.009-.019.015-.027q1.075-1.115,2.1-2.279c1.893-2.172,4.249-4.873,4.7-8.2C30.949,11.031,30.317,6,27.028,3,24.974,1.111,22.342.639,20.036.344Zm-6.4.79c6.776,0,12.5,2.6,12.5,5.682,0,3.682-7.33,5.682-12.5,5.682-6.776,0-12.5-2.6-12.5-5.682S6.861,1.135,13.636,1.135ZM1.136,15.907V9.586c2.085,2.405,6.837,4.049,12.5,4.049a23.34,23.34,0,0,0,8.745-1.548,117.006,117.006,0,0,1-11.018,8.988V18.18a.568.568,0,0,0-1.136,0v3.182A21.852,21.852,0,0,1,7.386,20.8V17.612a.568.568,0,0,0-1.136,0v2.841a13.821,13.821,0,0,1-2.273-1V15.907a.568.568,0,1,0-1.136,0v2.8A3.732,3.732,0,0,1,1.136,15.907ZM12.727,32.953,5.143,26.889q1.384-.951,2.756-1.918a2.443,2.443,0,0,0,1.686.359,1.331,1.331,0,0,1,1.6,1.153A2.465,2.465,0,0,0,13.977,28.5a1.341,1.341,0,0,1,1.6,1.158,3.115,3.115,0,0,0,.32.861q-1.555,1.256-3.171,2.435ZM29.37,14.271a8.714,8.714,0,0,1-.8,2.585l-.808-1.136a.568.568,0,1,0-.926.659l1.131,1.591a21.467,21.467,0,0,1-1.827,2.514l-1.581-1.808a.568.568,0,1,0-.856.748l1.691,1.939q-1.059,1.234-2.18,2.413l-2.386-2.045a.568.568,0,1,0-.739.863L22.425,24.6q-1.137,1.16-2.326,2.267l-2.685-2.3a.568.568,0,1,0-.739.864l2.585,2.213c-.8.723-1.623,1.432-2.463,2.131a3.31,3.31,0,0,1-.119-.394,2.459,2.459,0,0,0-2.788-2.013A1.347,1.347,0,0,1,12.287,26.2,2.448,2.448,0,0,0,9.5,24.2a2.522,2.522,0,0,1-.511,0c6.466-4.6,14.189-10.545,17.1-14.561a4.336,4.336,0,0,0,1.182-2.759c.03-1.786-1.225-3.2-2.721-4.2a7.3,7.3,0,0,1,1.718,1.151c2.772,2.535,3.555,7.069,3.1,10.439Z" transform="translate(0 0.004)" fill="#c9c9c9"></path>
+  <path id="Path_9660" data-name="Path 9660" d="M18.369,11.685c2.324,0,6.2-.667,7.2-2.773.678-1.43-.5-2.9-1.827-3.794a12.981,12.981,0,0,0-4.078-1.694,1.54,1.54,0,0,0-1.281.245,1.567,1.567,0,0,0-.518.639C13.923,4.437,11,5.985,11,7.992,11,10.671,15.475,11.685,18.369,11.685Zm4.172-1.818.2-4.038c.127.076.249.153.366.232C25.245,7.5,25.2,8.87,22.541,9.867ZM18.873,4.914V4.9a.426.426,0,0,1,.176-.313.4.4,0,0,1,.337-.066,15.355,15.355,0,0,1,2.248.746l-.249,4.947a12.835,12.835,0,0,1-2.918.332ZM17.7,5.452l-.363,5.057c-3.131-.226-5.2-1.442-5.2-2.516C12.136,6.869,14.389,5.612,17.7,5.452Z" transform="translate(-4.75 -1.456)" fill="#c9c9c9"></path>
+  <path id="Path_9661" data-name="Path 9661" d="M21.818,10a.568.568,0,0,0-.568.568v.568a.568.568,0,1,0,1.136,0v-.568A.568.568,0,0,0,21.818,10ZM15.923,31.715a.568.568,0,0,0-.71.888l2.841,2.273a.568.568,0,0,0,.71-.888Z" transform="translate(-6.477 -4.316)" fill="#c9c9c9"></path>
+</g>
+</g>
+</svg>
+</div>
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+<p>BLUORNG helps you find your perfect fit.</p>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+<span class="chart-line">
+<div class="fill-line"></div>
+</span>
+</div>
+<div class="chart-container">
+<div class="img">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/SIZE_GUIDE_03.png?v=1677604631" alt="">
+</div>
+<table>
+    <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SHOULDER</th>
+      <th>LENGTH</th>
+    </tr>
+    <tr>
+      <td>XS</td>
+      <td>48"</td>
+      <td>23.5"</td>
+      <td>27"</td>
+    </tr>
+    <tr>
+        <td>S</td>
+        <td>49"</td>
+<td>24"</td>
+<td>28"</td>
+      </tr>
+      <tr>
+        <td>M</td>
+        <td>51"</td>
+<td>25"</td>
+<td>28.5"</td>
+      </tr>
+      <tr>
+        <td>L</td>
+        <td>52"</td>
+<td>25"</td>
+<td>29"</td>
+      </tr>
+      <tr>
+        <td>XL</td>
+        <td>53"</td>
+<td>25.5"</td>
+<td>29"</td>
+      </tr>
+      <tr>
+        <td>XXL</td>
+        <td>54"</td>
+<td>26.5"</td>
+<td>30"</td>
+        </tr>
+  </table>
+</div>
+</div>
+</div>
+  </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>XXS</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2703FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>XS</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2704FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>S</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2705FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>M</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2706FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>L</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2707FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>XL</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2708FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>XXL</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2709FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081084944578</id>
+      <title>XXXL</title>
+      <s:price currency="INR">6995.00</s:price>
+      <s:sku>B2710FREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7136173850818</id>
+    <published>2024-06-27T19:16:54+05:30</published>
+    <updated>2024-06-27T19:16:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/basic-hoodie-grey"/>
+    <title>BASIC HOODIE GREY</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/basic-hoodie-grey-852068.jpg?v=1641288682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Description</h2>
+  </div>
+  <div class="product-details-desc">
+  <p><span>Basic Grey Hoodie. Features branding in Flock print on the front. Heavy weight 100% cotton Terry Hoodie. This product will be shipped within 48 hrs (2 business days).</span></p>
+  </div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Details</h2>
+  </div>
+  <div class="product-details-desc">
+    <p>-100% cotton</p>
+    <p>-Weight - 380 GSM</p>
+    <p>-Flock Print</p>
+    <p>-DO NOT IRON THE PRINT</p>
+    <p>-Product will slightly shrink after the first wash</p>
+    <p>-Reverse Wash only</p>
+  </div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>shipping</h2>
+  </div>
+  <div class="product-details-desc">
+  <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+  </div>
+  </div>
+  </div>
+  <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+    <div class="size-header">
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    </div>
+    <div class="chart-container">
+      <table>
+        <tr>
+          <th>SIZE</th>
+          <th>CHEST</th>
+          <th>SHOULDER</th>
+          <th>LENGTH</th>
+        </tr>
+        <tr>
+          <td>XS</td>
+          <td>48"</td>
+          <td>23.5"</td>
+          <td>27"</td>
+        </tr>
+        <tr>
+            <td>S</td>
+            <td>49"</td>
+            <td>24"</td>
+            <td>28"</td>
+          </tr>
+          <tr>
+            <td>M</td>
+            <td>51"</td>
+            <td>25"</td>
+            <td>28.5"</td>
+          </tr>
+          <tr>
+            <td>L</td>
+            <td>52"</td>
+    <td>25"</td>
+    <td>29"</td>
+          </tr>
+          <tr>
+            <td>XL</td>
+            <td>53"</td>
+    <td>25.5"</td>
+    <td>29"</td>
+          </tr>
+          <tr>
+            <td>XXL</td>
+            <td>54"</td>
+            <td>26.5"</td>
+            <td>30"</td>
+            </tr>
+      </table>
+    </div>
+    </div>
+    </div>
+    </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bluorng.com/products/7136173850818</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2678BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7081089007810</id>
+    <published>2024-06-27T19:16:35+05:30</published>
+    <updated>2024-06-27T19:16:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/humble"/>
+    <title>Humble Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/humble-hoodie-228534.jpg?v=1641288664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="contentAccrdPnl">
+<div id="accordion3" class="accordion">
+<div class="card mb-0">
+<div class="card-header collapsed" data-toggle="collapse" href="#collapseOne-1"><a class="card-title">Description</a></div>
+<div id="collapseOne-1" class="card-body collapse" data-parent="#accordion">
+<p>You feel no one can defeat you? Not true. You are still a mortal, so stay humble. Features high density Hand done screen prints Heavy weight 100% cotton Terry hoodie. This product is at Pre-order, allow at least 15 business days to ship.</p>
+</div>
+<div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo-2"><a class="card-title">Details</a></div>
+<div id="collapseTwo-2" class="card-body collapse" data-parent="#accordion">
+<p>-100% cotton</p>
+<p>-Weight - 350 GSM</p>
+<p>-High Density Print</p>
+<p>-Reverse Wash only</p>
+</div>
+<!-- <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo-3"><a class="card-title">Size Guide</a></div>
+<div id="collapseTwo-3" class="card-body collapse" data-parent="#accordion"> -->
+<!-- Size Guide -->
+<!-- <div id="sizeGuidePnl">
+<table class="table">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Chest</strong></td>
+<td><b>Shoulder</b></td>
+<td><b>Length</b></td>
+</tr>
+<tr>
+<td><strong>XS</strong></td>
+<td>48"</td>
+<td>23.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>49"</td>
+<td>24"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>51"</td>
+<td>25"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>52"</td>
+<td>25"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>53"</td>
+<td>25.5"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td><strong>XXL</strong></td>
+<td>54"</td>
+<td>26.5"</td>
+<td>3o"</td>
+</tr>
+</tbody>
+</table>
+</div> -->
+<!-- Size Guide ends -->
+<!-- </div> -->
+</div>
+</div>
+</div>
+<div class="help-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+<div class="help-guide-container">
+<svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve">
+<g>
+<path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 
+132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 
+99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 
+221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path>
+<path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 
+56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 
+28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 
+5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class="">
+</path>
+</g>
+</svg>
+<span class="upper-close-container" onclick="removeGuide()">
+<span></span>
+</span>
+<p class="size-sticky-button" onclick="sizeGuide()">SIZE CHART</p>
+<div class="help-header">
+<div class="svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="32.068" height="37" viewbox="0 0 32.068 37">
+<g id="size_guide" transform="translate(-4 -0.002)">
+<path id="Path_9664" data-name="Path 9664" d="M35.652,10.044,30.685,2.967a2.252,2.252,0,0,0-1.006-.788L24.626.155A2.317,2.317,0,0,0,23.031.132a9.234,9.234,0,0,1-3,.485,9.227,9.227,0,0,1-3-.485,2.329,2.329,0,0,0-1.6.024L10.391,2.178a2.262,2.262,0,0,0-1.012.793L4.42,10.037a2.21,2.21,0,0,0,.53,3.112L6.467,14.2v1.759a1.85,1.85,0,0,0,1.6,1.82l1.488.206v3.569l-.413.057a3.145,3.145,0,0,0-2.67,3.041v6.121a3.074,3.074,0,0,0,2.66,3.029l22.986,3.177a1.854,1.854,0,0,0,1.475-.438,1.835,1.835,0,0,0,.63-1.381V31.526a1.85,1.85,0,0,0-1.6-1.82l-2.1-.294v-3.4l1.03-.142a3.1,3.1,0,0,0,2.67-3.041V16.708a3.039,3.039,0,0,0-1-2.235l1.9-1.323a2.208,2.208,0,0,0,.537-3.106ZM23.011,1.422A2.8,2.8,0,0,1,20.034,3.7a2.8,2.8,0,0,1-2.978-2.282,10.45,10.45,0,0,0,2.978.432,10.469,10.469,0,0,0,2.977-.429Zm-7.229-.075a4.063,4.063,0,0,0,4.251,3.587,4.062,4.062,0,0,0,4.251-3.586l4.938,1.978c.022.009.039.024.062.034V13.365l-18.5-2.557V3.36c.022-.01.04-.027.062-.036ZM5.653,12.135a.964.964,0,0,1-.405-.633.982.982,0,0,1,.178-.749L9.55,4.872v5.765L8.571,10.5A1.856,1.856,0,0,0,7.1,10.94a1.835,1.835,0,0,0-.629,1.382V12.7ZM7.7,15.963V12.324a.593.593,0,0,1,.207-.451.617.617,0,0,1,.41-.155.734.734,0,0,1,.089.006l.53.073v2.387a.617.617,0,0,0,1.233,0V11.967l1.233.171v.813a.617.617,0,0,0,1.233,0v-.643l1.233.17V14.8a.617.617,0,0,0,1.233,0V12.649l1.233.17v1.365a.617.617,0,0,0,1.233,0V12.99l1.233.17v2.257a.617.617,0,0,0,1.233,0V13.332l1.233.17v1.3a.617.617,0,1,0,1.233,0V13.673l1.233.17v2.192a.617.617,0,0,0,1.233,0V14.013l1.23.171v1.85a.617.617,0,0,0,1.233,0v-1.68l1.233.171v2.743a.617.617,0,0,0,1.233,0V14.695l1.233.171v1.785a.617.617,0,1,0,1.233,0v-1.3a1.812,1.812,0,0,1,.617,1.351v3.669a3.069,3.069,0,0,0-1.439-.59L8.23,16.562a.612.612,0,0,1-.53-.6Zm1.606,6.874L9.55,22.8v3.709L9.3,26.479a1.85,1.85,0,0,1-1.6-1.818,1.888,1.888,0,0,1,1.606-1.824Zm23.678,8.687v3.638a.593.593,0,0,1-.207.451.625.625,0,0,1-.493.147L9.294,32.585A1.837,1.837,0,0,1,7.7,30.778V27.11a3.074,3.074,0,0,0,1.233.549v2.559a.617.617,0,0,0,1.233,0V27.842l1.233.171v.972a.617.617,0,0,0,1.233,0v-.8l1.233.17v2.482a.617.617,0,1,0,1.233,0v-2.31l1.233.17v1.523a.617.617,0,0,0,1.233,0V28.866l1.233.17v2.416a.617.617,0,0,0,1.233,0V29.207l1.233.17v1.458a.617.617,0,1,0,1.233,0V29.548l1.233.17v2.35a.617.617,0,0,0,1.233,0V29.889l1.233.17v2.009a.617.617,0,0,0,1.233,0V30.23l1.233.171v2.9a.617.617,0,1,0,1.233,0V30.571l1.233.171v1.943a.617.617,0,0,0,1.233,0V30.912l.086.012a.612.612,0,0,1,.53.6Zm-22.2-4.84V18.16l18.5,2.562v8.52Zm20.594-2.035-.86.12v-3.88l.863.119a1.85,1.85,0,0,1,1.6,1.818,1.888,1.888,0,0,1-1.607,1.824ZM34.82,11.5a.964.964,0,0,1-.408.635L32.041,13.79c-.014,0-.03-.006-.044-.01a.632.632,0,0,0-.1-.023,3.166,3.166,0,0,0-.342-.078l-1.04-.144V4.872l4.132,5.886a.977.977,0,0,1,.171.744Z" transform="translate(0 0)" fill="#c9c9c9"></path>
+</g>
+</svg>  
+</div>
+<div class="title-help">
+<h3>WHICH FIT ARE YOU LOOKING FOR?</h3>
+<p>BLUORNG help you selecting your perfect fit as you required.</p>
+</div>
+</div>
+<div class="help-container">
+<div class="help-navigation">
+</div>
+<div class="img-container">
+<div class="img-pic">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/size_guide_U001.png?v=1677594555" alt="">
+<p>REGULAR FIT (S)</p>
+</div>
+<div class="img-pic">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Size_Guide_002.png?v=1677593705" alt="">
+<p>OVERSIZED FIT (M)</p>
+</div>
+</div>
+<div class="details-container">
+<h4>WHAT IS THE KEY DIFFERENCE BETWEEN BOTH FITS?</h4>
+<p>In terms of fit, the oversized option is determined by our sizing chart. Nevertheless,
+if you prefer a regular fit, we recommend selecting a size down from your usual sizing option.</p>
+</div>
+<div class="more-q-container" onclick="window.location.href = 'https://bluorng.com/pages/contact-us';">
+<div class="more-q-heading">
+<h4>HAVE MORE QUESTIONS?</h4>
+<a href="/pages/contact-us">Feel free to reach out!</a>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="16.077" height="27.553" viewbox="0 0 16.077 27.553">
+<g id="phone_blu" transform="translate(-106.625)">
+<path id="Path_9665" data-name="Path 9665" d="M117.8,24.813a.431.431,0,0,1-.431.431h-5.466a.431.431,0,0,1,0-.861h5.466A.431.431,0,0,1,117.8,24.813Zm4.9-22.436v22.8a2.493,2.493,0,0,1-2.59,2.376h-10.9a2.492,2.492,0,0,1-2.59-2.376V2.377A2.493,2.493,0,0,1,109.215,0h10.9a2.493,2.493,0,0,1,2.59,2.377Zm-.861,0A1.635,1.635,0,0,0,120.113.861h-2.56V1.8a.431.431,0,0,1-.431.431h-5.2a.431.431,0,0,1-.431-.431V.861h-2.275a1.634,1.634,0,0,0-1.729,1.516v22.8a1.634,1.634,0,0,0,1.729,1.515h10.9a1.634,1.634,0,0,0,1.729-1.515Z" fill="#c9c9c9"></path>
+</g>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<!--    -->
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path><path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class=""></path></g></svg>
+<span class="upper-close-container" onclick="removeGuide()">
+<span></span>
+</span>
+<div class="size-header">
+<div class="svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="30.623" height="34.093" viewbox="0 0 30.623 34.093">
+<g id="mesurement" transform="translate(0 0.004)">
+<g id="Group_491" data-name="Group 491" transform="translate(0 -0.004)">
+  <path id="Path_9659" data-name="Path 9659" d="M20.036.344A50.29,50.29,0,0,0,13.636,0C5.99,0,0,2.993,0,6.816v9.091c0,3.059,3.854,5.635,9.531,6.5q-2.5,1.8-5.032,3.541a1.133,1.133,0,0,0-.063,1.822l7.582,6.066a1.143,1.143,0,0,0,1.385.031q1.9-1.387,3.715-2.882,1.747-1.437,3.409-2.974c.006-.006.014-.008.019-.014l0-.007q1.591-1.47,3.093-3.032c.012-.011.028-.016.039-.029s.009-.019.015-.027q1.075-1.115,2.1-2.279c1.893-2.172,4.249-4.873,4.7-8.2C30.949,11.031,30.317,6,27.028,3,24.974,1.111,22.342.639,20.036.344Zm-6.4.79c6.776,0,12.5,2.6,12.5,5.682,0,3.682-7.33,5.682-12.5,5.682-6.776,0-12.5-2.6-12.5-5.682S6.861,1.135,13.636,1.135ZM1.136,15.907V9.586c2.085,2.405,6.837,4.049,12.5,4.049a23.34,23.34,0,0,0,8.745-1.548,117.006,117.006,0,0,1-11.018,8.988V18.18a.568.568,0,0,0-1.136,0v3.182A21.852,21.852,0,0,1,7.386,20.8V17.612a.568.568,0,0,0-1.136,0v2.841a13.821,13.821,0,0,1-2.273-1V15.907a.568.568,0,1,0-1.136,0v2.8A3.732,3.732,0,0,1,1.136,15.907ZM12.727,32.953,5.143,26.889q1.384-.951,2.756-1.918a2.443,2.443,0,0,0,1.686.359,1.331,1.331,0,0,1,1.6,1.153A2.465,2.465,0,0,0,13.977,28.5a1.341,1.341,0,0,1,1.6,1.158,3.115,3.115,0,0,0,.32.861q-1.555,1.256-3.171,2.435ZM29.37,14.271a8.714,8.714,0,0,1-.8,2.585l-.808-1.136a.568.568,0,1,0-.926.659l1.131,1.591a21.467,21.467,0,0,1-1.827,2.514l-1.581-1.808a.568.568,0,1,0-.856.748l1.691,1.939q-1.059,1.234-2.18,2.413l-2.386-2.045a.568.568,0,1,0-.739.863L22.425,24.6q-1.137,1.16-2.326,2.267l-2.685-2.3a.568.568,0,1,0-.739.864l2.585,2.213c-.8.723-1.623,1.432-2.463,2.131a3.31,3.31,0,0,1-.119-.394,2.459,2.459,0,0,0-2.788-2.013A1.347,1.347,0,0,1,12.287,26.2,2.448,2.448,0,0,0,9.5,24.2a2.522,2.522,0,0,1-.511,0c6.466-4.6,14.189-10.545,17.1-14.561a4.336,4.336,0,0,0,1.182-2.759c.03-1.786-1.225-3.2-2.721-4.2a7.3,7.3,0,0,1,1.718,1.151c2.772,2.535,3.555,7.069,3.1,10.439Z" transform="translate(0 0.004)" fill="#c9c9c9"></path>
+  <path id="Path_9660" data-name="Path 9660" d="M18.369,11.685c2.324,0,6.2-.667,7.2-2.773.678-1.43-.5-2.9-1.827-3.794a12.981,12.981,0,0,0-4.078-1.694,1.54,1.54,0,0,0-1.281.245,1.567,1.567,0,0,0-.518.639C13.923,4.437,11,5.985,11,7.992,11,10.671,15.475,11.685,18.369,11.685Zm4.172-1.818.2-4.038c.127.076.249.153.366.232C25.245,7.5,25.2,8.87,22.541,9.867ZM18.873,4.914V4.9a.426.426,0,0,1,.176-.313.4.4,0,0,1,.337-.066,15.355,15.355,0,0,1,2.248.746l-.249,4.947a12.835,12.835,0,0,1-2.918.332ZM17.7,5.452l-.363,5.057c-3.131-.226-5.2-1.442-5.2-2.516C12.136,6.869,14.389,5.612,17.7,5.452Z" transform="translate(-4.75 -1.456)" fill="#c9c9c9"></path>
+  <path id="Path_9661" data-name="Path 9661" d="M21.818,10a.568.568,0,0,0-.568.568v.568a.568.568,0,1,0,1.136,0v-.568A.568.568,0,0,0,21.818,10ZM15.923,31.715a.568.568,0,0,0-.71.888l2.841,2.273a.568.568,0,0,0,.71-.888Z" transform="translate(-6.477 -4.316)" fill="#c9c9c9"></path>
+</g>
+</g>
+</svg>
+</div>
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+<p>BLUORNG helps you find your perfect fit.</p>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+<span class="chart-line">
+<div class="fill-line"></div>
+</span>
+</div>
+<div class="chart-container">
+<div class="img">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/SIZE_GUIDE_03.png?v=1677604631" alt="">
+</div>
+<table>
+    <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SHOULDER</th>
+      <th>LENGTH</th>
+    </tr>
+    <tr>
+      <td>XS</td>
+      <td>48"</td>
+<td>23.5"</td>
+<td>27"</td>
+    </tr>
+    <tr>
+        <td>S</td>
+        <td>49"</td>
+<td>24"</td>
+<td>28"</td>
+      </tr>
+      <tr>
+        <td>M</td>
+        <td>51"</td>
+<td>25"</td>
+<td>28.5"</td>
+      </tr>
+      <tr>
+        <td>L</td>
+        <td>52"</td>
+<td>25"</td>
+<td>29"</td>
+      </tr>
+      <tr>
+        <td>XL</td>
+        <td>53"</td>
+<td>25.5"</td>
+<td>29"</td>
+      </tr>
+      <tr>
+        <td>XXL</td>
+        <td>54"</td>
+<td>26.5"</td>
+<td>30"</td>
+        </tr>
+  </table>
+</div>
+</div>
+</div>
+  </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>XXS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2695HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2696HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>S</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2697HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>M</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2698HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>L</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2699HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>XL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2700HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>XXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2701HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081089007810</id>
+      <title>XXXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2702HUMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7081080389826</id>
+    <published>2024-06-27T19:16:17+05:30</published>
+    <updated>2024-06-27T19:16:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/materialistic-hoodie"/>
+    <title>Materialistic Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/materialistic-hoodie-756100.jpg?v=1641288684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="contentAccrdPnl">
+<div id="accordion3" class="accordion">
+<div class="card mb-0">
+<div class="card-header collapsed" data-toggle="collapse" href="#collapseOne-1"><a class="card-title">Description</a></div>
+<div id="collapseOne-1" class="card-body collapse" data-parent="#accordion">
+<p>He/she may leave you as their feelings change for you, but money? Money will stay by your side. You are not materialistic, you are just practical lol. Relate much? Features high density Hand done screen prints Heavy weight 100% cotton Terry hoodie. This product is at Pre-order, allow atleast 15 business days to ship.</p>
+</div>
+<div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo-2"><a class="card-title">Details</a></div>
+<div id="collapseTwo-2" class="card-body collapse" data-parent="#accordion">
+<p>-100% cotton</p>
+<p>-Weight - 400 GSM</p>
+<p>-High Density Print</p>
+<p>-Reverse Wash only</p>
+</div>
+<!-- <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo-3"><a class="card-title">Size Guide</a></div>
+<div id="collapseTwo-3" class="card-body collapse" data-parent="#accordion"> -->
+<!-- Size Guide -->
+<!-- <div id="sizeGuidePnl">
+<table class="table">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Chest</strong></td>
+<td><b>Shoulder</b></td>
+<td><b>Length</b></td>
+</tr>
+<tr>
+<td><strong>XS</strong></td>
+<td>48"</td>
+<td>23.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>49"</td>
+<td>24"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>51"</td>
+<td>25"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>52"</td>
+<td>25"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>53"</td>
+<td>25.5"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td><strong>XXL</strong></td>
+<td>54"</td>
+<td>26.5"</td>
+<td>30"</td>
+</tr>
+</tbody>
+</table>
+</div> -->
+<!-- Size Guide ends -->
+<!-- </div> -->
+</div>
+</div>
+</div>
+<div class="help-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+<div class="help-guide-container">
+<svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve">
+<g>
+<path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 
+132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 
+99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 
+221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path>
+<path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 
+56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 
+28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 
+5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class="">
+</path>
+</g>
+</svg>
+<span class="upper-close-container" onclick="removeGuide()">
+<span></span>
+</span>
+<p class="size-sticky-button" onclick="sizeGuide()">SIZE CHART</p>
+<div class="help-header">
+<div class="svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="32.068" height="37" viewbox="0 0 32.068 37">
+<g id="size_guide" transform="translate(-4 -0.002)">
+<path id="Path_9664" data-name="Path 9664" d="M35.652,10.044,30.685,2.967a2.252,2.252,0,0,0-1.006-.788L24.626.155A2.317,2.317,0,0,0,23.031.132a9.234,9.234,0,0,1-3,.485,9.227,9.227,0,0,1-3-.485,2.329,2.329,0,0,0-1.6.024L10.391,2.178a2.262,2.262,0,0,0-1.012.793L4.42,10.037a2.21,2.21,0,0,0,.53,3.112L6.467,14.2v1.759a1.85,1.85,0,0,0,1.6,1.82l1.488.206v3.569l-.413.057a3.145,3.145,0,0,0-2.67,3.041v6.121a3.074,3.074,0,0,0,2.66,3.029l22.986,3.177a1.854,1.854,0,0,0,1.475-.438,1.835,1.835,0,0,0,.63-1.381V31.526a1.85,1.85,0,0,0-1.6-1.82l-2.1-.294v-3.4l1.03-.142a3.1,3.1,0,0,0,2.67-3.041V16.708a3.039,3.039,0,0,0-1-2.235l1.9-1.323a2.208,2.208,0,0,0,.537-3.106ZM23.011,1.422A2.8,2.8,0,0,1,20.034,3.7a2.8,2.8,0,0,1-2.978-2.282,10.45,10.45,0,0,0,2.978.432,10.469,10.469,0,0,0,2.977-.429Zm-7.229-.075a4.063,4.063,0,0,0,4.251,3.587,4.062,4.062,0,0,0,4.251-3.586l4.938,1.978c.022.009.039.024.062.034V13.365l-18.5-2.557V3.36c.022-.01.04-.027.062-.036ZM5.653,12.135a.964.964,0,0,1-.405-.633.982.982,0,0,1,.178-.749L9.55,4.872v5.765L8.571,10.5A1.856,1.856,0,0,0,7.1,10.94a1.835,1.835,0,0,0-.629,1.382V12.7ZM7.7,15.963V12.324a.593.593,0,0,1,.207-.451.617.617,0,0,1,.41-.155.734.734,0,0,1,.089.006l.53.073v2.387a.617.617,0,0,0,1.233,0V11.967l1.233.171v.813a.617.617,0,0,0,1.233,0v-.643l1.233.17V14.8a.617.617,0,0,0,1.233,0V12.649l1.233.17v1.365a.617.617,0,0,0,1.233,0V12.99l1.233.17v2.257a.617.617,0,0,0,1.233,0V13.332l1.233.17v1.3a.617.617,0,1,0,1.233,0V13.673l1.233.17v2.192a.617.617,0,0,0,1.233,0V14.013l1.23.171v1.85a.617.617,0,0,0,1.233,0v-1.68l1.233.171v2.743a.617.617,0,0,0,1.233,0V14.695l1.233.171v1.785a.617.617,0,1,0,1.233,0v-1.3a1.812,1.812,0,0,1,.617,1.351v3.669a3.069,3.069,0,0,0-1.439-.59L8.23,16.562a.612.612,0,0,1-.53-.6Zm1.606,6.874L9.55,22.8v3.709L9.3,26.479a1.85,1.85,0,0,1-1.6-1.818,1.888,1.888,0,0,1,1.606-1.824Zm23.678,8.687v3.638a.593.593,0,0,1-.207.451.625.625,0,0,1-.493.147L9.294,32.585A1.837,1.837,0,0,1,7.7,30.778V27.11a3.074,3.074,0,0,0,1.233.549v2.559a.617.617,0,0,0,1.233,0V27.842l1.233.171v.972a.617.617,0,0,0,1.233,0v-.8l1.233.17v2.482a.617.617,0,1,0,1.233,0v-2.31l1.233.17v1.523a.617.617,0,0,0,1.233,0V28.866l1.233.17v2.416a.617.617,0,0,0,1.233,0V29.207l1.233.17v1.458a.617.617,0,1,0,1.233,0V29.548l1.233.17v2.35a.617.617,0,0,0,1.233,0V29.889l1.233.17v2.009a.617.617,0,0,0,1.233,0V30.23l1.233.171v2.9a.617.617,0,1,0,1.233,0V30.571l1.233.171v1.943a.617.617,0,0,0,1.233,0V30.912l.086.012a.612.612,0,0,1,.53.6Zm-22.2-4.84V18.16l18.5,2.562v8.52Zm20.594-2.035-.86.12v-3.88l.863.119a1.85,1.85,0,0,1,1.6,1.818,1.888,1.888,0,0,1-1.607,1.824ZM34.82,11.5a.964.964,0,0,1-.408.635L32.041,13.79c-.014,0-.03-.006-.044-.01a.632.632,0,0,0-.1-.023,3.166,3.166,0,0,0-.342-.078l-1.04-.144V4.872l4.132,5.886a.977.977,0,0,1,.171.744Z" transform="translate(0 0)" fill="#c9c9c9"></path>
+</g>
+</svg>  
+</div>
+<div class="title-help">
+<h3>WHICH FIT ARE YOU LOOKING FOR?</h3>
+<p>BLUORNG help you selecting your perfect fit as you required.</p>
+</div>
+</div>
+<div class="help-container">
+<div class="help-navigation">
+</div>
+<div class="img-container">
+<div class="img-pic">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/size_guide_U001.png?v=1677594555" alt="">
+<p>REGULAR FIT (S)</p>
+</div>
+<div class="img-pic">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Size_Guide_002.png?v=1677593705" alt="">
+<p>OVERSIZED FIT (M)</p>
+</div>
+</div>
+<div class="details-container">
+<h4>WHAT IS THE KEY DIFFERENCE BETWEEN BOTH FITS?</h4>
+<p>In terms of fit, the oversized option is determined by our sizing chart. Nevertheless,
+if you prefer a regular fit, we recommend selecting a size down from your usual sizing option.</p>
+</div>
+<div class="more-q-container" onclick="window.location.href = 'https://bluorng.com/pages/contact-us';">
+<div class="more-q-heading">
+<h4>HAVE MORE QUESTIONS?</h4>
+<a href="/pages/contact-us">Feel free to reach out!</a>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="16.077" height="27.553" viewbox="0 0 16.077 27.553">
+<g id="phone_blu" transform="translate(-106.625)">
+<path id="Path_9665" data-name="Path 9665" d="M117.8,24.813a.431.431,0,0,1-.431.431h-5.466a.431.431,0,0,1,0-.861h5.466A.431.431,0,0,1,117.8,24.813Zm4.9-22.436v22.8a2.493,2.493,0,0,1-2.59,2.376h-10.9a2.492,2.492,0,0,1-2.59-2.376V2.377A2.493,2.493,0,0,1,109.215,0h10.9a2.493,2.493,0,0,1,2.59,2.377Zm-.861,0A1.635,1.635,0,0,0,120.113.861h-2.56V1.8a.431.431,0,0,1-.431.431h-5.2a.431.431,0,0,1-.431-.431V.861h-2.275a1.634,1.634,0,0,0-1.729,1.516v22.8a1.634,1.634,0,0,0,1.729,1.515h10.9a1.634,1.634,0,0,0,1.729-1.515Z" fill="#c9c9c9"></path>
+</g>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<!--    -->
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path><path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class=""></path></g></svg>
+<span class="upper-close-container" onclick="removeGuide()">
+<span></span>
+</span>
+<div class="size-header">
+<div class="svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="30.623" height="34.093" viewbox="0 0 30.623 34.093">
+<g id="mesurement" transform="translate(0 0.004)">
+<g id="Group_491" data-name="Group 491" transform="translate(0 -0.004)">
+  <path id="Path_9659" data-name="Path 9659" d="M20.036.344A50.29,50.29,0,0,0,13.636,0C5.99,0,0,2.993,0,6.816v9.091c0,3.059,3.854,5.635,9.531,6.5q-2.5,1.8-5.032,3.541a1.133,1.133,0,0,0-.063,1.822l7.582,6.066a1.143,1.143,0,0,0,1.385.031q1.9-1.387,3.715-2.882,1.747-1.437,3.409-2.974c.006-.006.014-.008.019-.014l0-.007q1.591-1.47,3.093-3.032c.012-.011.028-.016.039-.029s.009-.019.015-.027q1.075-1.115,2.1-2.279c1.893-2.172,4.249-4.873,4.7-8.2C30.949,11.031,30.317,6,27.028,3,24.974,1.111,22.342.639,20.036.344Zm-6.4.79c6.776,0,12.5,2.6,12.5,5.682,0,3.682-7.33,5.682-12.5,5.682-6.776,0-12.5-2.6-12.5-5.682S6.861,1.135,13.636,1.135ZM1.136,15.907V9.586c2.085,2.405,6.837,4.049,12.5,4.049a23.34,23.34,0,0,0,8.745-1.548,117.006,117.006,0,0,1-11.018,8.988V18.18a.568.568,0,0,0-1.136,0v3.182A21.852,21.852,0,0,1,7.386,20.8V17.612a.568.568,0,0,0-1.136,0v2.841a13.821,13.821,0,0,1-2.273-1V15.907a.568.568,0,1,0-1.136,0v2.8A3.732,3.732,0,0,1,1.136,15.907ZM12.727,32.953,5.143,26.889q1.384-.951,2.756-1.918a2.443,2.443,0,0,0,1.686.359,1.331,1.331,0,0,1,1.6,1.153A2.465,2.465,0,0,0,13.977,28.5a1.341,1.341,0,0,1,1.6,1.158,3.115,3.115,0,0,0,.32.861q-1.555,1.256-3.171,2.435ZM29.37,14.271a8.714,8.714,0,0,1-.8,2.585l-.808-1.136a.568.568,0,1,0-.926.659l1.131,1.591a21.467,21.467,0,0,1-1.827,2.514l-1.581-1.808a.568.568,0,1,0-.856.748l1.691,1.939q-1.059,1.234-2.18,2.413l-2.386-2.045a.568.568,0,1,0-.739.863L22.425,24.6q-1.137,1.16-2.326,2.267l-2.685-2.3a.568.568,0,1,0-.739.864l2.585,2.213c-.8.723-1.623,1.432-2.463,2.131a3.31,3.31,0,0,1-.119-.394,2.459,2.459,0,0,0-2.788-2.013A1.347,1.347,0,0,1,12.287,26.2,2.448,2.448,0,0,0,9.5,24.2a2.522,2.522,0,0,1-.511,0c6.466-4.6,14.189-10.545,17.1-14.561a4.336,4.336,0,0,0,1.182-2.759c.03-1.786-1.225-3.2-2.721-4.2a7.3,7.3,0,0,1,1.718,1.151c2.772,2.535,3.555,7.069,3.1,10.439Z" transform="translate(0 0.004)" fill="#c9c9c9"></path>
+  <path id="Path_9660" data-name="Path 9660" d="M18.369,11.685c2.324,0,6.2-.667,7.2-2.773.678-1.43-.5-2.9-1.827-3.794a12.981,12.981,0,0,0-4.078-1.694,1.54,1.54,0,0,0-1.281.245,1.567,1.567,0,0,0-.518.639C13.923,4.437,11,5.985,11,7.992,11,10.671,15.475,11.685,18.369,11.685Zm4.172-1.818.2-4.038c.127.076.249.153.366.232C25.245,7.5,25.2,8.87,22.541,9.867ZM18.873,4.914V4.9a.426.426,0,0,1,.176-.313.4.4,0,0,1,.337-.066,15.355,15.355,0,0,1,2.248.746l-.249,4.947a12.835,12.835,0,0,1-2.918.332ZM17.7,5.452l-.363,5.057c-3.131-.226-5.2-1.442-5.2-2.516C12.136,6.869,14.389,5.612,17.7,5.452Z" transform="translate(-4.75 -1.456)" fill="#c9c9c9"></path>
+  <path id="Path_9661" data-name="Path 9661" d="M21.818,10a.568.568,0,0,0-.568.568v.568a.568.568,0,1,0,1.136,0v-.568A.568.568,0,0,0,21.818,10ZM15.923,31.715a.568.568,0,0,0-.71.888l2.841,2.273a.568.568,0,0,0,.71-.888Z" transform="translate(-6.477 -4.316)" fill="#c9c9c9"></path>
+</g>
+</g>
+</svg>
+</div>
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+<p>BLUORNG helps you find your perfect fit.</p>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+<span class="chart-line">
+<div class="fill-line"></div>
+</span>
+</div>
+<div class="chart-container">
+<div class="img">
+<img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/SIZE_GUIDE_03.png?v=1677604631" alt="">
+</div>
+<table>
+    <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SHOULDER</th>
+      <th>LENGTH</th>
+    </tr>
+    <tr>
+      <td>XS</td>
+      <td>48"</td>
+<td>23.5"</td>
+<td>27"</td>
+    </tr>
+    <tr>
+        <td>S</td>
+        <td>49"</td>
+<td>24"</td>
+<td>28"</td>
+      </tr>
+      <tr>
+        <td>M</td>
+        <td>51"</td>
+<td>25"</td>
+<td>28.5"</td>
+      </tr>
+      <tr>
+        <td>L</td>
+        <td>52"</td>
+<td>25"</td>
+<td>29"</td>
+      </tr>
+      <tr>
+        <td>XL</td>
+        <td>53"</td>
+<td>25.5"</td>
+<td>29"</td>
+      </tr>
+      <tr>
+        <td>XXL</td>
+        <td>54"</td>
+<td>26.5"</td>
+<td>30"</td>
+        </tr>
+  </table>
+</div>
+</div>
+</div>
+  </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>XXS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2711MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2712MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>S</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2713MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>M</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2714MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>L</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2715MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>XL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2716MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>XXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2717MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/7081080389826</id>
+      <title>XXXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2718MATG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/7142303957186</id>
+    <published>2024-06-27T19:15:12+05:30</published>
+    <updated>2024-06-27T19:15:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/copy-of-basic-hoodie-black"/>
+    <title>Basic Hoodie off-white</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/basic-hoodie-off-white-399141.jpg?v=1641288659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>Basic Black Hoodie. Features branding in (Black)Flock print on the front. Heavy weight 100% cotton Terry Hoodie. This product will be shipped within 48 hrs (2 business days).</p>
+</div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>100% Cotton</p>
+    <p>Weight - 400 GSM</p>
+    <p>Flock Print</p>
+      <p>DO NOT IRON THE PRINT</p>
+      <p>WASH DARK COLOR SEPARATELY</p>
+      <p>Product will slightly shrink after the first wash</p>
+      <p>Reverse Wash only</p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+  <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+      
+      
+      
+      
+      
+      
+      
+    <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <svg class="close-btn-popup" onclick="removeGuide()" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewbox="0 0 511.995 511.995" style="enable-background:new 0 0 512 512" xml:space="preserve"><g><path d="M437.126 74.939c-99.826-99.826-262.307-99.826-362.133 0C26.637 123.314 0 187.617 0 256.005s26.637 132.691 74.993 181.047c49.923 49.923 115.495 74.874 181.066 74.874s131.144-24.951 181.066-74.874c99.826-99.826 99.826-262.268.001-362.113zM409.08 409.006c-84.375 84.375-221.667 84.375-306.042 0-40.858-40.858-63.37-95.204-63.37-153.001s22.512-112.143 63.37-153.021c84.375-84.375 221.667-84.355 306.042 0 84.355 84.375 84.355 221.667 0 306.022z" fill="#a9a7a7" data-original="#000000" class=""></path><path d="m341.525 310.827-56.151-56.071 56.151-56.071c7.735-7.735 7.735-20.29.02-28.046-7.755-7.775-20.31-7.755-28.065-.02l-56.19 56.111-56.19-56.111c-7.755-7.735-20.31-7.755-28.065.02-7.735 7.755-7.735 20.31.02 28.046l56.151 56.071-56.151 56.071c-7.755 7.735-7.755 20.29-.02 28.046 3.868 3.887 8.965 5.811 14.043 5.811s10.155-1.944 14.023-5.792l56.19-56.111 56.19 56.111c3.868 3.868 8.945 5.792 14.023 5.792a19.828 19.828 0 0 0 14.043-5.811c7.733-7.756 7.733-20.311-.022-28.046z" fill="#a9a7a7" data-original="#000000" class=""></path></g></svg>
+    <span class="upper-close-container" onclick="removeGuide()">
+    <span></span>
+    </span>
+    <div class="size-header">
+    <div class="svg">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30.623" height="34.093" viewbox="0 0 30.623 34.093">
+    <g id="mesurement" transform="translate(0 0.004)">
+    <g id="Group_491" data-name="Group 491" transform="translate(0 -0.004)">
+    <path id="Path_9659" data-name="Path 9659" d="M20.036.344A50.29,50.29,0,0,0,13.636,0C5.99,0,0,2.993,0,6.816v9.091c0,3.059,3.854,5.635,9.531,6.5q-2.5,1.8-5.032,3.541a1.133,1.133,0,0,0-.063,1.822l7.582,6.066a1.143,1.143,0,0,0,1.385.031q1.9-1.387,3.715-2.882,1.747-1.437,3.409-2.974c.006-.006.014-.008.019-.014l0-.007q1.591-1.47,3.093-3.032c.012-.011.028-.016.039-.029s.009-.019.015-.027q1.075-1.115,2.1-2.279c1.893-2.172,4.249-4.873,4.7-8.2C30.949,11.031,30.317,6,27.028,3,24.974,1.111,22.342.639,20.036.344Zm-6.4.79c6.776,0,12.5,2.6,12.5,5.682,0,3.682-7.33,5.682-12.5,5.682-6.776,0-12.5-2.6-12.5-5.682S6.861,1.135,13.636,1.135ZM1.136,15.907V9.586c2.085,2.405,6.837,4.049,12.5,4.049a23.34,23.34,0,0,0,8.745-1.548,117.006,117.006,0,0,1-11.018,8.988V18.18a.568.568,0,0,0-1.136,0v3.182A21.852,21.852,0,0,1,7.386,20.8V17.612a.568.568,0,0,0-1.136,0v2.841a13.821,13.821,0,0,1-2.273-1V15.907a.568.568,0,1,0-1.136,0v2.8A3.732,3.732,0,0,1,1.136,15.907ZM12.727,32.953,5.143,26.889q1.384-.951,2.756-1.918a2.443,2.443,0,0,0,1.686.359,1.331,1.331,0,0,1,1.6,1.153A2.465,2.465,0,0,0,13.977,28.5a1.341,1.341,0,0,1,1.6,1.158,3.115,3.115,0,0,0,.32.861q-1.555,1.256-3.171,2.435ZM29.37,14.271a8.714,8.714,0,0,1-.8,2.585l-.808-1.136a.568.568,0,1,0-.926.659l1.131,1.591a21.467,21.467,0,0,1-1.827,2.514l-1.581-1.808a.568.568,0,1,0-.856.748l1.691,1.939q-1.059,1.234-2.18,2.413l-2.386-2.045a.568.568,0,1,0-.739.863L22.425,24.6q-1.137,1.16-2.326,2.267l-2.685-2.3a.568.568,0,1,0-.739.864l2.585,2.213c-.8.723-1.623,1.432-2.463,2.131a3.31,3.31,0,0,1-.119-.394,2.459,2.459,0,0,0-2.788-2.013A1.347,1.347,0,0,1,12.287,26.2,2.448,2.448,0,0,0,9.5,24.2a2.522,2.522,0,0,1-.511,0c6.466-4.6,14.189-10.545,17.1-14.561a4.336,4.336,0,0,0,1.182-2.759c.03-1.786-1.225-3.2-2.721-4.2a7.3,7.3,0,0,1,1.718,1.151c2.772,2.535,3.555,7.069,3.1,10.439Z" transform="translate(0 0.004)" fill="#c9c9c9"></path>
+    <path id="Path_9660" data-name="Path 9660" d="M18.369,11.685c2.324,0,6.2-.667,7.2-2.773.678-1.43-.5-2.9-1.827-3.794a12.981,12.981,0,0,0-4.078-1.694,1.54,1.54,0,0,0-1.281.245,1.567,1.567,0,0,0-.518.639C13.923,4.437,11,5.985,11,7.992,11,10.671,15.475,11.685,18.369,11.685Zm4.172-1.818.2-4.038c.127.076.249.153.366.232C25.245,7.5,25.2,8.87,22.541,9.867ZM18.873,4.914V4.9a.426.426,0,0,1,.176-.313.4.4,0,0,1,.337-.066,15.355,15.355,0,0,1,2.248.746l-.249,4.947a12.835,12.835,0,0,1-2.918.332ZM17.7,5.452l-.363,5.057c-3.131-.226-5.2-1.442-5.2-2.516C12.136,6.869,14.389,5.612,17.7,5.452Z" transform="translate(-4.75 -1.456)" fill="#c9c9c9"></path>
+    <path id="Path_9661" data-name="Path 9661" d="M21.818,10a.568.568,0,0,0-.568.568v.568a.568.568,0,1,0,1.136,0v-.568A.568.568,0,0,0,21.818,10ZM15.923,31.715a.568.568,0,0,0-.71.888l2.841,2.273a.568.568,0,0,0,.71-.888Z" transform="translate(-6.477 -4.316)" fill="#c9c9c9"></path>
+    </g>
+    </g>
+    </svg>
+    
+    </div>
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    <p>BLUORNG helps you find your perfect fit.</p>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    <span class="chart-line">
+    <div class="fill-line"></div>
+    </span>
+    </div>
+    <div class="chart-container">
+    <div class="img">
+    <img src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Hoddies_-_1.jpg?v=1678458729" alt="">
+    </div>
+    <table>
+    <tbody>
+    <tr>
+    <th>SIZE</th>
+    <th>CHEST</th>
+    <th>SHOULDER</th>
+    <th>LENGTH</th>
+    </tr>
+    
+    <tr>
+        <td>XXS</td>
+        <td>39"</td>
+        <td>19.5"</td>
+        <td>26.5"</td>
+        </tr>
+    <tr>
+    <td>XXS</td>
+    <td>42"</td>
+    <td>20"</td>
+    <td>28"</td>
+    </tr>
+    <tr>
+    <td>XS</td>
+    <td>44"</td>
+    <td>20.5"</td>
+    <td>28.5"</td>
+    </tr>
+    
+    
+    <tr>
+    <td>S</td>
+    <td>46"</td>
+    <td>21"</td>
+    <td>29"</td>
+    </tr>
+    <tr>
+    <td>M</td>
+    <td>48"</td>
+    <td>21.5"</td>
+    <td>29.5"</td>
+    </tr>
+    <tr>
+    <td>L</td>
+    <td>50"</td>
+    <td>22"</td>
+    <td>30"</td>
+    </tr>
+    
+    <tr>
+    <td>XL</td>
+    <td>52"</td>
+    <td>22.5"</td>
+    <td>30.5"</td>
+    </tr>
+    <tr>
+    <td>XXL</td>
+    <td>54"</td>
+    <td>23"</td>
+    <td>31"</td>
+    </tr>
+    <tr>
+        <td>XXXL</td>
+        <td>56"</td>
+        <td>23"</td>
+        <td>32"</td>
+        </tr>
+    
+    </tbody>
+    </table>
+    </div>
+    </div>
+    </div>
+    </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>basic hoodie</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white basic</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/7142303957186</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B2661BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8870253625624</id>
+    <published>2023-12-25T13:28:02+05:30</published>
+    <updated>2023-12-25T13:28:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/red-hearingbone-hoodie"/>
+    <title>RED HERRINGBONE HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/IMG-6220.jpg?v=1703478951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            5600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+  <div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+     
+      <p><span>Indulge in luxury with our red Herringbone Hoodie, crafted with a sophisticated grey herringbone design and an inner waffle lining for added comfort. Elevate your casual wardrobe with this exclusive piece, perfect for those who appreciate style.</span></p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% cotton</p>
+      <p>Weight - 565 GSM</p>
+      <p>Screen print</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>Use cold water to protect against fading &amp; shrinking.</p>
+        <p>Avoid harsher detergents &amp; turn them inside out for the wash.</p>
+      </div>
+      </div>  
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+      <p>Free delivery Pan-India.</p>
+    <p>Dispatches Next Day </p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>30"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>XXXS</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B854REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>XXS</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B855REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>XS</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B856REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>S</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B857REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>M</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B858REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>L</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B859REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>XL</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B860REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>XXL</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B861REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870253625624</id>
+      <title>XXXL</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B862REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8870254084376</id>
+    <published>2023-12-25T13:27:46+05:30</published>
+    <updated>2023-12-25T13:27:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/grey-herringbone-hoodie"/>
+    <title>GREY HERRINGBONE HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/IMG-6218.jpg?v=1703479113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            5600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+  <div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+      <p><span>Indulge in luxury with our Grey Herringbone Hoodie, crafted with a sophisticated grey herringbone design and an inner waffle lining for added comfort. Elevate your casual wardrobe with this exclusive piece, perfect for those who appreciate style.</span></p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% cotton</p>
+      <p>Weight - 565 GSM</p>
+      <p>Screen print</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+      <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>Use cold water to protect against fading &amp; shrinking.</p>
+                <p>Avoid harsher detergents &amp; turn them inside out for the wash.</p>
+      </div>
+      </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+      <p>Free delivery Pan-India.</p>
+      <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+  
+ 
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>30"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>XXXS</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B845GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>XXS</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B846GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>XS</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B847GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>S</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B848GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>M</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B849GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>L</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B850GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>XL</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B851GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>XXL</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B852GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8870254084376</id>
+      <title>XXXL</title>
+      <s:price currency="INR">5600.00</s:price>
+      <s:sku>B853GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8887115350296</id>
+    <published>2023-12-25T13:27:32+05:30</published>
+    <updated>2023-12-25T13:27:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/green-paisley-hoodie"/>
+    <title>GREEN PAISLEY HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/Q16.jpg?v=1705211162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            9995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+  <div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+      <p><span>WRAP YOURSELF IN LUXURY WITH OUR GREEN PAISLEY HOODIE. THE INTRICATE PAISLEY DESIGN ADDS A TOUCH OF SOPHISTICATION TO THIS COMFORTABLE HOODIE, WHILE THE ADDED HOOD ALLOWS FOR EXTRA WARMTH AND STYLE. ELEVATE YOUR WARDROBE WITH OUR EXCLUSIVE HOODIE TODAY</span></p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% Cotton</p>
+                <p>Weight - 300 GSM</p>
+                <p>SCREEN PRINT</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+      <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+        <p>AVOID HARSHER DETERGENTS &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+      </div>
+      </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+      <p>Free delivery Pan-India.</p>
+      <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+  
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>XXXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B836GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>XXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B837GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>XS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B838GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>S</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B839GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>M</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B840GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>L</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B841GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>XL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B842GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>XXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B843GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8887115350296</id>
+      <title>XXXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B844GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8808051376408</id>
+    <published>2023-12-22T20:42:44+05:30</published>
+    <updated>2023-12-22T20:42:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/white-favourite-hoodie"/>
+    <title>WHITE FAVOURITE HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/w6.jpg?v=1700749714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+  <div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+      <p><span>This WHITE FAVOURITE HOODIE is perfect for the child who's so special, that they must be the favorite! The bold statement on the hoodie will let everyone know just how adored they are. With this hoodie, your favorite kid can show off their fun style while staying warm and cozy.</span></p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% cotton</p>
+      <p>Weight - 565 GSM</p>
+      <p>Screen print</p>
+      <p>Reverse Wash only</p>
+    </div>
+    </div>
+    <!-- <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>Use cold water to protect against fading &amp; shrinking.</p>
+        <p>Avoid harsher detergents &amp; turn them inside out for the wash.</p>
+      </div>
+      </div>   -->
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Packed within 24 hours.</p>
+      <p>Free delivery Pan-India.</p>
+    <p>Dispatches Next Day </p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1021WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>XXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1022WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>XS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1023WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>S</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1024WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>M</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1025WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>L</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1026WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>XL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1027WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>XXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1028WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808051376408</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1029WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8808029815064</id>
+    <published>2023-11-05T13:28:53+05:30</published>
+    <updated>2023-11-05T13:28:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-favourite-hoodie"/>
+    <title>BLACK FAVOURITE HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/k3.jpg?v=1699165759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            8995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Description</h2>
+  </div>
+  <div class="product-details-desc">
+      <p>This BLACK FAVOURITE HOODIE is perfect for the child who's so special, that they must be the favorite! The bold statement on the hoodie will let everyone know just how adored they are. With this hoodie, your favorite kid can show off their fun style while staying warm and cozy.
+      </p>
+</div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Details</h2>
+  </div>
+  <div class="product-details-desc">
+      <p>100% cotton</p>
+  <p>Weight - 565 GSM</p>
+  <p>Screen print</p>
+  <p>Reverse Wash only </p>
+  </div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>shipping</h2>
+  </div>
+  <div class="product-details-desc">
+  <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+  
+  </div>
+  </div>
+  </div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>XXXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1030BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>XXS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1031BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>XS</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1032BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>S</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1033BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>M</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1034BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>L</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1035BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>XL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1036BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>XXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1037BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8808029815064</id>
+      <title>XXXL</title>
+      <s:price currency="INR">8995.00</s:price>
+      <s:sku>B1038BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8807987282200</id>
+    <published>2023-11-05T13:23:52+05:30</published>
+    <updated>2023-11-05T13:23:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/parliment-hoodie"/>
+    <title>PARLIAMENT HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/DSC046622.jpg?v=1699165083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            11995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+    <div class="product-details">
+        <div class="product-details-title">
+            <h2>Description</h2>
+        </div>
+        <div class="product-details-desc">
+            <p><span>This hoodie will give you the wise look of a Parliament of Owls! Crafted from soft fabric and
+                    sporting a
+                    cozy hood, you'll feel comfy while making a hoot of a statement!</span></p>
+        </div>
+    </div>
+    <div class="product-details">
+        <div class="product-details-title">
+            <h2>Details</h2>
+        </div>
+        <div class="product-details-desc">
+            <p>100% cotton</p>
+            <p>Weight - 565 GSM</p>
+            <p>Screen print</p>
+        </div>
+    </div>
+    <div class="product-details">
+        <div class="product-details-title">
+            <h2>shipping</h2>
+        </div>
+        <div class="product-details-desc">
+            <p>Packed within 24 hours.</p>
+            <p>Free delivery Pan-India.</p>
+            <p>Dispatches Next Day.</p>
+        </div>
+    </div>
+</div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>XXXS</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1039PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>XXS</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1040PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>XS</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1041PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>S</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1042PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>M</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1043PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>L</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1044PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>XL</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1045PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>XXL</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1046PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8807987282200</id>
+      <title>XXXL</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B1047PARG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/8064489193752</id>
+    <published>2022-12-22T21:49:08+05:30</published>
+    <updated>2022-12-22T21:49:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/basic-red-hoodie"/>
+    <title>BASIC RED HOODIE</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/products/basic-red-hoodie-851668.jpg?v=1671744051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            7995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>Front - Branding (In High Density print )</p>
+      <p>Crafted from premium jacquard fabric, the ICE WATER T-SHIRT is an exquisite choice for those who appreciate vibrant luxury. Boasting a very high quality fabric, this t-shirt will grant you a timeless look of sophistication and elegance. Feel the grandeur of luxury with this statement piece.</p>
+      
+</div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+    <p>100% Cotton</p>
+    <p>Weight - 400 GSM</p>
+    <p>Screen print</p>
+    
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+     <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+    </div>
+    </div>
+    </div>
+      
+      
+      
+      
+      
+      
+      
+    <div class="size-body-container">
+    <div class="for-removing" onclick="removeGuide()"></div>
+    <div class="size-guide-container">
+    <span class="upper-close-container" onclick="removeGuide()">
+    <span></span>
+    </span>
+    <div class="size-header">
+    <div class="title-chart">
+    <h3>SIZE GUIDE</h3>
+    </div>
+    </div>
+    <div class="guid-container">
+    <div class="container-navigation">
+    <p class="size-chart-table">SIZE CHART</p>
+    </div>
+    <div class="chart-container">
+ <table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXS</td>
+<td>46"</td>
+<td>23"</td>
+<td>23"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>48"</td>
+<td>24"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>50"</td>
+<td>25"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>52"</td>
+<td>26"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>54"</td>
+<td>27"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>56"</td>
+<td>28"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>58"</td>
+<td>29"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>60"</td>
+<td>30"</td>
+<td>29"</td>
+</tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>XXS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1894BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>XS</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1895BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>S</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1896BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>M</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1897BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>L</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1898BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>XL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1899BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>XXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1900BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/8064489193752</id>
+      <title>XXXL</title>
+      <s:price currency="INR">7995.00</s:price>
+      <s:sku>B1901BASG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

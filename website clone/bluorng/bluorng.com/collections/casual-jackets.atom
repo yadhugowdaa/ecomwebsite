@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bluorng.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bluorng.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bluorng.com/collections/casual-jackets.atom"/>
+  <title>BLUORNG</title>
+  <updated>2024-12-25T12:52:10+05:30</updated>
+  <author>
+    <name>BLUORNG</name>
+  </author>
+  <entry>
+    <id>https://bluorng.com/products/9565844570392</id>
+    <published>2024-12-25T12:52:10+05:30</published>
+    <updated>2024-12-25T12:52:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/camo-track-jacket"/>
+    <title>CAMO TRACK JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/DSC05100copy.jpg?v=1732203110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            9995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+     
+      <p><span>THE CAMO TRACK JACKET BY BLUORNG OFFERS A PREMIUM OVERSIZED UNISEX FIT, COMBINING STREETWEAR STYLE WITH PERFORMANCE. THE CAMO PRINT AND BOLD LOGO MAKE A STATEMENT. </span>
+      <br>
+      <span>LIGHTWEIGHT AND BREATHABLE, THIS JACKET DELIVERS BOTH COMFORT AND STYLE, MAKING IT A MUST-HAVE FOR YOUR STREETWEAR WARDROBE.</span>
+    </p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% NYLON FABRIC</p>
+      <p>HIGH DENSITY STICKER</p>
+      <p>DRY CLEAN ONLY</p>
+    </div>
+    </div>
+    <!-- <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+        <p>MACHINE WASH FLEECE ON A COOL SETTING. DO NOT BLEACH. AIR DRY ONLY &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+      </div>
+      </div>   -->
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>PRE-ORDER.</p>
+      <p>FREE DELIVERY PAN-INDIA.</p>
+      <p>DISPATCHES DECEMBER 16.</p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+  <table>
+    <tbody>
+      <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SLEEVE LENGTH FROM NECK</th>
+      <th>LENGTH</th>
+      </tr>
+      <tr>
+      <td>XXXS</td>
+      <td>46"</td>
+      <td>31.25"</td>
+      <td>24.5"</td>
+      </tr>
+      <tr>
+      <td>XXS</td>
+      <td>48"</td>
+      <td>31.5"</td>
+      <td>25.5"</td>
+      </tr>
+      <tr>
+      <td>XS</td>
+      <td>50"</td>
+      <td>31.75"</td>
+      <td>26.5"</td>
+      </tr>
+      <tr>
+      <td>S</td>
+      <td>52"</td>
+      <td>32"</td>
+      <td>27.5"</td>
+      </tr>
+      <tr>
+      <td>M</td>
+      <td>54"</td>
+      <td>32.25"</td>
+      <td>28"</td>
+      </tr>
+      <tr>
+      <td>L</td>
+      <td>56"</td>
+      <td>32.5"</td>
+      <td>28.5"</td>
+      </tr>
+      <tr>
+      <td>XL</td>
+      <td>58"</td>
+      <td>32.75"</td>
+      <td>29"</td>
+      </tr>
+      <tr>
+      <td>XXL</td>
+      <td>60"</td>
+      <td>33"</td>
+      <td>29.5"</td>
+      </tr>
+      <tr>
+      <td>XXXL</td>
+      <td>62"</td>
+      <td>33.25"</td>
+      <td>30"</td>
+      </tr>
+      </tbody>
+    </table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>XXXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3838CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>XXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3839CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>XS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3840CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>S</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3841CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>M</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3842CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>L</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3843CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>XL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3844CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>XXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3845CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565844570392</id>
+      <title>XXXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3846CAMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9514185883928</id>
+    <published>2024-12-25T12:49:51+05:30</published>
+    <updated>2024-12-25T12:49:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/polar-stone-track-jacket"/>
+    <title>POLAR STONE TRACK JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/DETAILFRONT.jpg?v=1729329150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            9995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8"><meta charset="utf-8">EXPERIENCE MODERN MINIMALISM WITH BLUORNG’S WHITE LIGHTWEIGHT TRACK JACKET - THE ULTIMATE BLEND OF STYLE AND FUNCTION. THE SLEEK DESIGN LINES, BOLD NEW LOGO, AND COLOUR-BLOCKED PALETTE CREATE A MODERN, VERSATILE STREETWEAR JACKET. THIS LIGHTWEIGHT, BREATHABLE JACKET SEAMLESSLY BLENDS URBAN STYLE WITH ATHLETIC PERFORMANCE AND LETS YOU STAND OUT IN A CROWD.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% NYLON FABRIC</p>
+<p>HIGH DENSITY STICKER</p>
+<p>DRY CLEAN ONLY</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>PACKED WITHIN 24 HOURS.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES NEXT DAY.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SLEEVE LENGTH FROM NECK</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>46"</td>
+<td>31.25"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>48"</td>
+<td>31.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>50"</td>
+<td>31.75"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>52"</td>
+<td>32"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>54"</td>
+<td>32.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>56"</td>
+<td>32.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>58"</td>
+<td>32.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>60"</td>
+<td>33"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>62"</td>
+<td>33.25"</td>
+<td>30"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>XXXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3180POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>XXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3181POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>XS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3182POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>S</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3183POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>M</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3184POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>L</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3185POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>XL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3186POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>XXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3187POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514185883928</id>
+      <title>XXXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3188POLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9514173432088</id>
+    <published>2024-12-24T19:23:57+05:30</published>
+    <updated>2024-12-24T19:23:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-indigo-track-jacket"/>
+    <title>BLACK INDIGO TRACK JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/BLACKFLATLAYFRONT_3fa09540-44cf-4ff0-9334-722570c1b562.jpg?v=1729328996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            9995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-main-container">
+<div class="faq-container">
+<div class="tabs">
+<input checked id="tabone" name="tabs" type="radio"> <label for="tabone">DESCRIPTION</label>
+<div class="tab">
+<div class="product-details">
+<div class="product-details-title">
+<h2>DESCRIPTION</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8"><meta charset="utf-8">UNLEASH YOUR DARK AND EDGY VIBES WITH BLUORNG’S BLACK AND INDIGO TRACK JACKET. THIS LIGHTWEIGHT STREETWEAR JACKET IS A FUSION OF DARK ELEGANCE AND URBAN EDGE. THE CLASSIC BLACK AND INDIGO COLOUR-BLOCKING AND MODERN DESIGN LINES CREATE A VERSATILE PIECE THAT EFFORTLESSLY TRANSITIONS FROM CASUAL TO COOL. THIS STRIKINGLY BOLD JACKET CREATES A SOPHISTICATED YET UNDERSTATED LOOK, PERFECT FOR THE MODERN URBANITE.</p>
+</div>
+</div>
+</div>
+<input id="tabtwo" name="tabs" type="radio"> <label for="tabtwo">DETAILS</label>
+<div class="tab">
+<div class="product-details">
+<div class="product-details-title">
+<h2>DETAILS</h2>
+</div>
+<div class="product-details-desc">
+<p>100% NYLON FABRIC</p>
+<p>HIGH DENSITY STICKER</p>
+<p>DRY CLEAN ONLY</p>
+</div>
+</div>
+</div>
+<input id="tabthree" name="tabs" type="radio"> <label for="tabthree">SHIPPING</label>
+<div class="tab">
+<div class="product-details">
+<div class="product-details-title">
+<h2>SHIPPING</h2>
+</div>
+<div class="product-details-desc">
+<p>PACKED WITHIN 24 HOURS.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES NEXT DAY.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SLEEVE LENGTH FROM NECK</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>46"</td>
+<td>31.25"</td>
+<td>24.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>48"</td>
+<td>31.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>50"</td>
+<td>31.75"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>52"</td>
+<td>32"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>54"</td>
+<td>32.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>56"</td>
+<td>32.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>58"</td>
+<td>32.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>60"</td>
+<td>33"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>62"</td>
+<td>33.25"</td>
+<td>30"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>XXXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3117BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>XXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3118BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>XS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3119BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>S</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3120BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>M</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3121BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>L</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3122BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>XL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3123BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>XXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3124BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9514173432088</id>
+      <title>XXXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B3125BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9565775692056</id>
+    <published>2024-11-22T13:30:14+05:30</published>
+    <updated>2024-11-22T13:30:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/raw-denim-jacket"/>
+    <title>RAW DENIM JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/jhbhyv.jpg?v=1736323869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            11995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+     
+      <p><span>THE RAW DENIM JACKET BY BLUORNG IS A PREMIUM OVERSIZED UNISEX JACKET MADE FROM 100% COTTON DENIM. FEATURING THE ICONIC BLUORNG LOGO. </span>
+      <br>
+      <span>WITH LONG SLEEVES AND A BUTTON-UP FRONT, THIS STREETWEAR ESSENTIAL COMBINES STYLE AND COMFORT, MAKING IT A MUST-HAVE FOR YOUR WARDROBE</span>
+    </p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% COTTON DENIM</p>
+      <p>EMBOSSED BRANDING</p>
+      <p>DRY CLEAN ONLY</p>
+    </div>
+    </div>
+    <div class="product-details">
+      <div class="product-details-title">
+       <h2>WASH CARE</h2>
+      </div>
+      <div class="product-details-desc">
+        <p>USE COLD WATER TO PROTECT AGAINST FADING &amp; SHRINKING.</p>
+        <p>MACHINE WASH FLEECE ON A COOL SETTING. DO NOT BLEACH. AIR DRY ONLY &amp; TURN THEM INSIDE OUT FOR THE WASH.</p>
+      </div>
+      </div>  
+   
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>SHIPPED WITHIN 24 HOURS.</p>
+      <p>FREE DELIVERY PAN-INDIA.</p>
+      <p>DISPATCH NEXT DAY.</p>
+    </div>
+    </div>
+    </div>
+  
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+  <table>
+    <tbody>
+      <tr>
+      <th>SIZE</th>
+      <th>CHEST</th>
+      <th>SHOULDER</th>
+      <th>LENGTH</th>
+      </tr>
+      <tr>
+      <td>XS</td>
+      <td>41.50"</td>
+      <td>19.75"</td>
+      <td>24"</td>
+      </tr>
+      <tr>
+      <td>S</td>
+      <td>43"</td>
+      <td>20.50"</td>
+      <td>24.25"</td>
+      </tr>
+      <tr>
+      <td>M</td>
+      <td>45"</td>
+      <td>21"</td>
+      <td>25.50"</td>
+      </tr>
+      <tr>
+      <td>L</td>
+      <td>47"</td>
+      <td>21.50"</td>
+      <td>26.25"</td>
+      </tr>
+      <tr>
+      <td>XL</td>
+      <td>49"</td>
+      <td>21.75"</td>
+      <td>27"</td>
+      </tr>
+      <tr>
+      <td>XXL</td>
+      <td>51"</td>
+      <td>22.25"</td>
+      <td>27.75"</td>
+      </tr>
+      <tr>
+      <td>XXXL</td>
+      <td>53"</td>
+      <td>22.75"</td>
+      <td>28.50"</td>
+      </tr>
+      </tbody>
+    </table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>XS</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3870RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>S</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3871RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>M</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3872RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>L</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3873RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>XL</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3874RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>XXL</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3875RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9565775692056</id>
+      <title>XXXL</title>
+      <s:price currency="INR">11995.00</s:price>
+      <s:sku>B3876RAWG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9341464084760</id>
+    <published>2024-07-29T11:21:25+05:30</published>
+    <updated>2024-07-29T11:21:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/oak-buff-jacket"/>
+    <title>OAK BUFF JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/IMG_7530.jpg?v=1718954917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            9995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+  <div class="product-details-container">
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>Description</h2>
+    </div>
+    <div class="product-details-desc">
+      <p><span>THIS OAK BUFF JACKET IS A COLLARED JACKET MADE OF A COTTON-TWILL BLEND FABRIC WITH A SLIGHTLY PADDED INTERIOR. LONG SLEEVES. HIP WELT POCKETS. ZIP-UP FRONT.</span></p>
+    </div>
+    </div>
+    <div class="product-details">
+    <div class="product-details-title">
+     <h2>Details</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>100% COTTON TWILL  </p>
+      <p>EMBROIDERY</p>
+      <p>WEIGHT - 420 GSM</p>
+      <p>DRY CLEAN ONLY</p>
+    </div>
+    </div> 
+    <div class="product-details">
+    <div class="product-details-title">
+    <h2>shipping</h2>
+    </div>
+    <div class="product-details-desc">
+      <p>PRE-ORDER.</p>
+  <p>FREE DELIVERY PAN-INDIA.</p>
+  <p>DISPATCHES NEXT DAY.</p>
+    </div>
+    </div>
+    </div>
+  
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>36"</td>
+<td>17.5"</td>
+<td>24"</td>
+  </tr>
+<tr>
+<td>XXS</td>
+<td>37"</td>
+<td>18"</td>
+<td>24.75"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>39"</td>
+<td>19"</td>
+<td>25.75"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>41"</td>
+<td>19.5"</td>
+<td>25.75"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>43"</td>
+<td>20"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>45"</td>
+<td>20.75"</td>
+<td>27.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>47"</td>
+<td>21.5"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>49"</td>
+<td>22.25"</td>
+<td>28.75"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>51"</td>
+<td>23"</td>
+<td>29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>XXXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B252OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>XXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B253OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>XS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B254OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>S</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B255OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>M</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B256OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>L</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B257OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>XL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B258OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>XXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B259OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464084760</id>
+      <title>XXXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B260OAKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9341461430552</id>
+    <published>2024-06-22T13:18:37+05:30</published>
+    <updated>2024-06-22T13:18:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/red-jacket"/>
+    <title>RUSH RED JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/IMG_7514.jpg?v=1718954874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            9995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span>This RUSH RED JACKET is a collared jacket made of a cotton-twill blend fabric with a slightly padded interior. Long sleeves. Hip welt pockets. Zip-up front.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% COTTON TWILL  </p>
+<p>EMBROIDERY</p>
+<p>WEIGHT - 420 GSM</p>
+<p>DRY CLEAN ONLY</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>36"</td>
+<td>17.5"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>37"</td>
+<td>18"</td>
+<td>24.75"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>39"</td>
+<td>19"</td>
+<td>25.25"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>41"</td>
+<td>19.5"</td>
+<td>25.25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>43"</td>
+<td>20"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>45"</td>
+<td>20.75"</td>
+<td>27.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>47"</td>
+<td>21.5"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>49"</td>
+<td>22.25"</td>
+<td>28.75"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>51"</td>
+<td>23"</td>
+<td>29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>XXXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B261RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>XXS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B262RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>XS</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B263RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>S</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B264RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>M</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B265RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>L</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B266RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>XL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B267RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>XXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B268RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341461430552</id>
+      <title>XXXL</title>
+      <s:price currency="INR">9995.00</s:price>
+      <s:sku>B269RUSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9341464838424</id>
+    <published>2024-06-22T13:18:05+05:30</published>
+    <updated>2024-06-22T13:18:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/all-over-jacket"/>
+    <title>AMBUSH JACKET</title>
+    <s:type>Coats &amp; Jackets</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/IMG_7524.jpg?v=1718954983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>Coats &amp; Jackets<br>
+        <strong>Price: </strong>
+            10995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Description</h2>
+  </div>
+  <div class="product-details-desc">
+  <p><span>THIS AMBUSH JACKET IS A COLLARED JACKET MADE OF A COTTON-TWILL BLEND FABRIC WITH A SLIGHTLY PADDED INTERIOR. LONG SLEEVES. HIP WELT POCKETS. ZIP-UP FRONT.</span></p>
+  </div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>Details</h2>
+  </div>
+  <div class="product-details-desc">
+    <p>100% COTTON TWILL</p>
+    <p>DIGITAL PRINT</p>
+    <p>DRY CLEAN ONLY</p>
+  </div>
+  </div>
+  <div class="product-details">
+  <div class="product-details-title">
+  <h2>shipping</h2>
+  </div>
+  <div class="product-details-desc">
+  <p>Packed within 24 hours.</p>
+  <p>Free delivery Pan-India.</p>
+  <p>Dispatches Next Day.</p>
+  </div>
+  </div>
+  </div>
+<div class="size-body-container">
+<div class="for-removing" onclick="removeGuide()"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container" onclick="removeGuide()"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>36"</td>
+<td>17.5"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>37"</td>
+<td>18"</td>
+<td>24.75"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>39"</td>
+<td>19"</td>
+<td>25.25"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>41"</td>
+<td>19.5"</td>
+<td>25.75"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>43"</td>
+<td>20"</td>
+<td>26.50"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>45"</td>
+<td>20.75"</td>
+<td>27.25"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>47"</td>
+<td>21.5"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>49"</td>
+<td>22.25"</td>
+<td>28.75"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>51"</td>
+<td>23"</td>
+<td>29.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>RX-BL-PRODUCT</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>XXXS</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B243AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>XXS</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B244AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>XS</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B245AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>S</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B246AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>M</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B247AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>L</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B248AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>XL</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B249AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>XXL</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B250AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9341464838424</id>
+      <title>XXXL</title>
+      <s:price currency="INR">10995.00</s:price>
+      <s:sku>B251AMBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

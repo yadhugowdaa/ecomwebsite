@@ -1,0 +1,5268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bluorng.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bluorng.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bluorng.com/collections/oversized-t-shirts.atom"/>
+  <title>BLUORNG</title>
+  <updated>2025-10-14T13:27:33+05:30</updated>
+  <author>
+    <name>BLUORNG</name>
+  </author>
+  <entry>
+    <id>https://bluorng.com/products/9889547190552</id>
+    <published>2025-10-14T13:27:33+05:30</published>
+    <updated>2025-10-14T13:27:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/white-commitment-t-shirt"/>
+    <title>WHITE COMMITMENT T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/junb_lj_n.jpg?v=1759242577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1"><span>The WHITE COMMITMENT T-SHIRT blends minimal aesthetics with a fearless attitude. Crafted from 100% premium cotton and built with a heavyweight 260 GSM fabric, it ensures lasting comfort and structure. The standout feature — a bold red HD print on the back reading “BLUORNG SAID FOREVER IS LIMITED” — adds a statement edge that reflects confidence and individuality. Designed in an oversized silhouette, this </span><span><a class="in-cell-link" href="https://bluorng.com/collections/white-t-shirts" target="_blank">white premium t-shirt</a></span><span> pairs effortlessly with </span><span><a class="in-cell-link" href="https://bluorng.com/collections/cargos" target="_blank">cargos</a></span><span>, denims, or </span><span><a class="in-cell-link" href="https://bluorng.com/collections/joggers" target="_blank">joggers</a></span><span> for a clean yet powerful streetwear look.</span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260GSM</p>
+<p>HD print</p>
+<p>Machine Reverse wash</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6696WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6697WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6698WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6699WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6700WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6701WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6702WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6703WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889547190552</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6704WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9889546993944</id>
+    <published>2025-10-14T13:27:20+05:30</published>
+    <updated>2025-10-14T13:27:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/red-assumption-t-shirt"/>
+    <title>RED ASSUMPTION T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/ijinhjn.jpg?v=1759242594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1"><span>The Red Assumption T-Shirt is a bold streetwear essential crafted from 100% premium cotton with a substantial 260 GSM weight for lasting comfort and durability. This Red Assumption T-Shirt featuring a standout HD print that boldly reads “BLOURNG SAID KEEP EXPECTATIONS OVERSIZED”, this </span><span><a class="in-cell-link" href="https://bluorng.com/collections/oversized-t-shirts" target="_blank">oversized T-shirt</a></span><span> makes a confident, motivational statement wherever you go. Its relaxed, oversized fit and classic round neck make it perfect for layering or rocking solo with your favourite </span><span><a class="in-cell-link" href="https://bluorng.com/collections/jeans" target="_blank">jeans</a></span><span>,</span><span><a class="in-cell-link" href="https://bluorng.com/collections/joggers" target="_blank"> joggers</a></span><span>, or </span><span><a class="in-cell-link" href="https://bluorng.com/collections/cargos" target="_blank">cargo pants</a></span><span>. Ideal for those who want a mix of comfort, style, and attitude, this Red Oversized T-Shirt elevates any casual or streetwear look with effortless flair.</span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260GSM</p>
+<p>HD print</p>
+<p>Machine Reverse wash</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6687REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6688REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6689REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6690REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6691REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6692REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6693REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6694REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546993944</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6695REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9889546961176</id>
+    <published>2025-10-14T13:27:08+05:30</published>
+    <updated>2025-10-14T13:27:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/blue-materialistic-t-shirt-1"/>
+    <title>BLACK PERSONAL T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/ubyuvchtg.jpg?v=1759242636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1"><span>The Black Personalized T-Shirt is a powerful reflection of realism and individuality. This black premium t-shirt made from 100% premium cotton and boasting a robust 260 GSM, it ensures ultimate comfort and form. The HD white "BLUORNG SAID NO ONE'S YOURS" print on the back adds a striking visual impact, designed to make a powerful statement of your attitude. With its oversized fit and minimalist aesthetic, this Black Oversized T-Shirt pairs effortlessly with </span><span><a class="in-cell-link" href="https://bluorng.com/collections/cargos" target="_blank">cargo</a></span><span>, denim, or </span><span><a class="in-cell-link" href="https://bluorng.com/collections/joggers" target="_blank">joggers </a></span><span>for a confident streetwear look. Machine wash in reverse is recommended for long-lasting quality.</span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260GSM</p>
+<p>HD print</p>
+<p>Machine Reverse wash</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6678BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6679BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6680BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6681BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6682BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6683BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6684BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6685BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889546961176</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6686BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9739377508632</id>
+    <published>2025-10-13T13:15:16+05:30</published>
+    <updated>2025-10-13T13:15:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/purple-apex-wild-t-shirt"/>
+    <title>PURPLE APEX WILD T-SHIRT</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/kknk9.jpg?v=1749292795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p class="" data-end="185" data-start="0">MAKE A STATEMENT WITH BLUORNG'S PURPLE APEX WILD T-SHIRT in PURPLE.</p>
+<p class="" data-end="408" data-start="187">CRAFTED FROM HIGH GSM, PREMIUM COTTON, THIS LUXURY TEE OFFERS A HEAVYWEIGHT FEEL AND EXCEPTIONAL COMFORT. DESIGNED WITH A RELAXED FIT AND CLASSIC ROUND NECK, IT’S PERFECT FOR THOSE WHO EMBRACE FEARLESS STYLE WITH AN EDGE.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Jersey</p>
+<p>Weight - 310 GSM</p>
+<p>Puff print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5122PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5123PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5124PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5125PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5126PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5127PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5128PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5129PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9739377508632</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5130PURG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9746528534808</id>
+    <published>2025-10-13T13:14:25+05:30</published>
+    <updated>2025-10-13T13:14:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/white-gold-digger-t-shirt"/>
+    <title>WHITE GOLD DIGGER T-SHIRT</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/wsrfvdcs.jpg?v=1749559229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p class="" data-end="185" data-start="0"><span data-sheets-root="1">Unleash fearless style with the White Gold Digger T-Shirt – bold, oversized, and built for impact.<br>Crafted from premium high-GSM cotton, this off-white t-shirt delivers heavyweight comfort with a relaxed fit that screams streetwear luxury. The standout eagle graphic across the front is more than art – it’s a symbol of power, freedom, and unapologetic individuality.<br><br>Designed with a classic round neck and finished in a clean, minimal shade, it’s a versatile piece that pairs effortlessly with your streetwear rotation.<br><br>Whether you’re making moves or keeping it low-key, the White Gold Digger T-Shirt brings edge, comfort, and quality to every look.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Terry</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5176WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5177WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5178WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5179WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5180WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5181WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5182WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5183WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746528534808</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5184WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9746529616152</id>
+    <published>2025-10-13T13:14:12+05:30</published>
+    <updated>2025-10-13T13:14:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/mint-gold-digger-t-shirt"/>
+    <title>MINT GOLD DIGGER T-SHIRT</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/UHUHUH.jpg?v=1749561045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+<p>Make a bold move with the Mint Gold Digger T-Shirt – where streetwear meets luxury.<br>Crafted from premium, heavyweight cotton, this oversized mint green tee delivers high GSM comfort with a fearless edge. The statement eagle graphic stands for power and freedom, adding intensity to your everyday fits.</p>
+<p>Designed with a relaxed silhouette, round neck, and streetwear-inspired attitude, it’s built for those who lead with confidence and style. Whether you’re layering it up or flying solo, this tee elevates your street game.</p>
+<p>Luxury feel. Oversized vibe. Unmissable energy.<br>The Mint Gold Digger T-Shirt is not just a look – it’s a mindset.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Terry</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5194MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5195MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5196MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5197MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5198MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5199MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5200MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5201MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529616152</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B5202MING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9746529779992</id>
+    <published>2025-10-13T13:13:58+05:30</published>
+    <updated>2025-10-13T13:13:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-gold-digger-t-shirt"/>
+    <title>BLACK GOLD DIGGER T-SHIRT</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/UBJNJN.jpg?v=1749560857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+<p>Make a bold move with the Black Gold Digger T-Shirt – where streetwear meets luxury.<br>Crafted from premium, heavyweight cotton, this oversized black tee delivers high GSM comfort with a fearless edge. The statement eagle graphic stands for power and freedom, adding intensity to your everyday fits.</p>
+<p>Designed with a relaxed silhouette, round neck, and streetwear-inspired attitude, it’s built for those who lead with confidence and style. Whether you’re layering it up or flying solo, this tee elevates your street game.</p>
+<p>Luxury feel. Oversized vibe. Unmissable energy.<br>The Black Gold Digger T-Shirt is not just a look – it’s a mindset.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Terry</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559228184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559260952</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559293720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559326488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559359256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559392024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559424792</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559457560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9746529779992</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>50070559490328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9887477989656</id>
+    <published>2025-10-01T13:30:02+05:30</published>
+    <updated>2025-10-01T13:30:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/brown-ravage-t-shirt"/>
+    <title>BROWN SABER RAGER T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/jkhbkubhj_3bc243e0-06c0-431f-b47b-ea17c6478886.jpg?v=1759241964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p dir="ltr"><span>The </span><span>Brown Saber T-Shirt</span><span> reflects the savage wildness of TRAV-AGE, in which each instant is alive. The graphic of the saber-tooth is an expression of wildness as it feeds on high-energy beats as well as the intensity of the show. It represents a symbol of fearless motion and irreversible flow.</span></p>
+<p dir="ltr"><span>Constructed out of high-quality heavyweight cotton, this </span><span>oversized concert shirt</span><span> has a round neck, drop-shoulder style and structured fit with breathable comfort that will last. The graphic of the saber-tooth is emphasised by the warm brown bottom, making it strong and street-worthy.</span></p>
+<p dir="ltr">Pair it with <a href="https://bluorng.com/collections/cargos">cargos</a>, layer or wear tattered <a href="https://bluorng.com/collections/jeans">jeans </a>and make it stage to the street.<br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6597BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6598BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6599BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6600BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6601BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6602BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6603BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6604BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887477989656</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6605BROG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9887478153496</id>
+    <published>2025-10-01T13:29:55+05:30</published>
+    <updated>2025-10-01T13:29:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-ravage-t-shirt"/>
+    <title>BLACK SABER RAGER T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/hjkbn.n.jpg?v=1759241452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p dir="ltr"><span>The </span><span>Black Saber T-Shir</span><span>t possesses the untamed energy of the night, in which each beat creates a mad frenzy. The saber tooth graphic is an expression of pure strength and high energy scenes, the excitement and intensity of the final set of life. It is an utterance of fearless motion, and is made to suit those who live to the beat of the press.</span></p>
+<p dir="ltr"><span>Made of high quality heavyweight cotton, this </span><span>oversized concert tee</span><span> has a traditional round neck, drop shoulder and fitted fit with breathable comfort that stands the test of time. This saber-tooth graphic stands out on a deep black base and has a bold street-ready look.</span></p>
+<p dir="ltr">Wear it with ripped <a href="https://bluorng.com/collections/jeans">jeans</a>, overstated streetwear or <a href="https://bluorng.com/collections/cargos">cargos</a> to create a festival-appropriate, stage-to-the-streets outfit.<br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Pre-order.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatch from October 10.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6651BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6652BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6653BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6654BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6655BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6656BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6657BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6658BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9887478153496</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6659BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9889549058328</id>
+    <published>2025-10-01T13:29:51+05:30</published>
+    <updated>2025-10-01T13:29:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/white-t-shirt"/>
+    <title>WHITE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/iojihunl.jpg?v=1759640307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p dir="ltr"><span>The </span><span>White Mammoth T-Shirt</span><span> is the energy of the TRAV-AGE that transforms every moment into a statement. The mammoth graphic represents an irrepressible presence, riding sublime basslines and concert vibrations that make you feel you are being swept away by the crowd. It is not just a print--it is a motion, the size and the force of the performance.</span></p>
+<p dir="ltr"><span>Made of high-quality heavyweight cotton, the </span><span>oversized concert tee</span><span> is designed with a round neck fit, drop-shoulder, and structured fit, which has breathable comfort and a longer-lasting fit. The mammoth graphic is emphasised with the help of the clean white canvas and making it bold.</span></p>
+<p dir="ltr">Make it street style with layered clothes, ripped or <a href="https://bluorng.com/collections/cargos">cargos</a> to make it festival ready, stage to street.<br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6705WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6706WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6707WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6708WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6709WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6710WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6711WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6712WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549058328</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6713WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9889549287704</id>
+    <published>2025-10-01T13:29:34+05:30</published>
+    <updated>2025-10-01T13:29:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/grey-t-shirt"/>
+    <title>GREY T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/uonjlni_k_91abe0dc-746d-45c1-88a1-d8653958b415.jpg?v=1759242390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p dir="ltr"><span>Grey Mammoth T-Shirt</span><span> utilises the raw energy of TRAV-AGE, where each moment is monumental. The mammoth graphic has an unrelenting presence, with bass lines and concert vibes that sweep you through the performance. Both details glorify a larger movement than we are, and the size of the moment is unbelievable.</span></p>
+<p dir="ltr"><span>Made out of high quality heavyweight cotton, this </span><span>oversized concert tee </span><span>is designed with a classic round neck, drop-shoulder fit, and structured body with breathable comfort that lasts. The mammoth print stands out against the clean grey base, and it is a bold piece of clothing to add to any wardrobe.<br><br></span><span data-sheets-root="1"><span>Easily worn with a pair of distressed </span><a href="https://bluorng.com/collections/jeans"><span>jeans</span></a><span>, </span><a href="https://bluorng.com/collections/cargos"><span>cargos</span></a><span>, or layered on the streets, it looks great on the stage and at a festival.</span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6714GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6715GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6716GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6717GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6718GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6719GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6720GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6721GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9889549287704</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6722GREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9851618197784</id>
+    <published>2025-09-26T22:35:33+05:30</published>
+    <updated>2025-09-26T22:35:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-iced-t-shirt"/>
+    <title>BLACK ICED T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/jiohyigb.jpg?v=1758906255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            6700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1">The Black ICED T-Shirt is a bold streetwear essential crafted from premium 100% cotton with a solid 300 GSM weight for lasting comfort. This stud embroidered black T-shirt features a loose fit, round neck, and short sleeves for everyday ease. With 400+ sparkling studs embroidered on the front, it delivers a striking statement while staying versatile for casual or layered looks. Designed as a Black ICED Cotton T-shirt, it blends comfort, durability, and standout style in one iconic piece.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% cotton</p>
+<p>Weight - 300 GSM</p>
+<p>400+ EMBROIDERED STUDS</p>
+<p>DRY CLEAN ONLY</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>19.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21.5"</td>
+<td>28.50"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>28.75"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>XXXS</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6295BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>XXS</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6296BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>XS</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6297BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>S</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6298BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>M</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6299BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>L</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6300BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>XL</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6301BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>XXL</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6302BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851618197784</id>
+      <title>XXXL</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6303BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9851624292632</id>
+    <published>2025-09-26T22:34:35+05:30</published>
+    <updated>2025-09-26T22:34:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/ivory-iced-t-shirt"/>
+    <title>IVORY ICED T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/ecsdcwaesd_7285b286-6f54-4b0e-8fce-e2cfbfc8657a.jpg?v=1758906304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            6700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1">The IVORY ICED T-Shirt is a <a href="https://bluorng.com/" rel="noopener" target="_blank">premium streetwear</a> essential crafted from 100% cotton with a heavyweight 300 GSM finish. This Cotton Ivory ICED T-shirt offers an oversized, loose fit with a classic round neck and short sleeves for all-day comfort. Featuring over 400+ shiny studs, the bold front embroidery adds a striking edge, making it a true statement piece. This stud embroidered t-shirt is designed for standout style, perfect for layering with <a href="https://bluorng.com/collections/jeans" rel="noopener" target="_blank">jeans</a>, <a href="https://bluorng.com/collections/cargos" rel="noopener" target="_blank">cargos</a>, or <a href="https://bluorng.com/collections/jackets" rel="noopener" target="_blank">jackets</a>. Dry clean only.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% cotton</p>
+<p>Weight - 300 GSM</p>
+<p>400+ EMBROIDERED STUDS</p>
+<p>DRY CLEAN ONLY</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>19.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21.5"</td>
+<td>28.50"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>28.75"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>XXXS</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6313IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>XXS</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6314IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>XS</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6315IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>S</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6316IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>M</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6317IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>L</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6318IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>XL</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6319IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>XXL</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6320IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9851624292632</id>
+      <title>XXXL</title>
+      <s:price currency="INR">6700.00</s:price>
+      <s:sku>B6321IVOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9868392431896</id>
+    <published>2025-09-25T13:25:27+05:30</published>
+    <updated>2025-09-25T13:25:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/bg-uni-green-t-shirt-1"/>
+    <title>BG UNI GREEN T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/dcdcddcdcd_4a8a483b-2b90-4f71-a8d1-45f7064e5e74.jpg?v=1758715731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1"><span>The BG UNI Green T-Shirt delivers premium comfort in heavyweight 260 GSM cotton. Features bold puff print artwork on the front for a striking 3D effect. Oversized unisex design with a classic round neck for easy wear. The vivid green color makes it a standout streetwear piece. Complete the look with <a href="https://bluorng.com/collections/joggers" target="_blank" rel="noopener">joggers</a>, <a href="https://bluorng.com/collections/cargos" target="_blank" rel="noopener">cargos</a>, <a href="https://bluorng.com/collections/jeans" target="_blank" rel="noopener">jeans</a>, sneakers or <a href="https://bluorng.com/collections/jackets" target="_blank" rel="noopener">jackets</a> for effortless everyday style.</span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Blacked party</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6516BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6517BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6518BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6519BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6520BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6521BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6522BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6523BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392431896</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6524BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9868392399128</id>
+    <published>2025-09-25T13:25:13+05:30</published>
+    <updated>2025-09-25T13:25:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/bg-uni-orng-t-shirt"/>
+    <title>BG UNI ORNG T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/dxcsazx.jpg?v=1758791647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1"><span>The BG UNI Orange T-Shirt delivers everyday comfort in heavyweight 260 GSM cotton. Features bold puff print artwork with vibrant colors for a standout 3D effect. Designed in an oversized unisex fit with a round neck for relaxed styling. The bright orange tone adds energy to any look. Complete the look with <a href="https://bluorng.com/collections/joggers" target="_blank" rel="noopener">joggers</a>, <a href="https://bluorng.com/collections/jeans">Jeans</a>, sneakers or <a href="https://bluorng.com/collections/jackets">jackets</a> for effortless everyday style</span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Blacked party</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6507BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6508BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6509BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6510BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6511BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6512BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6513BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6514BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392399128</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6515BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9868392300824</id>
+    <published>2025-09-25T13:24:58+05:30</published>
+    <updated>2025-09-25T13:24:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/bg-uni-grey-t-shirt"/>
+    <title>BG UNI GREY T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/wesadcsa.jpg?v=1758715925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1"><span>The BG UNI Grey T-Shirt offers premium comfort in heavyweight 260 GSM cotton. Featuring bold puff print artwork on the front with a striking 3D effect, this </span><span><a class="in-cell-link" href="https://bluorng.com/collections/oversized-t-shirts" target="_blank">oversized unisex t-shirt</a></span><span> is designed for effortless street style. Constructed with a relaxed fit and a classic round neck, it provides all-day ease and versatility. The muted grey tone adds a subtle edge while maintaining urban appeal. Pair this </span><span><a class="in-cell-link" href="https://bluorng.com/collections/t-shirts" target="_blank">premium t-shirt</a></span><span> with </span><span><a class="in-cell-link" href="https://bluorng.com/products/black-ripstock-cargos" target="_blank">Black Joggers</a></span><span>, Washed Denims, or </span><span><a class="in-cell-link" href="https://bluorng.com/collections/cargos" target="_blank">Cargo Pants</a></span><span> for a ready-for-street look. </span></span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Blacked party</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6160BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6161BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6162BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6163BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6164BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6165BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6166BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6167BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9868392300824</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6168BGUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9869165953304</id>
+    <published>2025-09-19T19:59:59+05:30</published>
+    <updated>2025-09-19T19:59:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/red-fine-dine-t-shirt"/>
+    <title>RED FINE DINE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/junjn_l_kl.jpg?v=1758360124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p dir="ltr"><span data-sheets-root="1">Own the spotlight with the Red Fine Dine T-Shirt – where bold design meets premium comfort. Made from soft red cotton, this heavyweight tee delivers a relaxed fit built for all-day wear. The unique bird-inspired artwork turns this red bird printed t-shirt into a true standout, while the vibrant shade adds instant impact to any outfit. From street-ready cargos to classic denim, this red premium t-shirt is designed for effortless versatility and lasting style.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6259REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6260REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6261REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6262REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6263REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6264REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6265REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6266REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165953304</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6267REDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9869165723928</id>
+    <published>2025-09-19T19:59:41+05:30</published>
+    <updated>2025-09-19T19:59:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-fine-dine-t-shirt"/>
+    <title>BLACK FINE DINE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/kjn_oijpo.jpg?v=1756481620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p dir="ltr"><span data-sheets-root="1">Make a statement in the Black Fine Dine T-Shirt – where streetwear meets luxury in a bold, modern form.<br>Cut from premium heavyweight cotton, this Black Premium T-Shirt offers a structured fit with breathable comfort that’s made to last. The clean black base sets the stage for the bird-inspired graphic print, giving it that unique edge every wardrobe craves.<br><br>With its versatile silhouette, you can pair it effortlessly with cargos, denim, or layered fits for an elevated streetwear vibe. The oversized drop-shoulder design ensures maximum comfort without compromising on style.<br><br>This Black Bird Printed T-Shirt isn’t just clothing – it’s a statement piece built for those who like their fashion refined yet fearless.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6277BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6278BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6279BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6280BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6281BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6282BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6283BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6284BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869165723928</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6285BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9879173038360</id>
+    <published>2025-09-19T19:59:16+05:30</published>
+    <updated>2025-09-19T19:59:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/breakfast-table-t-shirt-1"/>
+    <title>BREAKFAST TABLE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/iuhnlj.jpg?v=1758201921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            5200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-main-container">
+<div class="faq-container">
+<div class="tabs">
+<input checked id="tabone" name="tabs" type="radio"> <label for="tabone">DESCRIPTION</label>
+<div class="tab">
+<div class="product-details">
+<div class="product-details-title">
+<h2>DESCRIPTION</h2>
+</div>
+<div class="product-details-desc">
+<p class="p1" style="text-align: left;"><meta charset="utf-8">The Breakfast Table T-Shirt delivers premium comfort in heavyweight 260 GSM cotton. Features an exclusive all-over breakfast print with discharge technique for vintage appeal. Relaxed fit design with round neck construction. Each piece varies slightly due to hand-screening process. Perfect for layering or solo wear with denim and sneakers.<br></p>
+</div>
+</div>
+</div>
+<input id="tabtwo" name="tabs" type="radio"> <label for="tabtwo">DETAILS</label>
+<div class="tab">
+<div class="product-details">
+<div class="product-details-title">
+<h2>DETAILS</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>All-Over discharged Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+</div>
+<input id="tabthree" name="tabs" type="radio"> <label for="tabthree">SHIPPING</label>
+<div class="tab">
+<div class="product-details">
+<div class="product-details-title">
+<h2>SHIPPING</h2>
+</div>
+<div class="product-details-desc">
+<p>Pre-order.</p>
+<p>Free delivery Pan-India</p>
+<p>Dispatch from October 10.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>XXXS</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6561BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>XXS</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6562BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>XS</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6563BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>S</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6564BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>M</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6565BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>L</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6566BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>XL</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6567BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>XXL</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6568BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9879173038360</id>
+      <title>XXXL</title>
+      <s:price currency="INR">5200.00</s:price>
+      <s:sku>B6569BREG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9869163135256</id>
+    <published>2025-09-11T23:55:43+05:30</published>
+    <updated>2025-09-11T23:55:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-bird-of-paradise-t-shirt"/>
+    <title>BLACK BIRD OF PARADISE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/qwxaws.jpg?v=1757602920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8"><span data-sheets-root="1">Redefine your streetwear style with the BLACK BIRD OF PARADISE T-SHIRT – a blend of bold design and premium comfort. This Black Unisex T-Shirt is made from 100% cotton, heavyweight 260 GSM fabric for durability and luxe feel. Featuring puff screen print with intricate detailing, it delivers both statement and substance. With its oversized fit, this Black Premium T-Shirt pairs effortlessly with cargos, denim, or shorts, making it a versatile essential for modern streetwear lovers.</span><br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff and Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6642BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6643BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6644BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6645BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6646BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6647BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6648BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6649BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163135256</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6650BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9869163364632</id>
+    <published>2025-09-11T23:55:32+05:30</published>
+    <updated>2025-09-11T23:55:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/white-bird-of-paradise-t-shirt"/>
+    <title>WHITE BIRD OF PARADISE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/tt69166_249e457e-076e-4b03-b39c-f1d73679e398.jpg?v=1757603422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8">Own the streets with the WHITE BIRD OF PARADISE T-SHIRT – a White Unisex T-Shirt crafted for premium comfort and standout style. Made from 100% cotton with heavyweight 260 GSM fabric, this White Premium T-Shirt delivers an oversized fit that balances ease with edge. The bold puff screen print and detailed artwork make it a statement piece built to last. Designed for streetwear lovers, it pairs seamlessly with denim, cargos, or shorts, taking you from casual days to bold nights. A must-have for those who value comfort, durability, and style in one.<br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff and Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6633WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>XXS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6634WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>XS</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6635WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>S</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6636WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>M</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6637WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>L</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6638WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>XL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6639WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>XXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6640WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869163364632</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4200.00</s:price>
+      <s:sku>B6641WHIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9869159170328</id>
+    <published>2025-09-11T23:55:21+05:30</published>
+    <updated>2025-09-11T23:55:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/bird-of-paradise-full-sleeve-t-shirt-1"/>
+    <title>BIRD OF PARADISE FULL SLEEVE T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/ijkm_km.jpg?v=1757414894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            7200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8">Turn heads with the BIRD OF PARADISE FULL SLEEVE T-SHIRT—a Red Full Sleeve Premium T-Shirt designed for modern streetwear enthusiasts. Crafted from soft waffle fabric, it delivers a textured look with breathable comfort. This Full Sleeve Unisex T-Shirt balances bold design with everyday versatility, making it ideal for layering or wearing solo. The premium construction ensures durability while the relaxed fit offers effortless movement. Whether styled with denim, joggers, or layered under a jacket, this Red Full Sleeve T-Shirt adds a striking streetwear edge to your wardrobe. Combining comfort, function, and style, it’s the perfect pick for those who want more from a Full Sleeve Premium T-Shirt than just basics—bringing fashion and attitude together in one iconic piece.<br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% COTTON</p>
+<p>RIB NECK</p>
+<p>WEIGHT - 280 GSM</p>
+<p>SCREEN PRINT</p>
+<p>REVERSE WASH ONLY</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>PACKED WITHIN 24 HOURS.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES NEXT DAY.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>20"</td>
+<td>22.25"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>41"</td>
+<td>20.5"</td>
+<td>23.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>43"</td>
+<td>21"</td>
+<td>24"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>25"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.5"</td>
+<td>25.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23"</td>
+<td>26"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>23.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>24"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>24.5"</td>
+<td>27.5"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>test-tag</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>XXXS</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6367BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>XXS</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6368BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>XS</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6369BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>S</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6370BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>M</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6371BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>L</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6372BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>XL</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6373BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>XXL</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6374BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9869159170328</id>
+      <title>XXXL</title>
+      <s:price currency="INR">7200.00</s:price>
+      <s:sku>B6375BIRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9864583414040</id>
+    <published>2025-09-05T19:58:42+05:30</published>
+    <updated>2025-09-05T19:58:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/cobalt-blu-catch-t-shirt"/>
+    <title>COBALT BLU CATCH T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/b6b65y56.jpg?v=1756905223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><meta charset="utf-8"><span data-sheets-root="1">Make a statement with the Cobalt Blu Catch T-Shirt, a bold fusion of style and attitude. This blue oversized t-shirt features a striking puff print design that adds depth and dimension, turning everyday streetwear into a standout look.<br><br>Crafted from 100% cotton at a heavyweight 260 GSM, this printed blue t-shirt offers a premium, luxurious feel while ensuring long-lasting comfort. The relaxed oversized fit with a classic round neck brings effortless street style, perfect for those who like their fashion loud, confident, and unapologetic.<br><br>Built for comfort and edge, the Cobalt Blu Catch T-Shirt is your go-to piece to stand out in any crowd.</span><br></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches next day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6421COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>XXS</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6422COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>XS</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6423COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>S</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6424COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>M</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6425COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>L</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6426COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>XL</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6427COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>XXL</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6428COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9864583414040</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4995.00</s:price>
+      <s:sku>B6429COBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9838001684760</id>
+    <published>2025-09-05T19:45:49+05:30</published>
+    <updated>2025-09-05T19:45:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/black-angler-t-shirt"/>
+    <title>BLACK ANGLER T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/ddsd.jpg?v=1756990840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p data-start="0" data-end="234" class="">UNLEASH POWER AND STYLE WITH BLUORNG'S OVERSIZED BLACK ANGLER T-SHIRT, <meta charset="utf-8"> BOASTING A POWERFUL FISH SKELETON GRAPHIC THAT EMBODIES STRENGTH, REBELLION, AND STREET ATTITUDE. THE HIGH-CONTRAST DESIGN STANDS OUT ON THE DEEP BLACK BASE, MAKING A BOLD STYLE STATEMENT.</p>
+<p data-start="236" data-end="424" class="">TAILORED IN A RELAXED FIT STREETWEAR STYLE WITH A CLASSIC ROUND NECK, THIS HIGH GSM, PREMIUM COTTON TEE OFFERS A LUXURIOUS, HEAVYWEIGHT FEEL. MADE FOR THOSE WHO DEMAND COMFORT WITHOUT COMPROMISING ON EDGE.</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton Jersey</p>
+<p>Weight - 310 GSM</p>
+<p>Puff print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>Packed within 24 hours.</p>
+<p>Free delivery Pan-India.</p>
+<p>Dispatches Next Day.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>39"</td>
+<td>19.5"</td>
+<td>26.5"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>20.5"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>21"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>21.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>22"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>22.5"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>23"</td>
+<td>31"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>23.5"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6124BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6125BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6126BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6127BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6128BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6129BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6130BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6131BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9838001684760</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6132BLAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bluorng.com/products/9856367657240</id>
+    <published>2025-09-05T19:45:41+05:30</published>
+    <updated>2025-09-05T19:45:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://bluorng.com/products/navy-deep-sea-t-shirt-1"/>
+    <title>NAVY DEEP SEA T-SHIRT</title>
+    <s:type>T-SHIRT</s:type>
+    <s:vendor>Bluorng</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0514/9494/4962/files/tb6b6tbt.jpg?v=1756904477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluorng<br>
+        <strong>Type: </strong>T-SHIRT<br>
+        <strong>Price: </strong>
+            4700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details-container">
+<div class="product-details">
+<div class="product-details-title">
+<h2>Description</h2>
+</div>
+<div class="product-details-desc">
+<p><span data-sheets-root="1">Elevate your streetwear game with the NAVY DEEP SEA T-SHIRT, designed for comfort, style, and durability. Crafted from 100% cotton and a heavyweight 260 GSM fabric, this premium navy blue t-shirt gives you a relaxed oversized fit that feels as good as it looks.<br><br>The bold puff screen print combined with classic screen print detailing adds a unique textured finish, making this oversized navy t-shirt a standout piece in any wardrobe. Its deep navy tone pairs effortlessly with jeans, cargos, or shorts, giving you versatile styling options for every occasion.<br><br>Whether you’re stepping out for the day or keeping it casual, the NAVY DEEP SEA T-SHIRT offers the perfect blend of streetwear edge and everyday comfort. A must-have essential for those who appreciate premium quality and modern design.</span></p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>Details</h2>
+</div>
+<div class="product-details-desc">
+<p>100% Cotton</p>
+<p>Weight - 260 GSM</p>
+<p>Puff Screen Print</p>
+<p>Reverse Wash only</p>
+</div>
+</div>
+<div class="product-details">
+<div class="product-details-title">
+<h2>shipping</h2>
+</div>
+<div class="product-details-desc">
+<p>PRE-ORDER.</p>
+<p>FREE DELIVERY PAN-INDIA.</p>
+<p>DISPATCHES FROM SEPTEMBER 08.</p>
+</div>
+</div>
+</div>
+<div class="size-body-container">
+<div class="for-removing"><br></div>
+<div class="size-guide-container">
+<span class="upper-close-container"> <span></span> </span>
+<div class="size-header">
+<div class="title-chart">
+<h3>SIZE GUIDE</h3>
+</div>
+</div>
+<div class="guid-container">
+<div class="container-navigation">
+<p class="size-chart-table">SIZE CHART</p>
+</div>
+<div class="chart-container">
+<table>
+<tbody>
+<tr>
+<th>SIZE</th>
+<th>CHEST</th>
+<th>SHOULDER</th>
+<th>LENGTH</th>
+</tr>
+<tr>
+<td>XXXS</td>
+<td>38"</td>
+<td>18.5"</td>
+<td>27"</td>
+</tr>
+<tr>
+<td>XXS</td>
+<td>42"</td>
+<td>20.5"</td>
+<td>27.5"</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>44"</td>
+<td>21.25"</td>
+<td>28"</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46"</td>
+<td>22"</td>
+<td>28.5"</td>
+</tr>
+<tr>
+<td>M</td>
+<td>48"</td>
+<td>22.75"</td>
+<td>29"</td>
+</tr>
+<tr>
+<td>L</td>
+<td>50"</td>
+<td>23.5"</td>
+<td>29.5"</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>52"</td>
+<td>24.25"</td>
+<td>30"</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>54"</td>
+<td>25"</td>
+<td>30.5"</td>
+</tr>
+<tr>
+<td>XXXL</td>
+<td>56"</td>
+<td>25.75"</td>
+<td>31"</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Blacked party</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>over-sized</s:tag>
+    <s:tag>oversized</s:tag>
+    <s:tag>street wear</s:tag>
+    <s:tag>tshirt</s:tag>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>XXXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6349NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>XXS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6350NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>XS</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6351NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>S</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6352NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>M</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6353NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>L</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6354NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>XL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6355NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>XXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6356NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bluorng.com/products/9856367657240</id>
+      <title>XXXL</title>
+      <s:price currency="INR">4700.00</s:price>
+      <s:sku>B6357NAVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
