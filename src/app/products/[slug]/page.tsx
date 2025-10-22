@@ -1,41 +1,38 @@
 'use client'
 
 import { useState } from 'react'
-import { notFound } from 'next/navigation'
+import { useParams } from 'next/navigation'
+import Link from 'next/link'
 import Image from 'next/image'
-import { HiHeart, HiShoppingBag } from 'react-icons/hi'
 import { useCartStore } from '@/store/cartStore'
 import { toast } from 'react-toastify'
 
-interface ProductPageProps {
-  params: {
-    slug: string
-  }
-}
-
-export default function ProductPage({ params }: ProductPageProps) {
-  const { slug } = params
+export default function ProductPage() {
+  const params = useParams()
+  const slug = params?.slug as string
+  const [selectedSize, setSelectedSize] = useState('')
+  const [quantity, setQuantity] = useState(1)
+  const [selectedImage, setSelectedImage] = useState(0)
   const { addItem } = useCartStore()
 
-  const [selectedSize, setSelectedSize] = useState('')
-  const [selectedColor, setSelectedColor] = useState('')
-  const [quantity, setQuantity] = useState(1)
-
-  // TODO: Fetch product from API
   const product = {
-    id: '1',
-    name: 'Black Oversized T-Shirt',
-    slug: 'black-oversized-tshirt',
-    description: 'Premium cotton oversized tee with a relaxed fit. Perfect for streetwear styling.',
-    price: 1299,
-    compareAtPrice: 1999,
-    images: ['/images/products/black-tshirt-1.jpg', '/images/products/black-tshirt-2.jpg'],
+    id: 1,
+    name: slug.toUpperCase().replace(/-/g, ' '),
+    price: 1699,
+    description: 'Lunox ' + slug.replace(/-/g, ' ') + '. The design with minimal branding. It is 100% jersey cotton, 240 gsm and screen printed. The fit is a Lunox signature oversized fit.',
+    images: [
+      '/bluorng-assets/cdn/shop/files/hbkhb_khb.jpg',
+      '/bluorng-assets/cdn/shop/files/junb_lj_n.jpg',
+      '/bluorng-assets/cdn/shop/files/missing-t-shirt-101.jpg',
+    ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-    colors: ['Black', 'White', 'Gray'],
-    inStock: true,
-    gsm: 220,
-    fabric: '100% Cotton',
-    care: ['Machine wash cold', 'Tumble dry low', 'Do not bleach'],
+    features: [
+      '100% Premium Cotton',
+      '240 GSM Fabric',
+      'Screen Printed',
+      'Oversized Fit',
+      'Unisex',
+    ]
   }
 
   const handleAddToCart = () => {
@@ -43,164 +40,156 @@ export default function ProductPage({ params }: ProductPageProps) {
       toast.error('Please select a size')
       return
     }
-    if (!selectedColor) {
-      toast.error('Please select a color')
-      return
-    }
 
     addItem({
-      productId: product.id,
+      id: product.id.toString(),
       name: product.name,
       price: product.price,
-      size: selectedSize,
-      color: selectedColor,
-      quantity,
+      quantity: quantity,
       image: product.images[0],
-      slug: product.slug,
+      size: selectedSize,
     })
 
     toast.success('Added to cart!')
   }
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-        {/* Product Images */}
-        <div>
-          <div className="aspect-square bg-gray-100 rounded-lg mb-4 flex items-center justify-center text-8xl">
-            👕
+    <div className="min-h-screen bg-white">
+      {/* Breadcrumb */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <nav className="flex text-sm">
+          <Link href="/" className="text-gray-500 hover:text-gray-700">
+            Home
+          </Link>
+          <span className="mx-2 text-gray-400">/</span>
+          <Link href="/collections/all-products" className="text-gray-500 hover:text-gray-700">
+            Products
+          </Link>
+          <span className="mx-2 text-gray-400">/</span>
+          <span className="text-gray-900">{product.name}</span>
+        </nav>
+      </div>
+
+      {/* Product Section */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+          {/* Product Images */}
+          <div className="space-y-4">
+            <div className="aspect-square relative bg-gray-100 rounded-lg overflow-hidden">
+              <Image
+                src={product.images[selectedImage]}
+                alt={product.name}
+                fill
+                className="object-cover"
+              />
+            </div>
+
+            {/* Thumbnails */}
+            <div className="grid grid-cols-4 gap-4">
+              {product.images.map((image, index) => (
+                <button
+                  key={index}
+                  onClick={() => setSelectedImage(index)}
+                  className={`aspect-square relative bg-gray-100 rounded-lg overflow-hidden border-2 ${
+                    selectedImage === index ? 'border-gray-900' : 'border-transparent'
+                  }`}
+                >
+                  <Image
+                    src={image}
+                    alt={`${product.name} - ${index + 1}`}
+                    fill
+                    className="object-cover"
+                  />
+                </button>
+              ))}
+            </div>
           </div>
-          <div className="grid grid-cols-4 gap-4">
-            {[1, 2, 3, 4].map((i) => (
-              <div
-                key={i}
-                className="aspect-square bg-gray-100 rounded-lg cursor-pointer hover:border-2 hover:border-black flex items-center justify-center text-4xl"
-              >
-                👕
+
+          {/* Product Info */}
+          <div className="space-y-6">
+            <div>
+              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+                {product.name}
+              </h1>
+              <p className="text-3xl font-semibold text-gray-900">
+                ₹{product.price}
+              </p>
+            </div>
+
+            <p className="text-gray-600">{product.description}</p>
+
+            {/* Size Selector */}
+            <div>
+              <label className="block text-sm font-medium text-gray-900 mb-3">
+                Select Size
+              </label>
+              <div className="grid grid-cols-5 gap-2">
+                {product.sizes.map((size) => (
+                  <button
+                    key={size}
+                    onClick={() => setSelectedSize(size)}
+                    className={`py-3 px-4 border rounded-md text-sm font-medium transition-colors ${
+                      selectedSize === size
+                        ? 'bg-gray-900 text-white border-gray-900'
+                        : 'bg-white text-gray-900 border-gray-300 hover:border-gray-900'
+                    }`}
+                  >
+                    {size}
+                  </button>
+                ))}
               </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Product Info */}
-        <div>
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">{product.name}</h1>
-
-          {/* Price */}
-          <div className="flex items-center gap-4 mb-6">
-            <span className="text-3xl font-bold">₹{product.price}</span>
-            {product.compareAtPrice && (
-              <>
-                <span className="text-xl text-gray-400 line-through">
-                  ₹{product.compareAtPrice}
-                </span>
-                <span className="bg-red-500 text-white text-sm px-2 py-1 rounded">
-                  {Math.round(((product.compareAtPrice - product.price) / product.compareAtPrice) * 100)}% OFF
-                </span>
-              </>
-            )}
-          </div>
-
-          {/* Description */}
-          <p className="text-gray-600 mb-6">{product.description}</p>
-
-          {/* Size Selection */}
-          <div className="mb-6">
-            <div className="flex items-center justify-between mb-3">
-              <label className="block font-semibold">Size</label>
-              <button className="text-sm text-blue-600 hover:underline">Size Guide</button>
             </div>
-            <div className="grid grid-cols-5 gap-2">
-              {product.sizes.map((size) => (
+
+            {/* Quantity Selector */}
+            <div>
+              <label className="block text-sm font-medium text-gray-900 mb-3">
+                Quantity
+              </label>
+              <div className="flex items-center space-x-4">
                 <button
-                  key={size}
-                  onClick={() => setSelectedSize(size)}
-                  className={`border-2 rounded-md py-3 font-medium transition-all ${
-                    selectedSize === size
-                      ? 'border-black bg-black text-white'
-                      : 'border-gray-300 hover:border-black'
-                  }`}
+                  onClick={() => setQuantity(Math.max(1, quantity - 1))}
+                  className="w-10 h-10 border border-gray-300 rounded-md flex items-center justify-center hover:border-gray-900"
                 >
-                  {size}
+                  -
                 </button>
-              ))}
-            </div>
-          </div>
-
-          {/* Color Selection */}
-          <div className="mb-6">
-            <label className="block font-semibold mb-3">Color: {selectedColor}</label>
-            <div className="flex gap-3">
-              {product.colors.map((color) => (
+                <span className="text-lg font-medium w-12 text-center">{quantity}</span>
                 <button
-                  key={color}
-                  onClick={() => setSelectedColor(color)}
-                  className={`px-4 py-2 border-2 rounded-md font-medium transition-all ${
-                    selectedColor === color
-                      ? 'border-black bg-black text-white'
-                      : 'border-gray-300 hover:border-black'
-                  }`}
+                  onClick={() => setQuantity(quantity + 1)}
+                  className="w-10 h-10 border border-gray-300 rounded-md flex items-center justify-center hover:border-gray-900"
                 >
-                  {color}
+                  +
                 </button>
-              ))}
+              </div>
             </div>
-          </div>
 
-          {/* Quantity */}
-          <div className="mb-6">
-            <label className="block font-semibold mb-3">Quantity</label>
-            <div className="flex items-center border-2 border-gray-300 rounded-md w-32">
-              <button
-                onClick={() => setQuantity(Math.max(1, quantity - 1))}
-                className="px-4 py-2 hover:bg-gray-100"
-              >
-                −
-              </button>
-              <span className="flex-1 text-center font-semibold">{quantity}</span>
-              <button
-                onClick={() => setQuantity(quantity + 1)}
-                className="px-4 py-2 hover:bg-gray-100"
-              >
-                +
-              </button>
-            </div>
-          </div>
-
-          {/* Actions */}
-          <div className="flex gap-4 mb-6">
+            {/* Add to Cart Button */}
             <button
               onClick={handleAddToCart}
-              className="flex-1 btn btn-primary flex items-center justify-center gap-2"
+              className="w-full bg-gray-900 text-white py-4 px-8 rounded-md font-medium text-lg hover:bg-gray-800 transition-colors"
             >
-              <HiShoppingBag className="h-5 w-5" />
               Add to Cart
             </button>
-            <button
-              className="btn btn-outline flex items-center justify-center gap-2"
-              aria-label="Add to wishlist"
-            >
-              <HiHeart className="h-5 w-5" />
-            </button>
-          </div>
 
-          {/* Product Details */}
-          <div className="border-t pt-6 space-y-4">
-            <div>
-              <h3 className="font-semibold mb-2">Product Details</h3>
-              <ul className="text-sm text-gray-600 space-y-1">
-                <li>• GSM: {product.gsm}</li>
-                <li>• Fabric: {product.fabric}</li>
-                <li>• Fit: Oversized</li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="font-semibold mb-2">Care Instructions</h3>
-              <ul className="text-sm text-gray-600 space-y-1">
-                {product.care.map((instruction, index) => (
-                  <li key={index}>• {instruction}</li>
+            {/* Product Features */}
+            <div className="border-t border-gray-200 pt-6">
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">Product Details</h3>
+              <ul className="space-y-2">
+                {product.features.map((feature, index) => (
+                  <li key={index} className="flex items-center text-gray-600">
+                    <svg className="w-5 h-5 mr-2 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                    {feature}
+                  </li>
                 ))}
               </ul>
+            </div>
+
+            {/* Shipping Info */}
+            <div className="border-t border-gray-200 pt-6">
+              <h3 className="text-lg font-semibold text-gray-900 mb-4">Shipping & Returns</h3>
+              <p className="text-gray-600 mb-2">Free shipping on orders above ₹2,999</p>
+              <p className="text-gray-600">Easy returns within 7 days</p>
             </div>
           </div>
         </div>
@@ -208,5 +197,3 @@ export default function ProductPage({ params }: ProductPageProps) {
     </div>
   )
 }
-
-

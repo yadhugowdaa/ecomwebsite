@@ -1,21 +1,19 @@
 import Hero from '@/components/home/Hero'
-import FeaturedCollections from '@/components/home/FeaturedCollections'
+import Categories from '@/components/home/Categories'
 import NewArrivals from '@/components/home/NewArrivals'
 import BestSellers from '@/components/home/BestSellers'
+import FeaturedCollections from '@/components/home/FeaturedCollections'
 import Newsletter from '@/components/home/Newsletter'
-import Categories from '@/components/home/Categories'
 
 export default function Home() {
   return (
     <>
       <Hero />
-      <Categories />
       <NewArrivals />
-      <FeaturedCollections />
+      <Categories />
       <BestSellers />
+      <FeaturedCollections />
       <Newsletter />
     </>
   )
 }
-
-

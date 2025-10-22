@@ -76,7 +76,7 @@ const Header = () => {
             </nav>
 
             {/* Actions */}
-            <div className="flex items-center space-x-4">
+            <div className="flex items-center space-x-2 md:space-x-4">
               <button
                 onClick={() => setIsSearchOpen(true)}
                 className="p-2 hover:bg-gray-100 rounded-md"
@@ -86,8 +86,15 @@ const Header = () => {
               </button>
 
               <Link
+                href="/login"
+                className="hidden sm:block text-sm font-medium hover:text-gray-600 transition-colors"
+              >
+                LOGIN
+              </Link>
+
+              <Link
                 href="/account"
-                className="hidden sm:block p-2 hover:bg-gray-100 rounded-md"
+                className="p-2 hover:bg-gray-100 rounded-md"
                 aria-label="Account"
               >
                 <HiUser className="h-5 w-5" />
