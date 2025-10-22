@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import Image from 'next/image'
 
 interface Product {
   id: number
@@ -15,24 +14,23 @@ interface ProductCardProps {
 
 export default function ProductCard({ product }: ProductCardProps) {
   return (
-    <Link href={`/products/${product.slug}`} className="group">
-      <div className="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300">
+    <Link href={`/products/${product.slug}`} className="group block">
+      <div className="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
         {/* Product Image */}
         <div className="aspect-square relative bg-gray-100 overflow-hidden">
-          <Image
+          <img
             src={product.image}
             alt={product.name}
-            fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
+            className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
           />
         </div>
 
         {/* Product Info */}
         <div className="p-4">
-          <h3 className="text-sm font-medium text-gray-900 mb-2 line-clamp-2">
+          <h3 className="text-sm font-semibold text-gray-900 mb-2 line-clamp-2 group-hover:text-blue-600 transition-colors">
             {product.name}
           </h3>
-          <p className="text-lg font-semibold text-gray-900">
+          <p className="text-lg font-bold text-gray-900">
             ₹{product.price}
           </p>
         </div>

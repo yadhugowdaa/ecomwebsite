@@ -3,24 +3,20 @@ import { persist } from 'zustand/middleware'
 
 export interface CartItem {
   id: string
-  productId: string
   name: string
   price: number
-  size: string
-  color: string
+  size?: string
   quantity: number
-  image: string
-  slug: string
+  image?: string
 }
 
 interface CartStore {
   items: CartItem[]
   addItem: (item: Omit<CartItem, 'id'>) => void
-  removeItem: (id: string) => void
-  updateQuantity: (id: string, quantity: number) => void
+  removeItem: (id: string, size?: string) => void
+  updateQuantity: (id: string, size: string | undefined, quantity: number) => void
   clearCart: () => void
-  getTotalPrice: () => number
-  getTotalItems: () => number
+  total: () => number
 }
 
 export const useCartStore = create<CartStore>()(
@@ -31,7 +27,7 @@ export const useCartStore = create<CartStore>()(
       addItem: (item) => {
         const items = get().items
         const existingItem = items.find(
-          (i) => i.productId === item.productId && i.size === item.size && i.color === item.color
+          (i) => i.name === item.name && i.size === item.size
         )
 
         if (existingItem) {
@@ -44,23 +40,23 @@ export const useCartStore = create<CartStore>()(
           })
         } else {
           set({
-            items: [...items, { ...item, id: `${item.productId}-${item.size}-${item.color}-${Date.now()}` }],
+            items: [...items, { ...item, id: `${Date.now()}-${Math.random()}` }],
           })
         }
       },
 
-      removeItem: (id) => {
-        set({ items: get().items.filter((item) => item.id !== id) })
+      removeItem: (id, size) => {
+        set({ items: get().items.filter((item) => !(item.id === id || (item.name === id && item.size === size))) })
       },
 
-      updateQuantity: (id, quantity) => {
+      updateQuantity: (id, size, quantity) => {
         if (quantity <= 0) {
-          get().removeItem(id)
+          get().removeItem(id, size)
           return
         }
         set({
           items: get().items.map((item) =>
-            item.id === id ? { ...item, quantity } : item
+            item.id === id || (item.name === id && item.size === size) ? { ...item, quantity } : item
           ),
         })
       },
@@ -69,12 +65,8 @@ export const useCartStore = create<CartStore>()(
         set({ items: [] })
       },
 
-      getTotalPrice: () => {
+      total: () => {
         return get().items.reduce((total, item) => total + item.price * item.quantity, 0)
-      },
-
-      getTotalItems: () => {
-        return get().items.reduce((total, item) => total + item.quantity, 0)
       },
     }),
     {
@@ -82,5 +74,3 @@ export const useCartStore = create<CartStore>()(
     }
   )
 )
-
-

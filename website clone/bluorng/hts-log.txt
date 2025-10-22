@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Oct 2025 10:31:10 at https://bluorng.com/ https://bluorng.com/collections/new-in https://bluorng.com/collections/t-shirts https://bluorng.com/collections/polos https://bluorng.com/collections/shirts-unisex https://bluorng.com/collections/jackets https://bluorng.com/collections/hoodies https://bluorng.com/collections/sweatshirts https://bluorng.com/collections/cargos https://bluorng.com/collections/jeans https://bluorng.com/collections/shorts https://bluorng.com/collections/pants https://bluorng.com/collections/jersey https://bluorng.com/products/grey-t-shirt +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bluorng.com/ https://bluorng.com/collections/new-in https://bluorng.com/collections/t-shirts https://bluorng.com/collections/polos https://bluorng.com/collections/shirts-unisex https://bluorng.com/collections/jackets https://bluorng.com/collections/hoodies https://bluorng.com/collections/sweatshirts https://bluorng.com/collections/cargos https://bluorng.com/collections/jeans https://bluorng.com/collections/shorts https://bluorng.com/collections/pants https://bluorng.com/collections/jersey https://bluorng.com/products/grey-t-shirt -O1 "C:\Users\Yadhu Gowda\OneDrive\Desktop\website clone\bluorng" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:40:08	Error: 	"Not Found" (404) at link https://bluorng.com/POST (from https://bluorng.com/)
+10:40:08	Error: 	"Error when decompressing" (-1) at link https://bluorng.com/cdn (from https://bluorng.com/)
+10:40:52	Error: 	"Not Found" (404) at link https://bluorng.com/Trident/ (from https://bluorng.com/)
+10:48:12	Error: 	"Not Found" (404) at link https://bluorng.com/collections/round-neck-t-shirts (from https://bluorng.com/)
+10:51:34	Error: 	"Not Found" (404) at link https://bluorng.com/collections/POST (from https://bluorng.com/collections/new-in)
+10:51:34	Error: 	"Not Found" (404) at link https://bluorng.com/collections/Trident/ (from https://bluorng.com/collections/new-in)
+11:49:34	Error: 	"Not Found" (404) at link https://bluorng.com/products/POST (from https://bluorng.com/products/grey-t-shirt)
+11:49:34	Error: 	"Not Found" (404) at link https://bluorng.com/products/Trident/ (from https://bluorng.com/products/grey-t-shirt)
+11:55:42	Error: 	"Not Found" (404) at link https://bluorng.com/policies/POST (from https://bluorng.com/policies/shipping-policy)
+11:55:43	Error: 	"Not Found" (404) at link https://bluorng.com/policies/Trident/ (from https://bluorng.com/policies/shipping-policy)
+12:00:22	Error: 	"Not Found" (404) at link https://bluorng.com/pages/POST (from https://bluorng.com/pages/return-and-exchange-policy)
+12:00:22	Error: 	"Not Found" (404) at link https://bluorng.com/pages/Trident/ (from https://bluorng.com/pages/return-and-exchange-policy)
+12:01:09	Error: 	"Not Found" (404) at link https://bluorng.com/blogs/POST (from https://bluorng.com/blogs/news)
+12:01:09	Error: 	"Not Found" (404) at link https://bluorng.com/blogs/Trident/ (from https://bluorng.com/blogs/news)
+12:22:08	Error: 	Exit requested by shell or user
+12:22:10	Warning: 	File not added due to mirror cancel: https://bluorng.com/cdn/shop/files/DSC05165196.jpg?v=1694451976&width=1445
+12:23:30	Error: 	"Not Found" (404) at link https://bluorng.com/blogs/news/POST (from https://bluorng.com/blogs/news/black-shirt-pant-combinations-that-always-turn-heads)
+12:23:30	Error: 	"Not Found" (404) at link https://bluorng.com/blogs/news/Trident/ (from https://bluorng.com/blogs/news/black-shirt-pant-combinations-that-always-turn-heads)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 53 minutes 46 seconds : 3773 links scanned, 3756 files written (1358021506 bytes overall) [1187308799 bytes received at 173939 bytes/sec], 250781057 bytes transferred using HTTP compression in 589 files, ratio 25%, 26.8 requests per connection
+(17 errors, 1 warnings, 0 messages)
