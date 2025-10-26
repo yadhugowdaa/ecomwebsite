@@ -2,204 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Override to ensure BluOrng styles take precedence */
-body {
-  font-family: var(--font-assistant), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
-}
-
-/* Custom Animations */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes slideIn {
-  from {
-    opacity: 0;
-    transform: translateX(-30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-@keyframes scaleIn {
-  from {
-    opacity: 0;
-    transform: scale(0.9);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
-.animate-fade-in {
-  animation: fadeIn 0.8s ease-out forwards;
-}
-
-.animate-slide-in {
-  animation: slideIn 0.6s ease-out forwards;
-}
-
-.animate-scale-in {
-  animation: scaleIn 0.5s ease-out forwards;
-}
-
-/* Smooth Scrolling */
-html {
-  scroll-behavior: smooth;
-}
-
-/* Custom Scrollbar */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-::-webkit-scrollbar-track {
-  background: #f1f1f1;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 5px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #555;
-}
-
 @layer base {
   html {
     scroll-behavior: smooth;
   }
-
+  
   body {
-    @apply bg-white text-gray-900;
-  }
-}
-
-@layer components {
-  .container {
-    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
-  }
-
-  .btn {
-    @apply px-6 py-3 rounded-md font-medium transition-all duration-200 ease-in-out;
-  }
-
-  .btn-primary {
-    @apply bg-black text-white hover:bg-gray-800 active:bg-gray-900;
-  }
-
-  .btn-secondary {
-    @apply bg-white text-black border-2 border-black hover:bg-gray-100 active:bg-gray-200;
-  }
-
-  .btn-outline {
-    @apply border-2 border-black text-black bg-transparent hover:bg-black hover:text-white;
-  }
-
-  .input {
-    @apply w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent;
-  }
-
-  .card {
-    @apply bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:shadow-xl;
-  }
-
-  .section-title {
-    @apply text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-8;
-  }
-
-  .link-hover {
-    @apply transition-colors duration-200 hover:text-gray-600;
+    font-family: var(--font-assistant), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   }
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
-  }
-
-  .animate-marquee {
-    animation: marquee 30s linear infinite;
-  }
-
-  @keyframes marquee {
+  @keyframes scroll {
     0% {
-      transform: translateX(0%);
+      transform: translateX(0);
     }
     100% {
       transform: translateX(-50%);
     }
   }
-}
 
-/* Custom styles for smooth scrolling */
-* {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* Loading spinner */
-@keyframes spin {
-  to {
-    transform: rotate(360deg);
+  .animate-scroll {
+    animation: scroll 20s linear infinite;
   }
 }
-
-.spinner {
-  animation: spin 1s linear infinite;
-}
-
-/* Image hover effects */
-.image-hover-scale {
-  transition: transform 0.3s ease-in-out;
-}
-
-.image-hover-scale:hover {
-  transform: scale(1.05);
-}
-
-/* Fade in animation */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.fade-in {
-  animation: fadeIn 0.6s ease-out;
-}
-
-/* Gradient text */
-.gradient-text {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-

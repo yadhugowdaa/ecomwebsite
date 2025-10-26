@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { persist } from 'zustand/middleware'
+import { persist, createJSONStorage } from 'zustand/middleware'
 
 export interface CartItem {
   id: string
@@ -13,10 +13,11 @@ export interface CartItem {
 interface CartStore {
   items: CartItem[]
   addItem: (item: Omit<CartItem, 'id'>) => void
-  removeItem: (id: string, size?: string) => void
-  updateQuantity: (id: string, size: string | undefined, quantity: number) => void
+  removeItem: (productId: string, size?: string) => void
+  updateQuantity: (productId: string, size: string | undefined, quantity: number) => void
   clearCart: () => void
   total: () => number
+  getTotalItems: () => number
 }
 
 export const useCartStore = create<CartStore>()(
@@ -39,24 +40,36 @@ export const useCartStore = create<CartStore>()(
             ),
           })
         } else {
+          const newItem: CartItem = {
+            ...item,
+            id: `${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
+          }
           set({
-            items: [...items, { ...item, id: `${Date.now()}-${Math.random()}` }],
+            items: [...items, newItem],
           })
         }
       },
 
-      removeItem: (id, size) => {
-        set({ items: get().items.filter((item) => !(item.id === id || (item.name === id && item.size === size))) })
+      removeItem: (productId, size) => {
+        set({ 
+          items: get().items.filter((item) => 
+            !(item.name === productId || item.id === productId) || 
+            (size && item.size !== size)
+          ) 
+        })
       },
 
-      updateQuantity: (id, size, quantity) => {
+      updateQuantity: (productId, size, quantity) => {
         if (quantity <= 0) {
-          get().removeItem(id, size)
+          get().removeItem(productId, size)
           return
         }
         set({
           items: get().items.map((item) =>
-            item.id === id || (item.name === id && item.size === size) ? { ...item, quantity } : item
+            (item.id === productId || item.name === productId) && 
+            (!size || item.size === size)
+              ? { ...item, quantity }
+              : item
           ),
         })
       },
@@ -66,11 +79,26 @@ export const useCartStore = create<CartStore>()(
       },
 
       total: () => {
-        return get().items.reduce((total, item) => total + item.price * item.quantity, 0)
+        const items = get().items
+        return items.reduce((total, item) => total + (item.price * item.quantity), 0)
+      },
+
+      getTotalItems: () => {
+        return get().items.reduce((total, item) => total + item.quantity, 0)
       },
     }),
     {
-      name: 'cart-storage',
+      name: 'lunox-cart-storage',
+      storage: createJSONStorage(() => {
+        if (typeof window !== 'undefined') {
+          return localStorage
+        }
+        return {
+          getItem: () => null,
+          setItem: () => {},
+          removeItem: () => {},
+        }
+      }),
     }
   )
 )

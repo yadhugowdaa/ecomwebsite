@@ -1,41 +1,65 @@
 'use client'
 
-import { useState } from 'react'
-import { useParams } from 'next/navigation'
+import { useState, useEffect } from 'react'
+import { useParams, useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { useCartStore } from '@/store/cartStore'
 import { toast } from 'react-toastify'
 import { HiMinus, HiPlus, HiHeart, HiShare } from 'react-icons/hi2'
+import { catalogApi } from '@/lib/api'
+
+interface ProductType {
+  _id: string
+  name: string
+  slug: string
+  description: string
+  price: number
+  compareAtPrice?: number
+  images: string[]
+  sizes: string[]
+  colors: string[]
+  inStock: boolean
+  gsm?: number
+  fabric?: string
+  care?: string[]
+}
 
 export default function ProductPage() {
   const params = useParams()
+  const router = useRouter()
   const slug = params?.slug as string
   const [selectedSize, setSelectedSize] = useState('')
   const [quantity, setQuantity] = useState(1)
   const [selectedImage, setSelectedImage] = useState(0)
+  const [product, setProduct] = useState<ProductType | null>(null)
+  const [loading, setLoading] = useState(true)
   const { addItem } = useCartStore()
 
-  const product = {
-    id: 1,
-    name: slug.toUpperCase().replace(/-/g, ' '),
-    price: 1699,
-    description: 'Lunox ' + slug.replace(/-/g, ' ') + '. The design with minimal branding. It is 100% jersey cotton, 240 gsm and screen printed. The fit is a Lunox signature oversized fit.',
-    images: [
-      'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800',
-      'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800',
-      'https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800',
-    ],
-    sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-    features: [
-      '100% Premium Cotton',
-      '240 GSM Fabric',
-      'Screen Printed',
-      'Oversized Fit',
-      'Unisex',
-    ]
-  }
+  useEffect(() => {
+    const fetchProduct = async () => {
+      try {
+        setLoading(true)
+        const response = await catalogApi.get(`/api/products/${slug}`)
+        if (response.data.success) {
+          setProduct(response.data.data)
+        } else {
+          toast.error('Product not found')
+          router.push('/collections/all-products')
+        }
+      } catch (error) {
+        console.error('Error fetching product:', error)
+        toast.error('Failed to load product')
+        router.push('/collections/all-products')
+      } finally {
+        setLoading(false)
+      }
+    }
+    fetchProduct()
+  }, [slug, router])
 
   const handleAddToCart = () => {
+    if (!product) return
+    
     if (!selectedSize) {
       toast.error('Please select a size')
       return
@@ -51,6 +75,47 @@ export default function ProductPage() {
 
     toast.success('Added to cart!')
   }
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+            <div className="space-y-4 animate-pulse">
+              <div className="aspect-square bg-gray-200 rounded-lg"></div>
+              <div className="grid grid-cols-3 gap-4">
+                {[1, 2, 3].map((n) => (
+                  <div key={n} className="aspect-square bg-gray-200 rounded-lg"></div>
+                ))}
+              </div>
+            </div>
+            <div className="space-y-6 animate-pulse">
+              <div className="h-10 bg-gray-200 rounded w-3/4"></div>
+              <div className="h-8 bg-gray-200 rounded w-1/4"></div>
+              <div className="h-20 bg-gray-200 rounded"></div>
+              <div className="h-12 bg-gray-200 rounded"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  if (!product) {
+    return (
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <p className="text-gray-500">Product not found</p>
+      </div>
+    )
+  }
+
+  const features = [
+    product.fabric || '100% Premium Cotton',
+    product.gsm ? `${product.gsm} GSM Fabric` : '240 GSM Fabric',
+    'Screen Printed',
+    'Oversized Fit',
+    'Unisex',
+  ]
 
   return (
     <div className="min-h-screen bg-white">
@@ -110,10 +175,19 @@ export default function ProductPage() {
               </h1>
               <div className="flex items-center gap-4 mb-4">
                 <p className="text-3xl font-bold text-gray-900">
-                  ₹{product.price}
+                  ₹{product.price.toLocaleString()}
                 </p>
-                <span className="inline-block px-3 py-1 bg-green-100 text-green-800 text-sm font-semibold rounded-full">
-                  In Stock
+                {product.compareAtPrice && (
+                  <p className="text-xl text-gray-500 line-through">
+                    ₹{product.compareAtPrice.toLocaleString()}
+                  </p>
+                )}
+                <span className={`inline-block px-3 py-1 text-sm font-semibold rounded-full ${
+                  product.inStock 
+                    ? 'bg-green-100 text-green-800' 
+                    : 'bg-red-100 text-red-800'
+                }`}>
+                  {product.inStock ? 'In Stock' : 'Out of Stock'}
                 </span>
               </div>
             </div>
@@ -173,9 +247,14 @@ export default function ProductPage() {
             <div className="flex gap-4">
               <button
                 onClick={handleAddToCart}
-                className="flex-1 bg-gray-900 text-white py-4 px-8 rounded-lg font-semibold text-lg hover:bg-gray-800 transition-colors"
+                disabled={!product.inStock}
+                className={`flex-1 py-4 px-8 rounded-lg font-semibold text-lg transition-colors ${
+                  product.inStock
+                    ? 'bg-gray-900 text-white hover:bg-gray-800'
+                    : 'bg-gray-300 text-gray-500 cursor-not-allowed'
+                }`}
               >
-                Add to Cart
+                {product.inStock ? 'Add to Cart' : 'Out of Stock'}
               </button>
               <button className="w-14 h-14 border-2 border-gray-300 rounded-lg flex items-center justify-center hover:border-red-500 hover:text-red-500 transition-colors">
                 <HiHeart className="w-6 h-6" />
@@ -189,7 +268,7 @@ export default function ProductPage() {
             <div className="border-t border-gray-200 pt-6">
               <h3 className="text-lg font-bold text-gray-900 mb-4">Product Details</h3>
               <ul className="space-y-3">
-                {product.features.map((feature, index) => (
+                {features.map((feature, index) => (
                   <li key={index} className="flex items-center text-gray-700">
                     <svg className="w-5 h-5 mr-3 text-green-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
@@ -198,6 +277,16 @@ export default function ProductPage() {
                   </li>
                 ))}
               </ul>
+              {product.care && product.care.length > 0 && (
+                <div className="mt-6">
+                  <h4 className="font-semibold text-gray-900 mb-2">Care Instructions</h4>
+                  <ul className="space-y-1">
+                    {product.care.map((instruction, index) => (
+                      <li key={index} className="text-sm text-gray-600">• {instruction}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </div>
 
             {/* Shipping Info */}
