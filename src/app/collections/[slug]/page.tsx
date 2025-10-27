@@ -5,7 +5,7 @@ import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import ProductCard from '@/components/products/ProductCard'
 import { HiAdjustmentsHorizontal, HiMagnifyingGlass } from 'react-icons/hi2'
-import { catalogApi } from '@/lib/api'
+import { productApi } from '@/lib/productApi'
 
 interface Product {
   _id: string
@@ -31,20 +31,30 @@ export default function CollectionPage() {
         setLoading(true)
         let response
         
-        // Map collection slugs to API endpoints
-        if (slug === 'new-in' || slug === 'new-arrivals') {
-          response = await catalogApi.get('/api/products/new-arrivals')
-        } else if (slug === 'bestsellers') {
-          response = await catalogApi.get('/api/products/bestsellers')
-        } else if (slug === 'all-products' || slug === 'all') {
-          response = await catalogApi.get('/api/products')
-        } else {
-          // Try to fetch by category
-          response = await catalogApi.get(`/api/products?category=${slug}`)
+        // Map collection slugs to category names
+        const categoryMap: Record<string, string> = {
+          't-shirts': 'T-Shirts',
+          'hoodies': 'Hoodies',
+          'shirts': 'Shirts',
+          'jackets': 'Jackets',
+          'joggers': 'Joggers',
+          'cargos': 'Cargos',
+          'jeans': 'Jeans',
+          'shorts': 'Shorts',
+          'accessories': 'Accessories',
         }
         
-        if (response.data.success) {
-          setProducts(response.data.data)
+        if (slug === 'all-products' || slug === 'all') {
+          response = await productApi.getAll()
+        } else if (categoryMap[slug]) {
+          response = await productApi.getByCategory(categoryMap[slug])
+        } else {
+          // Try the slug as-is
+          response = await productApi.getByCategory(slug)
+        }
+        
+        if (response.success) {
+          setProducts(response.data)
         }
       } catch (error) {
         console.error('Error fetching products:', error)

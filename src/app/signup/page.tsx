@@ -2,13 +2,18 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
+import { HiEye, HiEyeOff } from 'react-icons/hi'
 import { api } from '@/lib/api'
 import { toast } from 'react-toastify'
 
 export default function SignupPage() {
   const router = useRouter()
+  const searchParams = useSearchParams()
+  const redirectUrl = searchParams.get('redirect') || '/account'
   const [loading, setLoading] = useState(false)
+  const [showPassword, setShowPassword] = useState(false)
+  const [showConfirmPassword, setShowConfirmPassword] = useState(false)
   const [formData, setFormData] = useState({
     firstName: '',
     lastName: '',
@@ -40,7 +45,7 @@ export default function SignupPage() {
       localStorage.setItem('token', response.data.data.token)
       localStorage.setItem('user', JSON.stringify(response.data.data.user))
       toast.success('Account created successfully!')
-      router.push('/account')
+      router.push(redirectUrl) // Redirect to checkout or account
     } catch (error: any) {
       toast.error(error.response?.data?.error || 'Registration failed')
     } finally {
@@ -112,7 +117,7 @@ export default function SignupPage() {
                 value={formData.phone}
                 onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                 className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:border-gray-600"
-                placeholder="+91 98765 43210"
+                placeholder="9876543210 or +91 98765 43210"
               />
             </div>
 
@@ -120,29 +125,49 @@ export default function SignupPage() {
               <label htmlFor="password" className="block text-sm font-semibold mb-2 uppercase tracking-wide">
                 Password
               </label>
-              <input
-                type="password"
-                id="password"
-                value={formData.password}
-                onChange={(e) => setFormData({ ...formData, password: e.target.value })}
-                required
-                minLength={8}
-                className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:border-gray-600"
-              />
+              <div className="relative">
+                <input
+                  type={showPassword ? "text" : "password"}
+                  id="password"
+                  value={formData.password}
+                  onChange={(e) => setFormData({ ...formData, password: e.target.value })}
+                  required
+                  minLength={8}
+                  className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:border-gray-600 pr-12"
+                  placeholder="Minimum 8 characters"
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowPassword(!showPassword)}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-600 hover:text-black"
+                >
+                  {showPassword ? <HiEyeOff className="h-5 w-5" /> : <HiEye className="h-5 w-5" />}
+                </button>
+              </div>
             </div>
 
             <div>
               <label htmlFor="confirmPassword" className="block text-sm font-semibold mb-2 uppercase tracking-wide">
                 Confirm Password
               </label>
-              <input
-                type="password"
-                id="confirmPassword"
-                value={formData.confirmPassword}
-                onChange={(e) => setFormData({ ...formData, confirmPassword: e.target.value })}
-                required
-                className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:border-gray-600"
-              />
+              <div className="relative">
+                <input
+                  type={showConfirmPassword ? "text" : "password"}
+                  id="confirmPassword"
+                  value={formData.confirmPassword}
+                  onChange={(e) => setFormData({ ...formData, confirmPassword: e.target.value })}
+                  required
+                  className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:border-gray-600 pr-12"
+                  placeholder="Re-enter your password"
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowConfirmPassword(!showConfirmPassword)}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 text-gray-600 hover:text-black"
+                >
+                  {showConfirmPassword ? <HiEyeOff className="h-5 w-5" /> : <HiEye className="h-5 w-5" />}
+                </button>
+              </div>
             </div>
 
             <button

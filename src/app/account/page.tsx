@@ -1,85 +1,163 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 import Link from 'next/link'
-import { HiUser, HiShoppingBag, HiLocationMarker, HiCog } from 'react-icons/hi'
+import { HiUser, HiShoppingBag, HiLocationMarker, HiCog, HiLogout } from 'react-icons/hi'
+import { api } from '@/lib/api'
+import { toast } from 'react-toastify'
 
 export default function AccountPage() {
   const [user, setUser] = useState<any>(null)
+  const [loading, setLoading] = useState(true)
+  const router = useRouter()
 
   useEffect(() => {
-    // TODO: Fetch user data from API
-    setUser({
-      firstName: 'John',
-      lastName: 'Doe',
-      email: 'john.doe@example.com',
-    })
+    const fetchUserData = async () => {
+      try {
+        // Check if user is logged in
+        const token = localStorage.getItem('token')
+        const storedUser = localStorage.getItem('user')
+        
+        if (!token || !storedUser) {
+          router.push('/login')
+          return
+        }
+
+        // Try to fetch fresh user data
+        try {
+          const response = await api.getProfile()
+          setUser(response.data.data)
+          localStorage.setItem('user', JSON.stringify(response.data.data))
+        } catch (error) {
+          // If API fails, use stored user data
+          setUser(JSON.parse(storedUser))
+        }
+      } catch (error) {
+        console.error('Error fetching user:', error)
+        router.push('/login')
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchUserData()
   }, [])
 
-  const menuItems = [
-    {
-      icon: HiUser,
-      title: 'Profile',
-      description: 'Manage your personal information',
-      href: '/account/profile',
-    },
-    {
-      icon: HiShoppingBag,
-      title: 'Orders',
-      description: 'View and track your orders',
-      href: '/account/orders',
-    },
-    {
-      icon: HiLocationMarker,
-      title: 'Addresses',
-      description: 'Manage your delivery addresses',
-      href: '/account/addresses',
-    },
-    {
-      icon: HiCog,
-      title: 'Settings',
-      description: 'Update your account settings',
-      href: '/account/settings',
-    },
-  ]
+  const handleLogout = () => {
+    localStorage.removeItem('token')
+    localStorage.removeItem('user')
+    // Don't clear cart - keep cart items after logout
+    toast.success('Logged out successfully!')
+    router.push('/login')
+  }
 
-  if (!user) {
+  if (loading) {
     return (
-      <div className="container mx-auto px-4 py-16">
-        <div className="max-w-md mx-auto text-center">
-          <h1 className="text-3xl font-bold mb-4">Please Login</h1>
-          <p className="text-gray-600 mb-8">You need to be logged in to access your account.</p>
-          <Link href="/login" className="btn btn-primary">
-            Login
-          </Link>
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-black mx-auto"></div>
+          <p className="mt-4 text-gray-600">Loading...</p>
         </div>
       </div>
     )
   }
 
-  return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="mb-8">
-        <h1 className="text-3xl font-bold mb-2">My Account</h1>
-        <p className="text-gray-600">
-          Welcome back, {user.firstName} {user.lastName}!
-        </p>
-      </div>
+  if (!user) {
+    return null
+  }
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        {menuItems.map((item) => (
-          <Link key={item.href} href={item.href} className="card p-6 hover:shadow-xl transition-shadow">
-            <div className="flex items-start gap-4">
-              <div className="p-3 bg-black text-white rounded-lg">
-                <item.icon className="h-6 w-6" />
+  return (
+    <div className="min-h-screen bg-[#fafafa] py-12">
+      <div className="container mx-auto px-4">
+        <div className="max-w-5xl mx-auto">
+          {/* Welcome Section */}
+          <div className="bg-white rounded-lg shadow-sm p-8 mb-8">
+            <h1 className="text-3xl font-bold mb-2">MY ACCOUNT</h1>
+            <p className="text-lg text-gray-700">
+              Welcome back, {user.firstName} {user.lastName}!
+            </p>
+            <p className="text-sm text-gray-500">{user.email}</p>
+          </div>
+
+          {/* Menu Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            {/* Profile */}
+            <Link 
+              href="/account/profile" 
+              className="bg-white rounded-lg shadow-sm p-8 hover:shadow-md transition-all border border-gray-200 hover:border-gray-300"
+            >
+              <div className="flex items-start gap-6">
+                <div className="p-4 bg-black text-white">
+                  <HiUser className="h-6 w-6" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-lg mb-1">PROFILE</h3>
+                  <p className="text-sm text-gray-600">Manage your personal information</p>
+                </div>
               </div>
-              <div className="flex-1">
-                <h3 className="font-semibold text-lg mb-1">{item.title}</h3>
-                <p className="text-sm text-gray-600">{item.description}</p>
+            </Link>
+
+            {/* Orders */}
+            <Link 
+              href="/account/orders" 
+              className="bg-black rounded-lg shadow-sm p-8 hover:shadow-md transition-all text-white"
+            >
+              <div className="flex items-start gap-6">
+                <div className="p-4 bg-white text-black">
+                  <HiShoppingBag className="h-6 w-6" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-lg mb-1">ORDERS</h3>
+                  <p className="text-sm text-gray-300">View and track your orders</p>
+                </div>
               </div>
-            </div>
-          </Link>
-        ))}
+            </Link>
+
+            {/* Addresses */}
+            <Link 
+              href="/account/addresses" 
+              className="bg-white rounded-lg shadow-sm p-8 hover:shadow-md transition-all border border-gray-200 hover:border-gray-300"
+            >
+              <div className="flex items-start gap-6">
+                <div className="p-4 bg-black text-white">
+                  <HiLocationMarker className="h-6 w-6" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-lg mb-1">ADDRESSES</h3>
+                  <p className="text-sm text-gray-600">Manage your delivery addresses</p>
+                </div>
+              </div>
+            </Link>
+
+            {/* Settings */}
+            <Link 
+              href="/account/settings" 
+              className="bg-white rounded-lg shadow-sm p-8 hover:shadow-md transition-all border border-gray-200 hover:border-gray-300"
+            >
+              <div className="flex items-start gap-6">
+                <div className="p-4 bg-black text-white">
+                  <HiCog className="h-6 w-6" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-lg mb-1">SETTINGS</h3>
+                  <p className="text-sm text-gray-600">Update your account settings</p>
+                </div>
+              </div>
+            </Link>
+          </div>
+
+          {/* Logout Button */}
+          <div className="bg-white rounded-lg shadow-sm p-6">
+            <button
+              onClick={handleLogout}
+              className="flex items-center gap-3 px-6 py-3 border-2 border-black hover:bg-black hover:text-white transition-all font-bold uppercase tracking-wide"
+            >
+              <HiLogout className="h-5 w-5" />
+              LOGOUT
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   )

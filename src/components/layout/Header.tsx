@@ -2,19 +2,23 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
+import Image from 'next/image'
+import { usePathname, useRouter } from 'next/navigation'
 import { HiMenuAlt3, HiX, HiShoppingBag, HiUser, HiSearch } from 'react-icons/hi'
 import SearchBar from './SearchBar'
 import MobileMenu from './MobileMenu'
 import { useCartStore } from '@/store/cartStore'
+import { toast } from 'react-toastify'
 
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const [isSearchOpen, setIsSearchOpen] = useState(false)
   const [currentMessage, setCurrentMessage] = useState(0)
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
   const { items } = useCartStore()
   const pathname = usePathname()
+  const router = useRouter()
 
   // Check if we're on a collection page
   const isCollectionPage = pathname?.startsWith('/collections')
@@ -23,6 +27,20 @@ const Header = () => {
     'Extension of Your Expression',
     'Free Delivery on First Order'
   ]
+
+  // Check authentication status
+  useEffect(() => {
+    const checkAuth = () => {
+      const token = localStorage.getItem('token')
+      const user = localStorage.getItem('user')
+      setIsAuthenticated(!!(token && user))
+    }
+    
+    checkAuth()
+    // Listen for storage changes (logout in another tab)
+    window.addEventListener('storage', checkAuth)
+    return () => window.removeEventListener('storage', checkAuth)
+  }, [pathname])
 
   useEffect(() => {
     const handleScroll = () => {
@@ -39,6 +57,15 @@ const Header = () => {
     }, 3000)
     return () => clearInterval(interval)
   }, [])
+
+  const handleLogout = () => {
+    localStorage.removeItem('token')
+    localStorage.removeItem('user')
+    // Don't clear cart - keep cart items after logout
+    setIsAuthenticated(false)
+    toast.success('Logged out successfully!')
+    router.push('/')
+  }
 
   const cartItemsCount = items.reduce((total, item) => total + item.quantity, 0)
 
@@ -79,8 +106,15 @@ const Header = () => {
               </button>
 
               {/* Logo */}
-              <Link href="/" className="text-2xl font-bold tracking-tight">
-                LUNOX
+              <Link href="/" className="flex items-center">
+                <Image 
+                  src="/bluorng-assets/cdn/lunox-logo.jpg" 
+                  alt="Lunox" 
+                  width={120} 
+                  height={48}
+                  className="h-8 w-auto"
+                  priority
+                />
               </Link>
 
               {/* Desktop Navigation - Absolutely Centered */}
@@ -151,12 +185,21 @@ const Header = () => {
                   <HiSearch className="h-5 w-5" />
                 </button>
 
-                <Link
-                  href="/login"
-                  className="hidden sm:block text-xs font-normal uppercase tracking-wider hover:text-gray-600 transition-colors"
-                >
-                  LOGIN
-                </Link>
+                {isAuthenticated ? (
+                  <button
+                    onClick={handleLogout}
+                    className="hidden sm:block text-xs font-normal uppercase tracking-wider hover:text-gray-600 transition-colors"
+                  >
+                    LOGOUT
+                  </button>
+                ) : (
+                  <Link
+                    href="/login"
+                    className="hidden sm:block text-xs font-normal uppercase tracking-wider hover:text-gray-600 transition-colors"
+                  >
+                    LOGIN
+                  </Link>
+                )}
 
                 <Link
                   href="/account"

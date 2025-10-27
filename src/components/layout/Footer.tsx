@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa'
 
 const Footer = () => {
@@ -38,7 +39,7 @@ const Footer = () => {
   ]
 
   return (
-    <footer className="bg-white">
+    <footer className="bg-white relative z-20">
       {/* Footer Text Banner */}
       <div className="bg-white py-8 border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4">
@@ -67,9 +68,15 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-bold mb-4" style={{ fontFamily: 'serif' }}>
-              Lunox
-            </h3>
+            <Link href="/" className="inline-block mb-4">
+              <Image 
+                src="/bluorng-assets/cdn/lunox-logo.jpg" 
+                alt="Lunox" 
+                width={120} 
+                height={48}
+                className="h-10 w-auto"
+              />
+            </Link>
             <p className="text-xs text-gray-600 mb-4">
               © {currentYear} LUNOX RETAIL PRIVATE LIMITED, ALL RIGHTS RESERVED.
             </p>

@@ -5,7 +5,7 @@ export const registerSchema = Joi.object({
   password: Joi.string().min(8).required(),
   firstName: Joi.string().min(2).required(),
   lastName: Joi.string().min(2).required(),
-  phone: Joi.string().pattern(/^[0-9]{10}$/).optional(),
+  phone: Joi.string().pattern(/^[\+]?[(]?[0-9]{1,4}[)]?[-\s\.]?[(]?[0-9]{1,5}[)]?[-\s\.]?[0-9]{1,6}[-\s\.]?[0-9]{1,6}$/).allow('').optional(),
 })
 
 export const loginSchema = Joi.object({

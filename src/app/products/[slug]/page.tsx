@@ -3,12 +3,10 @@
 import { useState, useEffect } from 'react'
 import { useParams, useRouter } from 'next/navigation'
 import Link from 'next/link'
+import { productApi } from '@/lib/productApi'
 import { useCartStore } from '@/store/cartStore'
-import { toast } from 'react-toastify'
-import { HiMinus, HiPlus, HiHeart, HiShare } from 'react-icons/hi2'
-import { catalogApi } from '@/lib/api'
 
-interface ProductType {
+interface Product {
   _id: string
   name: string
   slug: string
@@ -16,8 +14,8 @@ interface ProductType {
   price: number
   compareAtPrice?: number
   images: string[]
+  category: string
   sizes: string[]
-  colors: string[]
   inStock: boolean
   gsm?: number
   fabric?: string
@@ -27,75 +25,73 @@ interface ProductType {
 export default function ProductPage() {
   const params = useParams()
   const router = useRouter()
-  const slug = params?.slug as string
-  const [selectedSize, setSelectedSize] = useState('')
-  const [quantity, setQuantity] = useState(1)
-  const [selectedImage, setSelectedImage] = useState(0)
-  const [product, setProduct] = useState<ProductType | null>(null)
+  const [product, setProduct] = useState<Product | null>(null)
   const [loading, setLoading] = useState(true)
+  const [selectedSize, setSelectedSize] = useState('')
+  const [relatedProducts, setRelatedProducts] = useState<Product[]>([])
+  const [hasGiftCard, setHasGiftCard] = useState(false)
   const { addItem } = useCartStore()
 
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        setLoading(true)
-        const response = await catalogApi.get(`/api/products/${slug}`)
-        if (response.data.success) {
-          setProduct(response.data.data)
-        } else {
-          toast.error('Product not found')
-          router.push('/collections/all-products')
+        const response = await productApi.getBySlug(params.slug as string)
+        if (response.success) {
+          setProduct(response.data)
+          
+          // Fetch related products
+          if (response.data.category) {
+            const relatedResponse = await productApi.getByCategory(response.data.category)
+            if (relatedResponse.success) {
+              setRelatedProducts(relatedResponse.data.filter((p: Product) => p._id !== response.data._id).slice(0, 4))
+            }
+          }
         }
       } catch (error) {
         console.error('Error fetching product:', error)
-        toast.error('Failed to load product')
-        router.push('/collections/all-products')
       } finally {
         setLoading(false)
       }
     }
-    fetchProduct()
-  }, [slug, router])
+
+    if (params.slug) {
+      fetchProduct()
+    }
+  }, [params.slug])
 
   const handleAddToCart = () => {
     if (!product) return
     
-    if (!selectedSize) {
-      toast.error('Please select a size')
-      return
-    }
-
     addItem({
       name: product.name,
       price: product.price,
-      quantity: quantity,
-      image: product.images[0],
+      quantity: 1,
       size: selectedSize,
+      image: product.images[0]
     })
+    
+    router.push('/cart')
+  }
 
-    toast.success('Added to cart!')
+  const handleBuyNow = () => {
+    if (!product) return
+    
+    addItem({
+      name: product.name,
+      price: product.price,
+      quantity: 1,
+      size: selectedSize,
+      image: product.images[0]
+    })
+    
+    router.push('/checkout')
   }
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
-            <div className="space-y-4 animate-pulse">
-              <div className="aspect-square bg-gray-200 rounded-lg"></div>
-              <div className="grid grid-cols-3 gap-4">
-                {[1, 2, 3].map((n) => (
-                  <div key={n} className="aspect-square bg-gray-200 rounded-lg"></div>
-                ))}
-              </div>
-            </div>
-            <div className="space-y-6 animate-pulse">
-              <div className="h-10 bg-gray-200 rounded w-3/4"></div>
-              <div className="h-8 bg-gray-200 rounded w-1/4"></div>
-              <div className="h-20 bg-gray-200 rounded"></div>
-              <div className="h-12 bg-gray-200 rounded"></div>
-            </div>
-          </div>
+      <div className="min-h-screen bg-white flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-black mx-auto"></div>
         </div>
       </div>
     )
@@ -104,212 +100,217 @@ export default function ProductPage() {
   if (!product) {
     return (
       <div className="min-h-screen bg-white flex items-center justify-center">
-        <p className="text-gray-500">Product not found</p>
+        <div className="text-center">
+          <p className="text-sm uppercase tracking-wide">Product not found</p>
+        </div>
       </div>
     )
   }
 
-  const features = [
-    product.fabric || '100% Premium Cotton',
-    product.gsm ? `${product.gsm} GSM Fabric` : '240 GSM Fabric',
-    'Screen Printed',
-    'Oversized Fit',
-    'Unisex',
-  ]
-
   return (
     <div className="min-h-screen bg-white">
-      {/* Breadcrumb */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-        <nav className="flex text-sm">
-          <Link href="/" className="text-gray-500 hover:text-gray-700">
-            Home
-          </Link>
-          <span className="mx-2 text-gray-400">/</span>
-          <Link href="/collections/all-products" className="text-gray-500 hover:text-gray-700">
-            Products
-          </Link>
-          <span className="mx-2 text-gray-400">/</span>
-          <span className="text-gray-900 truncate">{product.name}</span>
-        </nav>
-      </div>
-
       {/* Product Section */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
-          {/* Product Images */}
-          <div className="space-y-4">
-            <div className="aspect-square relative bg-gray-100 rounded-lg overflow-hidden">
-              <img
-                src={product.images[selectedImage]}
-                alt={product.name}
-                className="w-full h-full object-cover"
-              />
-            </div>
+      <div className="grid grid-cols-12 gap-0">
+        {/* Left Sidebar - Product Info at BOTTOM */}
+        <div className="col-span-3 bg-white px-8 py-10 sticky top-[88px] h-screen overflow-y-auto flex flex-col justify-end">
+          <div className="space-y-5">
+            {/* Breadcrumb */}
+            <nav>
+              <ul className="flex items-center gap-1.5 text-[10px] uppercase tracking-wide text-gray-600">
+                <li><Link href="/" className="hover:text-black transition-colors">HOME</Link></li>
+                <li>›</li>
+                <li><Link href="/collections/all" className="hover:text-black transition-colors">ALL PRODUCTS</Link></li>
+                <li>›</li>
+                <li className="text-black font-semibold">{product.name.toUpperCase()}</li>
+              </ul>
+            </nav>
 
-            {/* Thumbnails */}
-            <div className="grid grid-cols-3 gap-4">
-              {product.images.map((image, index) => (
-                <button
-                  key={index}
-                  onClick={() => setSelectedImage(index)}
-                  className={`aspect-square relative bg-gray-100 rounded-lg overflow-hidden border-2 transition-all ${
-                    selectedImage === index ? 'border-gray-900 ring-2 ring-gray-900 ring-offset-2' : 'border-transparent hover:border-gray-300'
-                  }`}
-                >
-                  <img
-                    src={image}
-                    alt={`${product.name} - ${index + 1}`}
-                    className="w-full h-full object-cover"
-                  />
-                </button>
-              ))}
-            </div>
-          </div>
-
-          {/* Product Info */}
-          <div className="space-y-6">
+            {/* Product Title & Price */}
             <div>
-              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              <h1 className="text-base font-bold uppercase tracking-wide mb-2">
                 {product.name}
               </h1>
-              <div className="flex items-center gap-4 mb-4">
-                <p className="text-3xl font-bold text-gray-900">
-                  ₹{product.price.toLocaleString()}
-                </p>
-                {product.compareAtPrice && (
-                  <p className="text-xl text-gray-500 line-through">
-                    ₹{product.compareAtPrice.toLocaleString()}
-                  </p>
-                )}
-                <span className={`inline-block px-3 py-1 text-sm font-semibold rounded-full ${
-                  product.inStock 
-                    ? 'bg-green-100 text-green-800' 
-                    : 'bg-red-100 text-red-800'
-                }`}>
-                  {product.inStock ? 'In Stock' : 'Out of Stock'}
-                </span>
-              </div>
+              <p className="text-sm font-normal">
+                RS. {product.price.toLocaleString()}
+              </p>
             </div>
 
-            <p className="text-gray-600 leading-relaxed">{product.description}</p>
+            {/* Description */}
+            <div>
+              <h2 className="text-xs font-bold uppercase tracking-wide mb-3">DESCRIPTION</h2>
+              <p className="text-[10px] leading-relaxed text-gray-700">
+                THE {product.name.toUpperCase()} CAPTURES THE SPIRIT OF STRATEGY AND STYLE IN ONE BOLD DESIGN. CRAFTED FROM 100% PREMIUM COTTON WITH A HEAVYWEIGHT 260 GSM FABRIC, IT DELIVERS LASTING COMFORT AND STRUCTURE. THE STRIKING PUFF PRINTED CHESS T-SHIRT DESIGN ON THE FRONT SHOWCASES A MODERN TWIST ON CLASSIC GAME ELEMENTS, MAKING IT A MUST-HAVE FOR EVERY CHESS T-SHIRT ENTHUSIAST. DESIGNED WITH PRECISION AND ATTITUDE, THIS PUFF PRINTED CHECKMATE T-SHIRT PAIRS PERFECTLY WITH JEANS OR JOGGERS FOR A SLEEK AND LAYERS EASILY UNDER SWEATSHIRTS OR JACKETS FOR A STREETWEAR-INSPIRED LOOK. TO MAINTAIN ITS DETAIL AND TEXTURE, HANDLE WITH CARE AND REVERSE WASH ONLY.
+              </p>
+            </div>
 
+            {/* Details */}
+            <div>
+              <h2 className="text-xs font-bold uppercase tracking-wide mb-3">DETAILS</h2>
+              <ul className="text-[10px] space-y-1 text-gray-700">
+                <li>100% COTTON</li>
+                <li>WEIGHT - 260GSM</li>
+                <li>PUFF PRINT</li>
+                <li>REVERSE WASH ONLY</li>
+              </ul>
+            </div>
+
+            {/* Shipping */}
+            <div>
+              <h2 className="text-xs font-bold uppercase tracking-wide mb-3">SHIPPING</h2>
+              <ul className="text-[10px] space-y-1 text-gray-700">
+                <li>PACKED WITHIN 24 HOURS.</li>
+                <li>FREE DELIVERY PAN-INDIA.</li>
+                <li>DISPATCHES NEXT DAY.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        {/* Center - Product Images */}
+        <div className="col-span-6 bg-white flex items-center justify-center py-8">
+          <div className="space-y-4 w-full max-w-[75%]">
+            {product.images.map((image, index) => (
+              <div key={index} className="w-full">
+                <img
+                  src={image}
+                  alt={`${product.name} - Image ${index + 1}`}
+                  className="w-full h-auto object-cover"
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Right Sidebar - Size Selector at BOTTOM */}
+        <div className="col-span-3 bg-white px-8 py-10 sticky top-[88px] h-screen overflow-y-auto flex flex-col justify-end">
+          <div className="space-y-5">
             {/* Size Selector */}
             <div>
-              <div className="flex justify-between items-center mb-3">
-                <label className="block text-sm font-semibold text-gray-900">
-                  Select Size
-                </label>
-                <Link href="/pages/size-chart" className="text-sm text-blue-600 hover:text-blue-700 font-medium">
-                  Size Guide
-                </Link>
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-xs font-bold uppercase tracking-wider">SIZE</h3>
+                <button className="text-[9px] font-bold uppercase tracking-widest bg-black text-white px-4 py-2 rounded hover:bg-gray-800 transition-colors">
+                  SIZE CHART
+                </button>
               </div>
-              <div className="grid grid-cols-5 gap-3">
-                {product.sizes.map((size) => (
+
+              {/* Size Grid - 4 columns to match BluOrng */}
+              <div className="grid grid-cols-4 gap-2 mb-2">
+                {['XXXS', 'XXS', 'XS', 'S'].map((size) => (
                   <button
                     key={size}
                     onClick={() => setSelectedSize(size)}
-                    className={`py-3 px-4 border-2 rounded-lg text-sm font-semibold transition-all ${
+                    className={`py-2.5 text-[11px] font-medium uppercase tracking-wide border rounded transition-all ${
                       selectedSize === size
-                        ? 'bg-gray-900 text-white border-gray-900'
-                        : 'bg-white text-gray-900 border-gray-300 hover:border-gray-900'
+                        ? 'border-black bg-white text-black'
+                        : 'border-gray-400 hover:border-black bg-white text-black'
                     }`}
                   >
                     {size}
                   </button>
                 ))}
               </div>
-            </div>
-
-            {/* Quantity Selector */}
-            <div>
-              <label className="block text-sm font-semibold text-gray-900 mb-3">
-                Quantity
-              </label>
-              <div className="flex items-center space-x-4">
+              <div className="grid grid-cols-4 gap-2 mb-2">
+                {['M', 'L', 'XL', 'XXL'].map((size) => (
+                  <button
+                    key={size}
+                    onClick={() => setSelectedSize(size)}
+                    className={`py-2.5 text-[11px] font-medium uppercase tracking-wide border rounded transition-all ${
+                      selectedSize === size
+                        ? 'border-black bg-white text-black'
+                        : 'border-gray-400 hover:border-black bg-white text-black'
+                    }`}
+                  >
+                    {size}
+                  </button>
+                ))}
+              </div>
+              <div className="grid grid-cols-4 gap-2">
                 <button
-                  onClick={() => setQuantity(Math.max(1, quantity - 1))}
-                  className="w-12 h-12 border-2 border-gray-300 rounded-lg flex items-center justify-center hover:border-gray-900 transition-colors"
+                  onClick={() => setSelectedSize('XXXL')}
+                  className={`py-2.5 text-[11px] font-medium uppercase tracking-wide border rounded transition-all ${
+                    selectedSize === 'XXXL'
+                      ? 'border-black bg-white text-black'
+                      : 'border-gray-400 hover:border-black bg-white text-black'
+                  }`}
                 >
-                  <HiMinus className="w-5 h-5" />
-                </button>
-                <span className="text-xl font-semibold w-16 text-center">{quantity}</span>
-                <button
-                  onClick={() => setQuantity(quantity + 1)}
-                  className="w-12 h-12 border-2 border-gray-300 rounded-lg flex items-center justify-center hover:border-gray-900 transition-colors"
-                >
-                  <HiPlus className="w-5 h-5" />
+                  XXXL
                 </button>
               </div>
+            </div>
+
+            {/* Gift Card Checkbox */}
+            <div className="flex items-center gap-2.5">
+              <input
+                type="checkbox"
+                id="productGiftCard"
+                checked={hasGiftCard}
+                onChange={(e) => setHasGiftCard(e.target.checked)}
+                className="w-4 h-4 border border-gray-500 rounded cursor-pointer"
+              />
+              <label htmlFor="productGiftCard" className="text-[10px] font-normal uppercase tracking-wider cursor-pointer">
+                HAVE A GIFT CARD?
+              </label>
             </div>
 
             {/* Action Buttons */}
-            <div className="flex gap-4">
+            <div className="space-y-3">
               <button
                 onClick={handleAddToCart}
-                disabled={!product.inStock}
-                className={`flex-1 py-4 px-8 rounded-lg font-semibold text-lg transition-colors ${
-                  product.inStock
-                    ? 'bg-gray-900 text-white hover:bg-gray-800'
-                    : 'bg-gray-300 text-gray-500 cursor-not-allowed'
-                }`}
+                disabled={!selectedSize}
+                className="w-full py-3.5 border border-black text-black text-[11px] font-bold uppercase tracking-widest rounded hover:bg-white/50 transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
               >
-                {product.inStock ? 'Add to Cart' : 'Out of Stock'}
+                ADD TO CART
               </button>
-              <button className="w-14 h-14 border-2 border-gray-300 rounded-lg flex items-center justify-center hover:border-red-500 hover:text-red-500 transition-colors">
-                <HiHeart className="w-6 h-6" />
-              </button>
-              <button className="w-14 h-14 border-2 border-gray-300 rounded-lg flex items-center justify-center hover:border-blue-500 hover:text-blue-500 transition-colors">
-                <HiShare className="w-6 h-6" />
+              <button
+                onClick={handleBuyNow}
+                disabled={!selectedSize}
+                className="w-full py-3.5 bg-black text-white text-[11px] font-bold uppercase tracking-widest rounded hover:bg-gray-900 transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
+              >
+                BUY NOW
               </button>
             </div>
+          </div>
+        </div>
+      </div>
 
-            {/* Product Features */}
-            <div className="border-t border-gray-200 pt-6">
-              <h3 className="text-lg font-bold text-gray-900 mb-4">Product Details</h3>
-              <ul className="space-y-3">
-                {features.map((feature, index) => (
-                  <li key={index} className="flex items-center text-gray-700">
-                    <svg className="w-5 h-5 mr-3 text-green-500 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                    </svg>
-                    {feature}
-                  </li>
-                ))}
-              </ul>
-              {product.care && product.care.length > 0 && (
-                <div className="mt-6">
-                  <h4 className="font-semibold text-gray-900 mb-2">Care Instructions</h4>
-                  <ul className="space-y-1">
-                    {product.care.map((instruction, index) => (
-                      <li key={index} className="text-sm text-gray-600">• {instruction}</li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-            </div>
+      {/* You May Also Like Section */}
+      <div className="bg-white border-t border-gray-300 py-12">
+        <div className="max-w-[1400px] mx-auto px-10">
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="text-xs font-bold uppercase tracking-wider">
+              YOU MAY ALSO LIKE
+            </h2>
+            <Link 
+              href="/collections/all"
+              className="text-[9px] font-normal uppercase tracking-wider hover:underline transition-all"
+            >
+              VIEW ALL
+            </Link>
+          </div>
 
-            {/* Shipping Info */}
-            <div className="border-t border-gray-200 pt-6 space-y-3">
-              <div className="flex items-start">
-                <svg className="w-6 h-6 mr-3 text-gray-600 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
-                </svg>
-                <div>
-                  <h4 className="font-semibold text-gray-900">Free Shipping</h4>
-                  <p className="text-sm text-gray-600">On orders above ₹2,999</p>
+          {/* Related Products Grid */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            {relatedProducts.map((relatedProduct) => (
+              <Link
+                key={relatedProduct._id}
+                href={`/products/${relatedProduct.slug}`}
+                className="group"
+              >
+                <div className="aspect-[3/4] overflow-hidden bg-white mb-3">
+                  <img
+                    src={relatedProduct.images[0]}
+                    alt={relatedProduct.name}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
-              </div>
-              <div className="flex items-start">
-                <svg className="w-6 h-6 mr-3 text-gray-600 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                </svg>
-                <div>
-                  <h4 className="font-semibold text-gray-900">Easy Returns</h4>
-                  <p className="text-sm text-gray-600">7 days return policy</p>
-                </div>
-              </div>
-            </div>
+                <h3 className="text-[9px] font-bold uppercase tracking-wider mb-1">
+                  {relatedProduct.name}
+                </h3>
+                <p className="text-[9px] font-normal">
+                  RS. {relatedProduct.price.toLocaleString()}
+                </p>
+              </Link>
+            ))}
           </div>
         </div>
       </div>

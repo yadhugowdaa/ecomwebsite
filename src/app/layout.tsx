@@ -1,5 +1,8 @@
+'use client'
+
 import type { Metadata } from 'next'
 import { Assistant } from 'next/font/google'
+import { usePathname } from 'next/navigation'
 import Header from '@/components/layout/Header'
 import Footer from '@/components/layout/Footer'
 import { ToastContainer } from 'react-toastify'
@@ -11,24 +14,23 @@ const assistant = Assistant({
   variable: '--font-assistant',
 })
 
-export const metadata: Metadata = {
-  title: 'LUNOX - Premium Streetwear',
-  description: 'LUNOX, a premium streetwear brand. Shop the latest unisex styles for a bold, trend-setting look.',
-}
-
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
+  const pathname = usePathname()
+  const isCheckoutPage = pathname === '/checkout'
+  const isAdminPage = pathname?.startsWith('/admin')
+
   return (
     <html lang="en" className={assistant.variable}>
       <body className={`font-sans ${assistant.className}`}>
-        <Header />
-        <main className="min-h-screen">
+        {!isCheckoutPage && !isAdminPage && <Header />}
+        <main className={`${isAdminPage ? '' : 'min-h-screen'}`}>
           {children}
         </main>
-        <Footer />
+        {!isCheckoutPage && !isAdminPage && <Footer />}
         <ToastContainer position="bottom-right" />
       </body>
     </html>

@@ -6,6 +6,8 @@ import dotenv from 'dotenv'
 import authRoutes from './routes/auth.routes'
 import userRoutes from './routes/user.routes'
 import addressRoutes from './routes/address.routes'
+import adminRoutes from './routes/admin.routes'
+import publicRoutes from './routes/public.routes'
 import { errorHandler } from './middleware/error.middleware'
 import { initDatabase } from './db/init'
 
@@ -29,10 +31,16 @@ app.get('/health', (req, res) => {
   res.json({ status: 'ok', service: 'user-service' })
 })
 
+// Admin setup endpoint (one-time use)
+import { createAdminUser } from './controllers/admin.setup.controller'
+app.post('/api/setup-admin', createAdminUser)
+
 // Routes
 app.use('/api/auth', authRoutes)
 app.use('/api/users', userRoutes)
 app.use('/api/addresses', addressRoutes)
+app.use('/api/admin', adminRoutes)
+app.use('/api/public', publicRoutes)
 
 // Error handler
 app.use(errorHandler)

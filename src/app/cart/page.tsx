@@ -1,259 +1,175 @@
 'use client'
 
+import { useEffect, useState } from 'react'
+import { useRouter } from 'next/navigation'
 import { useCartStore } from '@/store/cartStore'
-import Link from 'next/link'
-import Image from 'next/image'
+import { HiTrash, HiX } from 'react-icons/hi'
 
 export default function CartPage() {
-  const { items, removeItem, updateQuantity, total } = useCartStore()
+  const router = useRouter()
+  const { items, removeItem, updateQuantity } = useCartStore()
+  const [mounted, setMounted] = useState(false)
+  const [hasGiftCard, setHasGiftCard] = useState(false)
 
-  if (items.length === 0) {
-    return (
-      <div className="page-width page-margin">
-        <div className="cart-empty">
-          <h1>Your cart</h1>
-          <p className="cart-empty__message">Your cart is currently empty.</p>
-          <Link href="/collections/all-products" className="button">
-            Continue shopping
-          </Link>
-        </div>
-      </div>
-    )
+  useEffect(() => {
+    setMounted(true)
+  }, [])
+
+  const handleClose = () => {
+    router.back()
   }
 
+  if (!mounted) {
+    return null
+  }
+
+  // Calculate total from items
+  const total = items.reduce((sum, item) => sum + (item.price * item.quantity), 0)
+
   return (
-    <div className="page-width page-margin">
-      <div className="title-wrapper-with-link">
-        <h1 className="title title--primary">Your cart</h1>
-        <Link href="/collections/all-products">Continue shopping</Link>
-      </div>
+    <>
+      {/* Dark Overlay */}
+      <div 
+        className="fixed inset-0 bg-black bg-opacity-60 z-40"
+        onClick={handleClose}
+      />
 
-      <div className="cart__items-wrapper isolate">
-        <form action="/cart" method="post" id="cart">
-          <div className="cart__items">
-            <div className="cart__items-table">
-              <table className="cart-items">
-                <thead>
-                  <tr>
-                    <th className="caption-with-letter-spacing" scope="col">
-                      Product
-                    </th>
-                    <th className="medium-hide large-up-hide right caption-with-letter-spacing" scope="col">
-                      Total
-                    </th>
-                    <th className="cart-items__heading--wide small-hide caption-with-letter-spacing" scope="col">
-                      Quantity
-                    </th>
-                    <th className="small-hide right caption-with-letter-spacing" scope="col">
-                      Total
-                    </th>
-                  </tr>
-                </thead>
-
-                <tbody>
-                  {items.map((item) => (
-                    <tr key={item.id + item.size} className="cart-item">
-                      <td className="cart-item__details">
-                        <Link href={`/products/${item.id}`} className="cart-item__image-container gradient global-media-settings">
-                          <img
-                            className="cart-item__image"
-                            src={item.image || '/placeholder-image.jpg'}
-                            alt={item.name}
-                            width="150"
-                            height="150"
-                          />
-                        </Link>
-
-                        <div>
-                          <Link href={`/products/${item.id}`} className="cart-item__name h4 break">
-                            {item.name}
-                          </Link>
-
-                          <dl>
-                            <div className="product-option">
-                              <dt>Size:</dt>
-                              <dd>{item.size}</dd>
-                            </div>
-
-                            <div className="product-option">
-                              <dt>Price:</dt>
-                              <dd className="price price--end">
-                                ₹{item.price}
-                              </dd>
-                            </div>
-                          </dl>
-
-                          <p className="product-option">
-                            <cart-remove-button
-                              onClick={() => removeItem(item.id, item.size)}
-                            >
-                              <button className="button button--tertiary" type="button">
-                                Remove
-                              </button>
-                            </cart-remove-button>
-                          </p>
-                        </div>
-                      </td>
-
-                      <td className="cart-item__totals right medium-hide large-up-hide">
-                        <div className="loading-overlay hidden">
-                          <div className="loading-overlay__spinner">
-                            <svg
-                              aria-hidden="true"
-                              focusable="false"
-                              className="spinner"
-                              viewBox="0 0 66 66"
-                              xmlns="http://www.w3.org/2000/svg"
-                            >
-                              <circle
-                                className="path"
-                                fill="none"
-                                strokeWidth="6"
-                                cx="33"
-                                cy="33"
-                                r="30"
-                              ></circle>
-                            </svg>
-                          </div>
-                        </div>
-                        <div className="cart-item__price-wrapper">
-                          <span className="price price--end">
-                            ₹{item.price * item.quantity}
-                          </span>
-                        </div>
-                      </td>
-
-                      <td className="cart-item__quantity">
-                        <div className="cart-item__quantity-wrapper">
-                          <label className="visually-hidden" htmlFor={`Quantity-${item.id}`}>
-                            Quantity
-                          </label>
-                          <div className="quantity">
-                            <button
-                              className="quantity__button no-js-hidden"
-                              type="button"
-                              onClick={() => updateQuantity(item.id, item.size, Math.max(1, item.quantity - 1))}
-                            >
-                              <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                aria-hidden="true"
-                                focusable="false"
-                                className="icon icon-minus"
-                                fill="none"
-                                viewBox="0 0 10 2"
-                              >
-                                <path
-                                  fillRule="evenodd"
-                                  clipRule="evenodd"
-                                  d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z"
-                                  fill="currentColor"
-                                />
-                              </svg>
-                            </button>
-                            <input
-                              className="quantity__input"
-                              type="number"
-                              name={`updates-${item.id}`}
-                              value={item.quantity}
-                              min="1"
-                              aria-label={`Quantity for ${item.name}`}
-                              id={`Quantity-${item.id}`}
-                              onChange={(e) => updateQuantity(item.id, item.size, parseInt(e.target.value) || 1)}
-                            />
-                            <button
-                              className="quantity__button no-js-hidden"
-                              type="button"
-                              onClick={() => updateQuantity(item.id, item.size, item.quantity + 1)}
-                            >
-                              <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                aria-hidden="true"
-                                focusable="false"
-                                className="icon icon-plus"
-                                fill="none"
-                                viewBox="0 0 10 10"
-                              >
-                                <path
-                                  fillRule="evenodd"
-                                  clipRule="evenodd"
-                                  d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z"
-                                  fill="currentColor"
-                                />
-                              </svg>
-                            </button>
-                          </div>
-
-                          <div className="cart-item__error" id="Line-item-error-1"></div>
-                        </div>
-                      </td>
-
-                      <td className="cart-item__totals right small-hide">
-                        <div className="loading-overlay hidden">
-                          <div className="loading-overlay__spinner">
-                            <svg
-                              aria-hidden="true"
-                              focusable="false"
-                              className="spinner"
-                              viewBox="0 0 66 66"
-                              xmlns="http://www.w3.org/2000/svg"
-                            >
-                              <circle
-                                className="path"
-                                fill="none"
-                                strokeWidth="6"
-                                cx="33"
-                                cy="33"
-                                r="30"
-                              ></circle>
-                            </svg>
-                          </div>
-                        </div>
-
-                        <div className="cart-item__price-wrapper">
-                          <span className="price price--end">
-                            ₹{item.price * item.quantity}
-                          </span>
-                        </div>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          <div className="cart__footer isolate">
-            <div className="cart__blocks">
-              <div className="cart__note">
-                <p className="cart__message caption-large" role="status">
-                  Taxes and shipping calculated at checkout
-                </p>
-              </div>
-            </div>
-
-            <div className="cart__ctas">
-              <div className="totals">
-                <h2 className="totals__total">Subtotal</h2>
-                <p className="totals__total-value">₹{total()}</p>
-              </div>
-
-              <div className="cart__ctas-buttons">
-                <Link href="/checkout" className="cart__update button button--primary">
-                  Check out
-                </Link>
-              </div>
-            </div>
-          </div>
-        </form>
-      </div>
-
-      <div className="cart__additional-content">
-        <div className="center">
-          <Link href="/collections/all-products" className="link link--text underlined-link">
-            Continue shopping
-          </Link>
+      {/* Cart Drawer */}
+      <div className="fixed top-0 right-0 h-full w-full max-w-md bg-white z-50 flex flex-col shadow-2xl">
+        {/* Header */}
+        <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
+          <h2 className="text-sm font-semibold uppercase tracking-wide">Your Cart</h2>
+          <button
+            onClick={handleClose}
+            className="p-2 hover:bg-gray-100 rounded-full transition-colors"
+            aria-label="Close cart"
+          >
+            <HiX className="h-5 w-5" />
+          </button>
         </div>
+
+        {items.length === 0 ? (
+          <div className="flex-1 flex items-center justify-center px-6 py-12">
+            <div className="text-center">
+              <p className="text-gray-500 text-sm mb-6">Your cart is empty</p>
+              <button
+                onClick={handleClose}
+                className="px-6 py-2 border border-black text-black text-xs uppercase tracking-wider hover:bg-black hover:text-white transition-all"
+              >
+                Continue Shopping
+              </button>
+            </div>
+          </div>
+        ) : (
+          <>
+            {/* Cart Items */}
+            <div className="flex-1 overflow-y-auto px-6 py-4">
+              <div className="space-y-6">
+                {items.map((item) => (
+                  <div key={`${item.id}-${item.selectedSize}`} className="flex gap-4">
+                    {/* Product Image */}
+                    <div className="w-20 h-24 flex-shrink-0 bg-gray-100">
+                      <img
+                        src={item.image}
+                        alt={item.name}
+                        className="w-full h-full object-cover"
+                      />
+                    </div>
+
+                    {/* Product Details */}
+                    <div className="flex-1 min-w-0">
+                      <div className="flex justify-between items-start mb-2">
+                        <div className="flex-1 pr-2">
+                          <h3 className="text-xs font-semibold uppercase tracking-wide mb-1">
+                            {item.name}
+                          </h3>
+                          <p className="text-xs text-gray-600">
+                            RS. {item.price.toLocaleString()}
+                          </p>
+                          {item.selectedSize && (
+                            <p className="text-xs text-gray-600 mt-1">
+                              SIZE: {item.selectedSize}
+                            </p>
+                          )}
+                        </div>
+                        <button
+                          onClick={() => removeItem(item.id, item.selectedSize)}
+                          className="p-1 hover:bg-gray-100 rounded transition-colors flex-shrink-0"
+                          aria-label="Remove item"
+                        >
+                          <HiTrash className="h-4 w-4 text-gray-600" />
+                        </button>
+                      </div>
+
+                      {/* Quantity Controls */}
+                      <div className="flex items-center border border-gray-300 w-32 mt-3">
+                        <button
+                          onClick={() => updateQuantity(item.id, item.selectedSize, Math.max(1, item.quantity - 1))}
+                          className="px-3 py-1 hover:bg-gray-50 transition-colors text-sm"
+                        >
+                          −
+                        </button>
+                        <input
+                          type="text"
+                          value={item.quantity}
+                          readOnly
+                          className="w-12 text-center text-sm border-l border-r border-gray-300 py-1 focus:outline-none"
+                        />
+                        <button
+                          onClick={() => updateQuantity(item.id, item.selectedSize, item.quantity + 1)}
+                          className="px-3 py-1 hover:bg-gray-50 transition-colors text-sm"
+                        >
+                          +
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Footer */}
+            <div className="border-t border-gray-200 px-6 py-6 space-y-4">
+              {/* Estimated Total */}
+              <div className="flex justify-between items-center">
+                <span className="text-xs font-semibold uppercase tracking-wide">
+                  Estimated Total
+                </span>
+                <span className="text-base font-semibold">
+                  RS. {total.toLocaleString()}
+                </span>
+              </div>
+
+              {/* Tax Info */}
+              <p className="text-xs text-gray-600 leading-relaxed">
+                TAX INCLUDED. SHIPPING AND DISCOUNTS CALCULATED AT CHECKOUT.
+              </p>
+
+              {/* Gift Card Checkbox */}
+              <div className="flex items-center gap-2">
+                <input
+                  type="checkbox"
+                  id="giftCard"
+                  checked={hasGiftCard}
+                  onChange={(e) => setHasGiftCard(e.target.checked)}
+                  className="w-4 h-4 border-gray-300 rounded"
+                />
+                <label htmlFor="giftCard" className="text-xs font-normal uppercase tracking-wide cursor-pointer">
+                  HAVE A GIFT CARD?
+                </label>
+              </div>
+
+              {/* Checkout Button */}
+              <button
+                onClick={() => router.push('/checkout')}
+                className="w-full py-3 bg-black text-white text-xs font-semibold uppercase tracking-wider hover:bg-gray-800 transition-colors"
+              >
+                Check Out
+              </button>
+            </div>
+          </>
+        )}
       </div>
-    </div>
+    </>
   )
 }

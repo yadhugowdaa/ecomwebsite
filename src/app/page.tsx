@@ -38,9 +38,9 @@ export default function Home() {
     fetchProducts()
   }, [])
   return (
-    <div>
-      {/* Hero Section */}
-      <div className="relative w-full h-screen">
+    <div className="relative">
+      {/* Hero Section - FIXED */}
+      <div className="fixed top-0 left-0 w-full h-screen z-0">
         <video
           autoPlay
           loop
@@ -61,8 +61,10 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Latest Drop Section */}
-      <section className="py-6 bg-[#fafafa]">
+      {/* Scrollable Content - starts after hero height */}
+      <div className="relative z-10 bg-[#fafafa]" style={{ marginTop: '100vh' }}>
+        {/* Latest Drop Section */}
+        <section className="py-6 bg-[#fafafa]">
         <div className="max-w-[1600px] mx-auto px-6">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-[10px] font-semibold uppercase tracking-wider">
@@ -112,27 +114,27 @@ export default function Home() {
             </div>
           ) : null}
         </div>
-      </section>
+        </section>
 
-      {/* Discover More Button */}
-      <section className="py-8 bg-[#fafafa]">
-        <div className="text-center">
-          <Link 
-            href="/collections/all-products"
-            className="inline-block px-8 py-2 border border-black text-black text-[10px] font-normal uppercase tracking-[0.2em] hover:bg-black hover:text-white transition-all"
-          >
-            Discover More
-          </Link>
-        </div>
-      </section>
+        {/* Discover More Button */}
+        <section className="py-8 bg-[#fafafa]">
+          <div className="text-center">
+            <Link 
+              href="/collections/all-products"
+              className="inline-block px-8 py-2 border border-black text-black text-[10px] font-normal uppercase tracking-[0.2em] hover:bg-black hover:text-white transition-all"
+            >
+              Discover More
+            </Link>
+          </div>
+        </section>
 
-      {/* Lifestyle Image Section */}
-      <section className="relative h-screen">
-        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=1600&h=1200&fit=crop')" }}></div>
-      </section>
+        {/* Lifestyle Image Section */}
+        <section className="relative h-screen">
+          <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=1600&h=1200&fit=crop')" }}></div>
+        </section>
 
-      {/* More From Lunox Section */}
-      <section className="py-6 bg-[#fafafa]">
+        {/* More From Lunox Section */}
+        <section className="py-6 bg-[#fafafa]">
         <div className="max-w-[1600px] mx-auto px-6">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-[10px] font-semibold uppercase tracking-wider">
@@ -181,20 +183,21 @@ export default function Home() {
               ))}
             </div>
           ) : null}
-        </div>
-      </section>
+          </div>
+        </section>
 
-      {/* Discover More Button */}
-      <section className="py-8 bg-[#fafafa]">
-        <div className="text-center">
-          <Link 
-            href="/collections/all-products"
-            className="inline-block px-8 py-2 border border-black text-black text-[10px] font-normal uppercase tracking-[0.2em] hover:bg-black hover:text-white transition-all"
-          >
-            Discover More
-          </Link>
-        </div>
-      </section>
+        {/* Discover More Button */}
+        <section className="py-8 bg-[#fafafa]">
+          <div className="text-center">
+            <Link 
+              href="/collections/all-products"
+              className="inline-block px-8 py-2 border border-black text-black text-[10px] font-normal uppercase tracking-[0.2em] hover:bg-black hover:text-white transition-all"
+            >
+              Discover More
+            </Link>
+          </div>
+        </section>
+      </div>
     </div>
   )
 }
